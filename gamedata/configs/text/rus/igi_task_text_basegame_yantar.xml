@@ -3,7 +3,7 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Semenov (Ecog Honcho) Research Hunt Task -->
 
-	<string id="igi_task_text_yan_ecolog_semenov_task_1_name">
+	<string id="igi_task_text_yan_ecolog_semenov_task_1_title">
 		<text>Охотники за знаниями</text>
 	</string>
 	<string id="igi_task_text_yan_ecolog_semenov_task_1_descr">
@@ -18,7 +18,7 @@
 
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Sakharov (Ecog Trader) -->
-	<string id="igi_task_text_yan_stalker_sakharov_task_1_name">
+	<string id="igi_task_text_yan_stalker_sakharov_task_1_title">
 		<text>Научный донор</text>
 	</string>
 	<string id="igi_task_text_yan_stalker_sakharov_task_1_descr">
@@ -35,7 +35,7 @@
 	</string>
 	
 	<!-- Collect New Artefact Task -->
-	<string id="igi_task_text_yan_stalker_sakharov_task_2_name">
+	<string id="igi_task_text_yan_stalker_sakharov_task_2_title">
 		<text>Научный прогресс</text>
 	</string>
 	<string id="igi_task_text_yan_stalker_sakharov_task_2_descr">
@@ -52,7 +52,7 @@
 	</string>
 
 	<!-- Classified Information Task -->
-	<string id="igi_task_text_classified_information_task_name">
+	<string id="igi_task_text_classified_information_task_title">
 		<text>Потерянное знание</text>
 	</string>
 	<string id="igi_task_text_classified_information_task_descr">
@@ -66,21 +66,21 @@
 	</string>
 	
 	<!-- yan_stalker_sakharov -->
-	<string id="igi_task_text_yan_stalker_sakharov_psi_helmet_upgrade_name">
+	<string id="igi_task_text_yan_stalker_sakharov_psi_helmet_upgrade_title">
 		<text>Калибровка пси-шлема</text>
 	</string>
 	<string id="igi_task_text_yan_stalker_sakharov_psi_helmet_upgrade_descr">
 		<text>Профессор Сахаров согласился настроить пси-шлем. Он попросил вернуться примерно через двое суток.</text>
 	</string>
 
-	<string id="igi_task_text_brain_machine_deactivate_name">
+	<string id="igi_task_text_brain_machine_deactivate_title">
 		<text>Отключить пси-установку</text>
 	</string>
 	<string id="igi_task_text_brain_machine_deactivate_descr">
 		<text>Пси-установка своим излучением не только закрывает проход между Янтарём и Мёртвым городом, но оказывает негативное влияние на научный персонал, работающий на поверхности в опасной близости. Для её отключения требуются передовые устройства пси-защиты.</text>
 	</string>
 
- 	<string id="igi_task_text_yan_stalker_sakharov_task_4_name">
+ 	<string id="igi_task_text_yan_stalker_sakharov_task_4_title">
 		<text>В мире животных-мутантов</text>
 	</string>
 	<string id="igi_task_text_yan_stalker_sakharov_task_4_job_descr">
@@ -98,7 +98,7 @@
 	<string id="igi_task_text_recover_mutant_data_device_desc">
 		<text>Устройство с записывающим носителем, использующееся учёными для сбора данных о представителях местной фауны: их перемещение по Зоне, повадки, привычки и повседневная жизнь. Для начала работы маячка требуется его закрепление на представителе фауны. На данном устройстве наблюдаются царапины, но никаких значимых повреждений не видно.</text>
 	</string>
-	<string id="igi_task_text_recover_mutant_data_device_name">
+	<string id="igi_task_text_recover_mutant_data_device_title">
 		<text>Устройство слежения</text>
 	</string>
 </string_table>

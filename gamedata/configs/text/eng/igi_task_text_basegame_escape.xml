@@ -3,7 +3,7 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Sidorovich (Loner Trader) Eliminate Car Park Bandits Task -->
 
-	<string id="igi_task_text_esc_m_trader_task_1_name">
+	<string id="igi_task_text_esc_m_trader_task_1_title">
 		<text>Assault the Car Park</text>
 	</string>
 	<string id="igi_task_text_esc_m_trader_task_1_descr">
@@ -16,23 +16,23 @@
 		<text>Great work, stalker! You and I will be best of friends if you keep this up! Here is what I promised.</text>
 	</string>
 
-	<string id="igi_task_text_esc_m_trader_task_2_name">
+	<string id="igi_task_text_esc_m_trader_task_bs_kill_stalker_nearby_title">
 		<text>Contract Killer</text>
 	</string>
-	<string id="igi_task_text_esc_m_trader_task_2_descr">
+	<string id="igi_task_text_esc_m_trader_task_bs_kill_stalker_nearby_descr">
 		<text>I've agreed to remove a thorn from Sidorovich's side. Once I'm done, I should return for my reward.</text>
 	</string>
-	<string id="igi_task_text_esc_m_trader_task_2_job_descr">
+	<string id="igi_task_text_esc_m_trader_task_bs_kill_stalker_nearby_job_descr">
 		<text>I have a list of outstanding bounties that need taking care of. These people tend to be unwanted plotters, frauds, slanderers... many of them have even roughed up my couriers or harassed my tourists in the past. In other words, they're all bad for business.\n \nPut one of these scumbags out of my misery, won't you? I'll be happy, the Zone will be a cleaner place, and you'll be well paid. Everyone wins!</text>
 	</string>
-	<string id="igi_task_text_esc_m_trader_task_2_finish">
+	<string id="igi_task_text_esc_m_trader_task_bs_kill_stalker_nearby_finish">
 		<text>You got rid of that filthy freak? Good riddance! Here is what I promised, and let it never be said that uncle Sidorovich doesn't reward good work.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Sidorovich (Loner Trader) Decimate the Enemy Task -->
 
-	<string id="igi_task_text_esc_m_trader_task_3_name">
+	<string id="igi_task_text_esc_m_trader_task_3_title">
 		<text>Mobbing the Mob</text>
 	</string>	
 	<string id="igi_task_text_esc_m_trader_task_3_descr">
@@ -51,23 +51,23 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Wolf (Loner Honcho) -->
 	
-	<string id="igi_task_text_esc_2_12_stalker_wolf_task_1_name">
+	<string id="igi_task_text_esc_2_12_stalker_wolf_task_bs_assault_monster_online_title">
 		<text>Eliminate the Mutant Threat from Cordon</text>
 	</string>
-	<string id="igi_task_text_esc_2_12_stalker_wolf_task_1_descr">
+	<string id="igi_task_text_esc_2_12_stalker_wolf_task_bs_assault_monster_online_descr">
 		<text>I've agreed to clear out a mutant lair for Wolf, which will no doubt make life much easier for stalkers in Cordon. I'll need to return to him for payment once the job is complete.</text>
 	</string>
-	<string id="igi_task_text_esc_2_12_stalker_wolf_task_1_job_descr">
+	<string id="igi_task_text_esc_2_12_stalker_wolf_task_bs_assault_monster_online_job_descr">
 		<text>Though this is the border of the Zone, newbies have it tough even here. The bandits are only half the problem - they at least understand Russian. But the mutants - it's really tough with them. If you're an able hunter, there's a mutant lair not far from here that needs to be cleared out. If you manage to do this, I'll owe you.</text>
 	</string>
-	<string id="igi_task_text_esc_2_12_stalker_wolf_task_1_finish">
+	<string id="igi_task_text_esc_2_12_stalker_wolf_task_bs_assault_monster_online_finish">
 		<text>Thank you, stalker. Maybe the rookies around here will take this chance to learn a thing or two before becoming pig food. Ah, right. I said I'd owe you. Here's your payment.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Wolf (Loner Honcho) Stalker Search and Rescue Dynamic Task -->
 
-	<string id="igi_task_text_esc_2_12_stalker_wolf_task_2_name">
+	<string id="igi_task_text_esc_2_12_stalker_wolf_task_2_title">
 		<text>Rescue the Courier</text>
 	</string>
 	<string id="igi_task_text_esc_2_12_stalker_wolf_task_2_descr">
@@ -83,7 +83,7 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Wolf (Loner Honcho) Stalker Guide Dynamic Task -->
 
-	<string id="igi_task_text_esc_2_12_stalker_wolf_task_3_name">
+	<string id="igi_task_text_esc_2_12_stalker_wolf_task_3_title">
 		<text>Tourist Safari</text>
 	</string>
 	<string id="igi_task_text_esc_2_12_stalker_wolf_task_3_descr">
@@ -99,7 +99,7 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Nimble (Loner Trader) Find Weapon Task -->
 
-	<string id="igi_task_text_esc_2_12_stalker_nimble_task_1_name">
+	<string id="igi_task_text_esc_2_12_stalker_nimble_task_1_title">
 		<text>Find %s</text>
 	</string>
 	<string id="igi_task_text_esc_2_12_stalker_nimble_task_1_descr">
@@ -118,7 +118,7 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Nimble (Loner Trader) Retrieve PDA Dynamic Task -->
 
-	<string id="igi_task_text_esc_2_12_stalker_nimble_task_2_name">
+	<string id="igi_task_text_esc_2_12_stalker_nimble_task_2_title">
 		<text>Retrieve PDA for Nimble</text>
 	</string>
 	<string id="igi_task_text_esc_2_12_stalker_nimble_task_2_descr">
@@ -134,37 +134,34 @@
 	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
 
 <!-- (Military Trader - Southern Outpost) -->
-	<string id="igi_task_text_esc_3_16_military_trader_task_1_name">
+	<string id="igi_task_text_esc_3_16_military_trader_task_bs_fetch_patches_title">
 		<text>Cordon Crackdown</text>
 	</string>
-	<string id="igi_task_text_esc_3_16_military_trader_task_1_descr">
+	<string id="igi_task_text_esc_3_16_military_trader_task_bs_fetch_patches_descr">
 		<text>The checkpoint commander, Major Zhurov, has asked me to bring %s. It should help remind stalkers who's in charge.</text>
 	</string>
-	<string id="igi_task_text_esc_3_16_military_trader_task_1_job_descr">
+	<string id="igi_task_text_esc_3_16_military_trader_task_bs_fetch_patches_job_descr">
 		<text>The top brass has launched an unofficial program, you wanna take part? As proof, I require patches from criminals in the Zone.</text>
 	</string>
-	<string id="igi_task_text_esc_3_16_military_trader_task_1_fetch_job_descr">
-		<text>The top brass has launched an unofficial program. While we've been asked to avoid the nearby village, we need to show the locals that we're still a force to be respected and obeyed. Shoot down any illegals you find on sight, and collect their patches as proof. Once you have enough %ses, return to me for a nice bonus to your paycheck. </text>
-	</string>
-	<string id="igi_task_text_esc_3_16_military_trader_task_1_fetch_finish">
+	<string id="igi_task_text_esc_3_16_military_trader_task_bs_fetch_patches_finish">
 		<text>Your actions have gone above and beyond the call of duty. Here, take your commendation and be proud today.</text>
 	</string>
 	
 <!-- Fanatic -->
-	<string id="igi_task_text_esc_2_12_stalker_fanat_task_1_name">
+	<string id="igi_task_text_esc_2_12_stalker_fanat_task_bs_assault_monster_online_title">
 		<text>Destroy the Mutant Lair</text>
 	</string>
-	<string id="igi_task_text_esc_2_12_stalker_fanat_task_1_descr">
+	<string id="igi_task_text_esc_2_12_stalker_fanat_task_bs_assault_monster_online_descr">
 		<text>I've agreed with Fanatic to destroy a mutant lair for the sake of the stalkers in Cordon.</text>
 	</string>
-	<string id="igi_task_text_esc_2_12_stalker_fanat_task_1_job_descr">
+	<string id="igi_task_text_esc_2_12_stalker_fanat_task_bs_assault_monster_online_job_descr">
 		<text>Yeah, there's a small issue that needs sorting out. Cordon is supposed to be one of the safest places in the Zone, yet a new mutant lair has sprung up not too far from here. It needs to be cleared before it gets too large - otherwise, the rookies here will be in for a grave time. So, what do you say? Will you do it?</text>
 	</string>
-	<string id="igi_task_text_esc_2_12_stalker_fanat_task_1_finish">
+	<string id="igi_task_text_esc_2_12_stalker_fanat_task_bs_assault_monster_online_finish">
 		<text>Great work. Thanks to you, the rookies will have more room to breathe without being thrown into the deep end. Here's your payment - they all contributed a little to it. </text>
 	</string>
 
-	<string id="igi_task_text_esc_2_12_stalker_fanat_task_2_name">
+	<string id="igi_task_text_esc_2_12_stalker_fanat_task_2_title">
 		<text>Find a Battery Artefact for Fanatic</text>
 	</string>
 	<string id="igi_task_text_esc_2_12_stalker_fanat_task_2_descr">
@@ -181,7 +178,7 @@
 	<string id="igi_task_text_army_south_mechan_mlr_task_4_job_descr">
 		<text>Some jackass keeps shooting at the speaker, I have no idea if it's some stalker from the village or maybe even somebody in here. Anyway, I need some parts to repair it. Can you look for them?</text>
 	</string>
-	<string id="igi_task_text_army_south_mechan_mlr_task_4_name">
+	<string id="igi_task_text_army_south_mechan_mlr_task_4_title">
 		<text>Find the Repair Parts for Seryoga</text>
 	</string>
 	

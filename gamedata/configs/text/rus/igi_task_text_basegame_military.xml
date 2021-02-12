@@ -13,7 +13,7 @@
 <string_table>
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Lukash (Freedom Honcho) Stop Enemy Assault Task -->
-	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_1_name">
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_1_title">
 		<text>Уничтожить противника</text>
 	</string>
 	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_1_descr">
@@ -26,7 +26,7 @@
 		<text>Выполнил? Замечательно, приятель. Огромная тебе благодарность.</text>
 	</string>
 
-	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_name">
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_title">
 		<text>Отвоевать территорию</text>
 	</string>
 	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_descr">
@@ -40,7 +40,7 @@
 		<text>Сделал? Найс, мэн. Выручил так выручил. Так им, этим полицаям несчастным!</text>
 	</string>
 
-	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_3_name">
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_3_title">
 		<text>Милосердное убийство</text>
 	</string>
 	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_3_descr">
@@ -55,7 +55,7 @@
 
 
 	<!-- ASSASSINATE DUTY FOR FREEDOM TASK -->
-	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_4_name">
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_4_title">
 		<text>Смерть предателям</text>
 	</string>
 	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_4_descr">
@@ -70,7 +70,7 @@
 
 
 	<!-- FIND WEAPON FOR FREEDOM TASK -->
-	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_5_name">
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_5_title">
 		<text>Свободный оборот оружия</text>
 	</string>
 	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_5_descr">
@@ -88,19 +88,16 @@
 	</string>
 	
 	<!-- Lukash (Freedom Honcho) Decimate the Enemy Task -->
-	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_6_name">
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_bs_fetch_patches_title">
 		<text>Ковбой</text>
 	</string>
-	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_6_descr">
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_bs_fetch_patches_descr">
 		<text>На «Свободу» напирают чуть ли не со всех флангов. Лукаша такое положение дел явно не устраивает, поэтому он хочет продемонстрировать, из чего сделаны «свободные люди». А «%s» сойдёт в качестве прямого доказательства проделанной работы.</text>
 	</string>
-	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_6_job_descr">
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_bs_fetch_patches_job_descr">
 		<text>Мы сейчас словно между молотом и наковальней: фанатики с севера, фанатики с юга, а бонусом ещё идут и зольды. Как насчёт того, чтобы показать наше отношение к правилам и всей этой военизированной шушере?</text>
 	</string>
-	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_6_fetch_job_descr">
-		<text>Мы сейчас словно между молотом и наковальней: фанатики с севера, фанатики с юга, а бонусом ещё идут и зольды. Как насчёт того, чтобы показать наше отношение к правилам и всей этой военизированной шушере? Притарань мне такого дела: «%s».</text>
-	</string>
-	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_6_fetch_finish">
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_bs_fetch_patches_fetch_finish">
 		<text>Вот, держи. Спасибо, мужик.</text>
 	</string>
 	
@@ -113,7 +110,7 @@
 	</string>
 
 	<!-- Lukash (Freedom Honcho) Rescue the Freedom Agent Task -->
-	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_8_name">
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_8_title">
 		<text>Свобода в неволе</text>
 	</string>
 	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_8_descr">
@@ -133,7 +130,7 @@
 	</string>
 
 
-	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_9_name">
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_9_title">
 		<text>Страйкер</text>
 	</string>
 	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_9_descr">
@@ -146,7 +143,7 @@
 	<!-- Skinflint (Freedom Mechanic) -->
 	
 	<!-- FIND MUTANT MEAT FOR FREEDOM TASK -->
-	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_1_name">
+	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_1_title">
 		<text>Охота на дичь</text>
 	</string>
 	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_1_descr">
@@ -167,7 +164,7 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Skinflint (Freedom Mechanic) Deliver Equipment Dynamic Task -->
 
-	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_2_name">
+	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_2_title">
 		<text>Совершенно легальная работа</text>
 	</string>
 	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_2_descr">
@@ -184,7 +181,7 @@
 
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Skinflint (Freedom Trader) Night Terror Task -->
-	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_3_name">
+	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_3_title">
 		<text>Вечера на хуторе</text>
 	</string>
 	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_3_descr">
@@ -200,7 +197,7 @@
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Skinflint (Freedom Trader) Scarce Supplies Task -->
-	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_4_name">
+	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_4_title">
 		<text>Дефицит припасов</text>
 	</string>
 	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_4_descr">
@@ -218,7 +215,7 @@
 	</string>
 
 
-	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_5_name">
+	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_5_title">
 		<text>В Рыжий лес по артефакты</text>
 	</string>
 	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_5_job_descr">
@@ -226,7 +223,7 @@
 	</string>
 	
 	<!-- Solid (Freedom Medic) -->
-	<string id="igi_task_text_mil_freedom_medic_task_1_name">
+	<string id="igi_task_text_mil_freedom_medic_task_1_title">
 		<text>Все травы одного цвета</text>
 	</string>
 	<string id="igi_task_text_mil_freedom_medic_task_1_descr">

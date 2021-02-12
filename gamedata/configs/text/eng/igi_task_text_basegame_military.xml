@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="windows-1251"?>
 
-<!--===========================================================
-<
-< TEXT  STRINGS FOR TASKS ON MILITARY WAREHOUSES MAP
-<	CoC 1.4.08 - DoctorX Questlines 1.6
-<
-<	Modified by: DoctorX
-<	Last revised: October 07, 2016
-<
-<===========================================================-->
-
 <string_table>
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Lukash (Freedom Honcho) Stop Enemy Assault Task -->
-	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_1_name">
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_1_title">
 		<text>Destroy the Enemy Detachment</text>
 	</string>
 	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_1_descr">
@@ -26,7 +16,7 @@
 		<text>Ah, great! Maybe now we'll get some goddamn peace and quiet around here, eh?</text>
 	</string>
 
-	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_name">
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_title">
 		<text>Raid the Enemy</text>
 	</string>
 	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_descr">
@@ -39,7 +29,7 @@
 		<text>Ha! You actually did it, you mad man! Here, you've earned this, along with my respect.</text>
 	</string>
 
-	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_3_name">
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_3_title">
 		<text>Eliminate the Monolith Convert</text>
 	</string>
 	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_3_descr">
@@ -54,7 +44,7 @@
 
 
 	<!-- ASSASSINATE DUTY FOR FREEDOM TASK -->
-	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_4_name">
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_4_title">
 		<text>Deal with the Problematic Stalker</text>
 	</string>
 	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_4_descr">
@@ -69,7 +59,7 @@
 
 
 	<!-- FIND WEAPON FOR FREEDOM TASK -->
-	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_5_name">
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_5_title">
 		<text>Bring Lukash a Reliable %s</text>
 	</string>
 	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_5_descr">
@@ -86,19 +76,16 @@
 	</string>
 	
 	<!-- Lukash (Freedom Honcho) Decimate the Enemy Task -->
-	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_6_name">
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_bs_fetch_patches_title">
 		<text>Trigger Happy</text>
 	</string>
-	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_6_descr">
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_bs_fetch_patches_descr">
 		<text>Lukash is promoting aggression against some of Freedom's enemies. I can bring %s to him for a sweet bounty.</text>
 	</string>
-	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_6_job_descr">
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_bs_fetch_patches_job_descr">
 		<text>Well, right now, we're stuck in a hammer and anvil situation. Y'know, zealots to the north, extremists to the south, and sprinkle in some military goons for good measure. How about you explain to them what we think of their edicts and commands the old-fashioned way? There'll be a sweet reward at the end for you, don't worry.</text>
 	</string>
-	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_6_fetch_job_descr">
-		<text>Well, right now, we're stuck in a hammer and anvil situation. Y'know, zealots to the north, extremists to the south, and sprinkle in some military goons for good measure. How about you explain to them what we think of their edicts and commands the old-fashioned way? After you've finished humiliating them, bring me %ses as trophies. There'll be a sweet reward at the end for you, don't worry.</text>
-	</string>
-	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_6_fetch_finish">
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_bs_fetch_patches_finish">
 		<text>Hey, nice job, man. Here's your money.</text>
 	</string>
 	
@@ -111,7 +98,7 @@
 	</string>
 
 	<!-- Lukash (Freedom Honcho) Rescue the Freedom Agent Task -->
-	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_8_name">
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_8_title">
 		<text>Zoneraker</text>
 	</string>
 	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_8_descr">
@@ -131,7 +118,7 @@
 	</string>
 	
 	
-	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_9_name">
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_9_title">
 		<text>Why We Can't Have Nice Things</text>
 	</string>
 	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_9_descr">
@@ -145,7 +132,7 @@
 	<!-- Skinflint (Freedom Mechanic) -->
 	
 	<!-- FIND MUTANT MEAT FOR FREEDOM TASK -->
-	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_1_name">
+	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_1_title">
 		<text>Bring Wild Game for Freedom</text>
 	</string>
 	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_1_descr">
@@ -164,7 +151,7 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Skinflint (Freedom Mechanic) Deliver Equipment Dynamic Task -->
 
-	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_2_name">
+	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_2_title">
 		<text>Deliver Locked Case to Skinflint</text>
 	</string>
 	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_2_descr">
@@ -179,7 +166,7 @@
 
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Skinflint (Freedom Trader) Night Terror Task -->
-	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_3_name">
+	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_3_title">
 		<text>Phantoms in the Dark</text>
 	</string>
 	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_3_descr">
@@ -194,7 +181,7 @@
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Skinflint (Freedom Trader) Scarce Supplies Task -->
-	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_4_name">
+	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_4_title">
 		<text>Scarce Supplies</text>
 	</string>
 	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_4_descr">
@@ -211,7 +198,7 @@
 	</string>
 	
 	
-	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_5_name">
+	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_5_title">
 		<text>Amass Artefact Hunting Equipment</text>
 	</string>
 	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_5_job_descr">
@@ -219,7 +206,7 @@
 	</string>
 		
 	<!-- Solid (Freedom Medic) -->
-	<string id="igi_task_text_mil_freedom_medic_task_1_name">
+	<string id="igi_task_text_mil_freedom_medic_task_1_title">
 		<text>Find %s for Solid</text>
 	</string>
 	<string id="igi_task_text_mil_freedom_medic_task_1_descr">

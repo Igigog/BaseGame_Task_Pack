@@ -1,37 +1,24 @@
 <?xml version="1.0" encoding="windows-1251"?>
-
-<!--===========================================================
-<
-< TEXT  STRINGS FOR TASKS ON MARSH (SWAMPS) MAP
-<	CoC 1.4.10 - DoctorX Questlines 1.6
-<
-<	Modified by: DoctorX
-<	Last revised: October 14, 2016
-<
-<===========================================================-->
 <string_table>
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Cold (Clear Sky Honcho) Decimate the Enemy Task -->
 	
-	<string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_task_1_name">
+	<string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_task_bs_fetch_patches_title">
 		<text>Очистка болот</text>
 	</string>	
-	<string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_task_1_descr">
+	<string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_task_bs_fetch_patches_descr">
 		<text>Всё неладно на Болотах, где расположилось «Чистое небо»:\nВдобавок к бандитам и ренегатам, желающих выбить сталкеров из этого места, присоединились ещё и военные, которые ведь ещё недавно помогали вытеснять бандитское отродье. В итоге ребята попросту оказались в самом пекле.\n \nХолод решил взять инициативу в свои руки и попросил проредить ряды злопыхателей на Болотах, а заодно и поспособствовать в их последующей деморализации. Для этого дела понадобится «%s».</text>
 	</string>		
-	<string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_task_1_job_descr">
+	<string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_task_bs_fetch_patches_job_descr">
 		<text>Поначалу мы были, считай, рады появлению вояк, ведь они помогали нам избавляться от бандитов и добивать ренегатов. Однако позже дело приняло крутой оборот, и теперь вояки установили контроль над несколькими ключевыми точками в северной части болот. Теперь их патрули шугают не только всяких архаровцев, но и нашего брата. И теперь мы меж двух огней - военные и здешнее отребье, и каждый из них хочет свой лакомый кусочек пирога. Покажи им, из чего мы сделаны, хорошо?</text>
 	</string>		
-	<string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_task_1_fetch_job_descr">
-		<text>Поначалу мы были, считай, рады появлению вояк, ведь они помогали нам избавляться от бандитов и добивать ренегатов. Однако позже дело приняло крутой оборот, и теперь вояки установили контроль над несколькими ключевыми точками в северной части болот. Теперь их патрули шугают не только всяких архаровцев, но и нашего брата. И теперь мы меж двух огней - военные и здешнее отребье, и каждый из них хочет свой лакомый кусочек пирога. Покажи им, из чего мы сделаны, хорошо? Мне от тебя потребуется «%s» в качестве доказательства.</text>
-	</string>	
-	<string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_task_1_fetch_finish">
+	<string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_task_bs_fetch_patches_finish">
 		<text>Вот он - наш профессиональный разрешатель проблем, ха. Надеюсь, впредь они подумают дважды, чем сунуть сюда свой наглый нос. Вот твоя награда.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Cold (Clear Sky Honcho) Night Terror Task -->
-	<string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_task_2_name">
+	<string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_task_2_title">
 		<text>У ночи тысяча глаз... или щупалец</text>
 	</string>
 	<string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_task_2_descr">
@@ -57,7 +44,7 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Kalancha (Clear Sky Medic) Lost to the Zone Tasks -->
 	
-	<string id="igi_task_text_mar_smart_terrain_base_doctor_task_1_name">
+	<string id="igi_task_text_mar_smart_terrain_base_doctor_task_1_title">
 		<text>Неестественный отбор</text>
 	</string>	
 	<string id="igi_task_text_mar_smart_terrain_base_doctor_task_1_descr">
@@ -73,7 +60,7 @@
 		<text>Превосходно! Образцы в отличном состоянии! Спасибо Вам большое. А теперь я, пожалуй, вернусь к своим исследованиям.</text>
 	</string>
 	
-	<string id="igi_task_text_mar_smart_terrain_base_doctor_task_2_name">
+	<string id="igi_task_text_mar_smart_terrain_base_doctor_task_2_title">
 		<text>Научный прогресс</text>
 	</string>	
 	<string id="igi_task_text_mar_smart_terrain_base_doctor_task_2_descr">
@@ -89,7 +76,7 @@
 		<text>Даже после стольких лет они не перестают меня удивлять! Какой замечательный образец! Благодарю Вас за неоценимую помощь науке.</text>
 	</string>
 	
-	<string id="igi_task_text_mar_smart_terrain_base_doctor_task_3_name">
+	<string id="igi_task_text_mar_smart_terrain_base_doctor_task_3_title">
 		<text>Дефицит припасов</text>
 	</string>
 	<string id="igi_task_text_mar_smart_terrain_base_doctor_task_3_descr">
@@ -105,7 +92,7 @@
 		<text>Большое спасибо. Мы перед вами в неоплачиваемом долгу.</text>
 	</string>
 	
-	<string id="igi_task_text_mar_smart_terrain_base_doctor_task_5_name">
+	<string id="igi_task_text_mar_smart_terrain_base_doctor_task_5_title">
 		<text>Народно-научная медицина</text>
 	</string>
 	<string id="igi_task_text_mar_smart_terrain_base_doctor_task_5_descr">
@@ -124,7 +111,7 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Spore (Clear Sky Trader) Deliver PDA Task -->
 
-	<string id="igi_task_text_mar_base_owl_stalker_trader_task_1_name">
+	<string id="igi_task_text_mar_base_owl_stalker_trader_task_1_title">
 		<text>Доставить КПК Шустрому на «Скадовск»</text>
 	</string>
 	<string id="igi_task_text_mar_base_owl_stalker_trader_task_1_descr">
@@ -135,7 +122,7 @@
 	</string>
 
 	<!-- DESTROY HELICOPTER FOR SPORE TASK -->
-	<string id="igi_task_text_mar_base_owl_stalker_trader_task_2_name">
+	<string id="igi_task_text_mar_base_owl_stalker_trader_task_2_title">
 		<text>Нелётная погода</text>
 	</string>
 	<string id="igi_task_text_mar_base_owl_stalker_trader_task_2_descr">
@@ -146,7 +133,7 @@
 	</string>
 
 	<!-- ESCORT SCIENTISTS FOR CLEAR SKY TASK -->
-	<string id="igi_task_text_mar_base_owl_stalker_trader_task_3_name">
+	<string id="igi_task_text_mar_base_owl_stalker_trader_task_3_title">
 		<text>Идти в науку - значит терпеть муку</text>
 	</string>
 	<string id="igi_task_text_mar_base_owl_stalker_trader_task_3_descr">
@@ -160,21 +147,21 @@
 	</string>
 
 	<!-- HUNT MUTANTS FOR CLEAR SKY TASK -->
-	<string id="igi_task_text_mar_base_stalker_barmen_task_1_name">
+	<string id="igi_task_text_mar_base_stalker_barmen_task_bs_assault_monster_online_title">
 		<text>Популяционный контроль</text>
 	</string>
-	<string id="igi_task_text_mar_base_stalker_barmen_task_1_descr">
+	<string id="igi_task_text_mar_base_stalker_barmen_task_bs_assault_monster_online_descr">
 		<text>В этом месте было обнаружено скопление мутантов, представляющих опасность для местных сталкеров.\n \nНеобходимо зачистить местность и вернуться к Библиотекарю за наградой.</text>
 	</string>
-	<string id="igi_task_text_mar_base_stalker_barmen_task_1_job_descr">
+	<string id="igi_task_text_mar_base_stalker_barmen_task_bs_assault_monster_online_job_descr">
 		<text>Ты охотой не увлекаешься? Тут на днях, около одной важной для нас точки, мутанты устроили логово, так что было бы неплохо, если бы кто-нибудь их пострелял. Возьмёшься?</text>
 	</string>
-	<string id="igi_task_text_mar_base_stalker_barmen_task_1_finish">
+	<string id="igi_task_text_mar_base_stalker_barmen_task_bs_assault_monster_online_finish">
 		<text>Великолепно! Держи деньги. Теперь на Болотах станет немного спокойнее. Спасибо, сталкер.</text>
 	</string>
 
 	<!-- ASSAULT BANDIT CAMP FOR CLEAR SKY TASK -->
-	<string id="igi_task_text_mar_base_stalker_barmen_task_2_name">
+	<string id="igi_task_text_mar_base_stalker_barmen_task_2_title">
 		<text>Болотная война</text>
 	</string>
 	<string id="igi_task_text_mar_base_stalker_barmen_task_2_descr">
@@ -188,7 +175,7 @@
 	</string>
 
 	<!-- FIND MUTANT MEAT FOR CLEAR SKY TASK -->
-	<string id="igi_task_text_mar_base_stalker_barmen_task_3_name">
+	<string id="igi_task_text_mar_base_stalker_barmen_task_3_title">
 		<text>Любишь охоту - ходи и по болоту</text>
 	</string>
 	<string id="igi_task_text_mar_base_stalker_barmen_task_3_descr">

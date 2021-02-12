@@ -13,27 +13,23 @@
 <string_table>
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Eidolon (Elite Monolith Soldier) Purge the Infidels Task -->
-	<string id="igi_task_text_monolith_eidolon_task_1_name">
+	<string id="igi_task_text_monolith_eidolon_task_bs_fetch_patches_title">
 		<text>Каратель неверных</text>
 	</string>
-	<string id="igi_task_text_monolith_eidolon_task_1_descr">
+	<string id="igi_task_text_monolith_eidolon_task_bs_fetch_patches_descr">
 		<text>«%s» получить желает хранитель Фантом. Неверным знак господства будет дан. И я буду его посланником.</text>
 	</string>
-	<string id="igi_task_text_monolith_eidolon_task_1_job_descr">
+	<string id="igi_task_text_monolith_eidolon_task_bs_fetch_patches_job_descr">
 		<text>Мы в осаде.\nНеверные хотят использовать всемогущий Монолит.\nДвижимые алчностью.\nНевежеством.\nНизменными желаниями.\nОт имени Монолита.\nМы действуем как стражи.\nУничтожаем неверных.\nСобираем их знаки отличия.\nКак трофеи.\nПризнак неоспоримого господства.\nВперёд, мой брат.\nУничтожь их всех!</text>
 	</string>
-	<string id="igi_task_text_monolith_eidolon_task_1_fetch_job_descr">
-		<text>Мы в осаде.\nНеверные хотят использовать всемогущий Монолит.\nДвижимые алчностью.\nНевежеством.\nНизменными желаниями.\nОт имени Монолита.\nМы действуем как стражи.\nУничтожаем неверных.\nСобираем их знаки отличия.\nКак трофеи.\nПризнак неоспоримого господства.\nВперёд, мой брат.\nУничтожь их всех!\n
-		\n«%s» добыть в походе очищения тебе надлежит.</text>
-	</string>
-	<string id="igi_task_text_monolith_eidolon_task_1_fetch_finish">
+	<string id="igi_task_text_monolith_eidolon_task_bs_fetch_patches_finish">
 		<text>Какая преданность.\nНашей великолепной цели.\nТакая преданность будет вознаграждена.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Eidolon (Elite Monolith Soldier) Hunt the Mutants Task -->
 	
-	<string id="igi_task_text_monolith_eidolon_task_2_name">
+	<string id="igi_task_text_monolith_eidolon_task_2_title">
 		<text>Великая охота</text>
 	</string>	
 	<string id="igi_task_text_monolith_eidolon_task_2_descr">
@@ -53,7 +49,7 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Eidolon (Elite Monolith Soldier) Harvest the Fruit Task -->
 
-	<string id="igi_task_text_monolith_eidolon_task_3_name">
+	<string id="igi_task_text_monolith_eidolon_task_3_title">
 		<text>Пожинатель плодов</text>
 	</string>
 	<string id="igi_task_text_monolith_eidolon_task_3_descr">
@@ -73,7 +69,7 @@
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Eidolon (Elite Monolith Soldier) Keeper of Secrets Task -->
-	<string id="igi_task_text_monolith_eidolon_task_4_name">
+	<string id="igi_task_text_monolith_eidolon_task_4_title">
 		<text>Хранитель секретов</text>
 	</string>
 	<string id="igi_task_text_monolith_eidolon_task_4_descr">
@@ -89,38 +85,38 @@
 
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Rabbit (Monolith Trader) Assault Territory Task -->
-	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_1_name">
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_bs_assault_stalker_online_title">
 		<text>Во имя Монолита</text>
 	</string>
-	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_1_descr">
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_bs_assault_stalker_online_descr">
 		<text>Неверные свой продолжают поход, лжи и слепой ненависти преисполненный. Не дано познать Его правду им, ибо знать они не хотят правды. Тому быть стало - сразить невежество их предстоит мечом праведным. </text>
 	</string>
-	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_1_job_descr">
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_bs_assault_stalker_online_job_descr">
 		<text>Миссия важна есть для тебя, брат, у меня. Уничтожить должен ты неверных лагерь, чтобы братья могли наши в этом месте закрепиться. Готов ли очищение нести?</text>
 	</string>
-	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_1_finish">
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_bs_assault_stalker_online_finish">
 		<text>Ценит Монолит хорошую работу твою.</text>
 	</string>
 
 
 
 	<!-- ASSASSINATION FOR MONOLITH TASK -->
-	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_2_name">
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_bs_kill_stalker_nearby_title">
 		<text>Каждый будет прощён от грехов</text>
 	</string>
-	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_2_descr">
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_bs_kill_stalker_nearby_descr">
 		<text>Желаний отключить «Подавитель» неверный преисполнен. Не хотят правду принять жалкие трусы, они отторгают лишь знания, что Великий им ниспосылает. Не быть тут приговору иначе - жаждет утолить эту священную землю Монолит кровью невежества.</text>
 	</string>
-	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_2_job_descr">
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_bs_kill_stalker_nearby_job_descr">
 		<text>Брат, ты слышал, что неверных несколько подобрались к антеннам недавно? Отключить хотели «Подавитель» они. Монолит направил нас, и вовремя их заметили братья. Теперь очищены черви ото лжи и ненависти своей к правде. Мудр Монолит и всеведущ. Я узнал ещё об одном черве недавно, что жаждет «Подавить» отключить. Окропить землю священную кровью неверного тебе предстоит.</text>
 	</string>
-	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_2_finish">
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_bs_kill_stalker_nearby_finish">
 		<text>Ты всё хорошо сделал. Гордятся тобой братья. Ниспосылает свой дар Монолит.</text>
 	</string>
 
 
 	<!-- FIND WEAPON FOR MONOLITH TASK -->
-	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_3_name">
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_3_title">
 		<text>Вера движет оружием</text>
 	</string>
 	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_3_descr">
@@ -140,7 +136,7 @@
 
 
 	<!-- FIND MUTANT MEAT FOR MONOLITH TASK -->
-	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_4_name">
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_4_title">
 		<text>Славная охота</text>
 	</string>
 	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_4_descr">
@@ -160,7 +156,7 @@
 
 
 	<!-- FIND SUPPLIES FOR MONOLITH TASK -->
-	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_5_name">
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_5_title">
 		<text>Найти «%s» для Кролика</text>
 	</string>
 	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_5_descr">
@@ -179,7 +175,7 @@
 
 
 	<!-- FIND ARTEFACT FOR MONOLITH TASK -->
-	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_6_name">
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_6_title">
 		<text>Подношений дары</text>
 	</string>
 	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_6_descr">
@@ -196,7 +192,7 @@
 		<text>Ты хорошо служишь Монолиту. К братьям сегодня в святилище присоединяйся, ибо пение там будет.</text>
 	</string>
 	
-	<string id="igi_task_text_lider_monolith_haron_task_1_name">
+	<string id="igi_task_text_lider_monolith_haron_task_1_title">
 		<text>Инсултанс виктор</text>
 	</string>
 	<string id="igi_task_text_lider_monolith_haron_task_1_descr">
@@ -209,43 +205,36 @@
 		<text>Славный поход очищения, брат. Вот, Монолит ниспослал благодарность свою.</text>
 	</string>
 
-	<string id="igi_task_text_lider_monolith_haron_task_2_name">
+	<string id="igi_task_text_lider_monolith_haron_task_bs_fetch_patches_title">
 		<text>Сила проповеди</text>
 	</string>
-	<string id="igi_task_text_lider_monolith_haron_task_2_descr">
+	<string id="igi_task_text_lider_monolith_haron_task_bs_fetch_patches_descr">
 		<text>«%s» желает получить хранитель Харон. Это воодушевит братьев выпускать пламя очищения ещё сильнее.</text>
 	</string>
-	<string id="igi_task_text_lider_monolith_haron_task_2_job_descr">
+	<string id="igi_task_text_lider_monolith_haron_task_bs_fetch_patches_job_descr">
 		<text>Противятся черви Его воле и разить братьев наших продолжают. Великий Монолит наградить всех братьев обещал, если преуспеют они в деле очищения нашей святой земли от неверных. Принеси мне то, что братьев воодушевит в священный поход, и мы заслужим Его милосердие.</text>
 	</string>
-	<string id="igi_task_text_lider_monolith_haron_task_2_fetch_job_descr">
-		<text>Противятся черви Его воле и разить братьев наших продолжают. Великий Монолит наградить всех братьев обещал, если преуспеют они в деле очищения нашей святой земли от неверных. Принеси мне то, что братьев воодушевит в священный поход, и мы заслужим Его милосердие.</text>
-	</string>
-	<string id="igi_task_text_lider_monolith_haron_task_2_fetch_finish">
+	<string id="igi_task_text_lider_monolith_haron_task_bs_fetch_patches_finish">
 		<text>Слава Монолиту, брат. Вот твой дар.</text>
 	</string>
 	
 <!-- Griffith -->
-	<string id="igi_task_text_merc_pri_grifon_mlr_task_1_name">
+	<string id="igi_task_text_merc_pri_grifon_mlr_task_bs_fetch_patches_title">
 		<text>Лицензия на убийство</text>
 	</string>
 	<string id="igi_task_text_merc_pri_grifon_mlr_task_1_descr">
 		<text>Припять просто кишит силами «Монолита», и группе Грифона приходится изо всех сил держать их подальше от своего лагеря.\n
 		\nНеобходимо сократить численность фанатиков на квадратный метр, а «%s» потребуется Грифону в качестве доказательства.</text>
 	</string>
-	<string id="igi_task_text_merc_pri_grifon_mlr_task_1_job_descr">
+	<string id="igi_task_text_merc_pri_grifon_mlr_task_bs_fetch_patches_job_descr">
 		<text>Монохромным ублюдкам просто числа нет. Не мог бы ты сократить их поголовье? А я дам тебе кое-что, с чем тебе будет это делать намного проще.\n
 		\nСорви для меня 20 нашивок этих ублюдков и принеси в качестве доказательства.</text>
 	</string>
-	<string id="igi_task_text_merc_pri_grifon_mlr_task_1_fetch_job_descr">
-		<text>Монохромным ублюдкам просто числа нет. Не мог бы ты сократить их поголовье? А я дам тебе кое-что, с чем тебе будет это делать намного проще.\n
-		\nСорви для меня 20 нашивок этих ублюдков и принеси в качестве доказательства.</text>
-	</string>
-	<string id="igi_task_text_merc_pri_grifon_mlr_task_1_fetch_finish">
+	<string id="igi_task_text_merc_pri_grifon_mlr_task_bs_fetch_patches_finish">
 		<text>Спасибо, сталкер. Вот твоя награда:</text>
 	</string>
 	
-	<string id="igi_task_text_merc_pri_grifon_mlr_task_2_name">
+	<string id="igi_task_text_merc_pri_grifon_mlr_task_2_title">
 		<text>«Душа» компании</text>
 	</string>
 	<string id="igi_task_text_merc_pri_grifon_mlr_task_2_descr">
@@ -259,7 +248,7 @@
 		<text>Спасибо, бойцы будут тебе благодарны.</text>
 	</string>
 
-	<string id="igi_task_text_merc_pri_grifon_mlr_task_3_name">
+	<string id="igi_task_text_merc_pri_grifon_mlr_task_3_title">
 		<text>Товара больше нет в наличии</text>
 	</string>
 	<string id="igi_task_text_merc_pri_grifon_mlr_task_3_descr">

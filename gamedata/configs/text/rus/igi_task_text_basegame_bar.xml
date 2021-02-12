@@ -14,26 +14,23 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Voronin (Duty Honcho) Decimate the Enemy Task -->
 	
-	<string id="igi_task_text_bar_dolg_leader_task_1_name">
+	<string id="igi_task_text_bar_dolg_leader_task_bs_fetch_patches_title">
 		<text>Между молотом и наковальней</text>
 	</string>	
-	<string id="igi_task_text_bar_dolg_leader_task_1_descr">
+	<string id="igi_task_text_bar_dolg_leader_task_bs_fetch_patches_descr">
 		<text>Генерал Воронин хочет проредить вражеские ряды и заодно наглядно продемонстрировать всем остальным, что бывает, когда на «Долг» или беззащитных сталкеров нападают исподтишка.\n \n «%s» сойдёт в качестве доказательств, которые необходимо предоставить Воронину.</text>
 	</string>		
-	<string id="igi_task_text_bar_dolg_leader_task_1_job_descr">
+	<string id="igi_task_text_bar_dolg_leader_task_bs_fetch_patches_job_descr">
 		<text>Послушай, парень, мы стремимся уничтожить Зону, но при этом и не поворачиваемся спиной к простым сталкерам, когда на них покушается всякое отребье... И нашим желанием защитить беззащитных сталкеров не преминут воспользоваться и наши враги. Поганые преступники, анархисты и фанатики, движимые алчностью, невежеством или ложью...\nХоть Зона и остаётся нашей главной угрозой, и мы не хотим разжигать крупномасштабный конфликт, продемонстрируй-ка нашим врагам, какая расплата их ждёт за их трусливые нападения.</text>
 	</string>		
-	<string id="igi_task_text_bar_dolg_leader_task_1_fetch_job_descr">
-		<text>Послушай, парень, мы стремимся уничтожить Зону, но при этом и не поворачиваемся спиной к простым сталкерам, когда на них покушается всякое отребье... И нашим желанием защитить беззащитных сталкеров не преминут воспользоваться и наши враги. Поганые преступники, анархисты и фанатики, движимые алчностью, невежеством или ложью...\nХоть Зона и остаётся нашей главной угрозой, и мы не хотим разжигать крупномасштабный конфликт, продемонстрируй-ка нашим врагам, какая расплата их ждёт за их трусливые нападения. Ликвидируй их. «%s» сойдёт в качестве доказательств.</text>
-	</string>	
-	<string id="igi_task_text_bar_dolg_leader_task_1_fetch_finish">
+	<string id="igi_task_text_bar_dolg_leader_task_bs_fetch_patches_finish">
 		<text>Великолепная работа. Защита мира и людей от Зоны и погани - наша общая цель.\n \nОстальным же трусам это послужит уроком. Ну, а если нет, то, как говорится, повторение - мать учения.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Voronin (Duty Honcho) Night Terror Task -->
 	
-	<string id="igi_task_text_bar_dolg_leader_task_2_name">
+	<string id="igi_task_text_bar_dolg_leader_task_2_title">
 		<text>Дух мщения</text>
 	</string>
 	<string id="igi_task_text_bar_dolg_leader_task_2_descr">
@@ -55,7 +52,7 @@
 	</string>
 	
 	<!-- Voronin (Duty Honcho) From Ukraine With Love Task -->
-	<string id="igi_task_text_bar_dolg_leader_task_4_name">
+	<string id="igi_task_text_bar_dolg_leader_task_4_title">
 		<text>Свой среди чужих</text>
 	</string>
 	<string id="igi_task_text_bar_dolg_leader_task_4_descr">
@@ -76,20 +73,20 @@
 	
 	<!-- Petrenko (Duty Trader) Defend Rostok Task -->
 	
-	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_1_name">
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_bs_assault_stalker_online_title">
 		<text>Со щитом или на щите</text>
 	</string>
-	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_1_descr">
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_bs_assault_stalker_online_descr">
 		<text>В штаб «Долга» поступили разведданные о приближающихся силах противника к Ростку. Долговцы уже заняли оборонительные позиции, однако полковник Петренко не желает рисковать людьми в случае возможной мясорубки, если врагу вдруг удастся вызвать подкрепления. Именно по этой причине он попросил перехватить и уничтожить силы врага до того, как они доберутся до Ростка.</text>
 	</string>
-	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_1_job_descr">
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_bs_assault_stalker_online_job_descr">
 		<text>По недавно пришедшим разведданным стало ясно, что вражеские силы приближаются к нашим позициям. Это даёт нам некоторое преимущество. Ребята уже заняли позиции, но я хочу убедиться, что противник не запросит подкреплений. Так что ты мне будешь нужен для превентивного удара. Медлить нельзя, так что постарайся сделать так, чтобы хлопцы эти где-нибудь «потерялись» по пути сюда. Устроишь?</text>
 	</string>
-	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_1_finish">
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_bs_assault_stalker_online_finish">
 		<text>Отлично сработано, боец. Надеюсь, у остальных идиотов есть инстинкт самосохранения, чтобы не лезть к нам в ближайшем будущем...</text>
 	</string>
 
-	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_2_name">
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_2_title">
 		<text>Клин клином вышибают</text>
 	</string>
 	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_2_descr">
@@ -102,20 +99,20 @@
 		<text>Задание выполнено? Ух! Отличная работа! По сусалам они, понимаешь, надают. Как же, ага...</text>
 	</string>
 
-	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_3_name">
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_bs_kill_stalker_nearby_title">
 		<text>Приказано уничтожить</text>
 	</string>
-	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_3_descr">
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_bs_kill_stalker_nearby_descr">
 		<text>Врагов у «Долга» предостаточно. Их, пожалуй, даже и искать не надо - одна Зона и мутанты с монолитовцами чего только стоят!\nТем не менее, враги у долговцев есть и по идеологии...\nУ Петренко для этого дела, оказывается, даже и список есть. Он поручил найти и устранить цель из этого самого списка.</text>
 	</string>
-	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_3_job_descr">
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_bs_kill_stalker_nearby_job_descr">
 		<text>У меня есть список очень важных лиц, о которых нужно позаботиться. В основном, это отъявленные преступники, стукачи, насильники или простая шпана, которая узнала лишнее. Но есть и лидеры отрядов, и даже высокопоставленные лица «Свободы». Выуди из них всю информацию, какую сможешь, а потом прикончи.</text>
 	</string>
-	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_3_finish">
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_bs_kill_stalker_nearby_finish">
 		<text>Отлично! Вот обещанная награда.</text>
 	</string>
 	
-	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_4_name">
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_bs_assault_monster_online_title">
 		<text>У всякой охоты свои заботы</text>
 	</string>
 	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_4_descr">
@@ -132,7 +129,7 @@
 	</string>
 	
 	<!-- Barkeep -->
-	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_1_name">
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_1_title">
 		<text>Деловое предложение</text>
 	</string>
 	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_1_descr">
@@ -148,36 +145,36 @@
 		<text>Молодец, дружище. А вот и твои премиальные.</text>
 	</string>
 	
-	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_2_name">
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_bs_kill_stalker_nearby_title">
 		<text>Грязная работа</text>
 	</string>
-	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_2_descr">
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_bs_kill_stalker_nearby_descr">
 		<text>Бармен подкинул грязную халтурку - надо найти и устранить одного сталкера, который умудрился кому-то там насолить.\n \nВсю необходимую информацию Бармен предоставил на КПК. Пора браться за дело. Вот ведь не повезло бедняге...</text>
 	</string>
-	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_2_job_descr">
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_bs_kill_stalker_nearby_job_descr">
 		<text>Бывает, что «Долг» и рядовые сталкеры ко мне обращаются, когда им кто-то либо не угодил, либо очень насолил, а я, в свою очередь, ищу согласных для помощи в этом их нелёгком деле, чтобы у конкретных личностей не было потом проблем. Считай, что я посредник.\nУ меня сейчас как раз в процессе несколько целей на ликвидацию. Обычно это какой-нибудь сталкер, предавший или заказавший своих друзей, но бывает ещё, что и чисто заказные убийства лиц других группировок имеются. Работа грязная, но кто-то же должен её делать, особенно если награда того стоит, верно? Ну так что, берёшься? Необходимую информацию скину на КПК.</text>
 	</string>
-	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_2_finish">
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_bs_kill_stalker_nearby_finish">
 		<text>Спасибо, сталкер. Вот твои деньги, только не увлекайся убийствами. Наёмникам конкуренты тоже ни к чему. Хе-хе...</text>
 	</string>
 	
-	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_assault_monster_online_name">
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_bs_assault_monster_online_title">
 		<text>Псевдожучки и псевдомышки</text>
 	</string>
-	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_assault_monster_online_descr">
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_bs_assault_monster_online_descr">
 		<text>Есть у сталкеров такой анекдот: «Посадил сталкер псевдорепку. Выросла псевдорепка большая-пребольшая! Взял сталкер  гранатомёт и пошёл ее добывать. И всё бы у него наверняка получилось, если бы псевдожучки и псевдомышки не набежали». Звучит смешно, да только порой эти Жучки и мышки и в самом деле могут быть той ещё занозой в заднице. Доходит уж до того, что и из лагеря нельзя десяти шагов сделать - на тебя сразу же летит очередная псевдо-кто-то!\nИменно поэтому Бармен предложил совместить приятное с полезным - заработать деньжат за зачистку прилегающих территорий от мутантов. Дело это правильное, а то расплодилось тут всяких... Да и трофеи лишними точно не будут.</text>
 	</string>
-	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_assault_monster_online_job_descr">
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_bs_assault_monster_online_job_descr">
 		<text>Скажи-ка, ты там никаких мутантов не видел по пути сюда? Долговцы недавно проутюжили территорию вокруг, но новоприбывшие сталкеры передали, что видели то ли собак, то ли ещё кого-то на внешних границах лагеря. Если они не шутят, то зверьё представляет большую опасность как для сталкеров в лагере, так и для тех, кто только будет сюда идти. Кроме того, не стоит говорить и о том, что отсутствие клиентов вредит бизнесу. В общем так, за уничтожение мутантов готов неплохо заплатить, возможно, даже ещё чего подкину вдобавок. Главное - это чтобы от них не осталось и следа. Лови примерные координаты.</text>
 	</string>
-	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_assault_monster_online_finish">
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_bs_assault_monster_online_finish">
 		<text>Хорошая работа. А вот и твои честно заработанные.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Barkeep (Loner Trader) New Tasks -->
 	
-	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_4_name">
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_4_title">
 		<text>Необычный бизнес</text>
 	</string>
 	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_4_descr">
@@ -193,7 +190,7 @@
 		<text>Молодец! Вот и твоё честно заработанное.</text>
 	</string>
 	
-	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_5_name">
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_5_title">
 		<text>Расхититель тайников</text>
 	</string>
 	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_5_descr">
@@ -207,7 +204,7 @@
 	</string>
 
 <!-- Aspirin (Duty Medic) -->
-	<string id="igi_task_text_bar_dolg_medic_task_1_name">
+	<string id="igi_task_text_bar_dolg_medic_task_1_title">
 		<text>Народная медицина: найти и доставить Аспирину «%s»</text>
 	</string>
 	<string id="igi_task_text_bar_dolg_medic_task_1_descr">
@@ -224,7 +221,7 @@
 	</string>
 	
 <!-- Snitch (100 Rads) -->
-	<string id="igi_task_text_top_10_task_name">
+	<string id="igi_task_text_top_10_task_title">
 		<text>Топ-10: #$num. $name</text>
 	</string>
 	<string id="igi_task_text_top_10_task_description">

@@ -3,22 +3,22 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Dushman (Merc Trader) Contract Killing Dynamic Task -->
 
-	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_1_name">
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_bs_kill_stalker_nearby_title">
 		<text>Contract killer</text>
 	</string>
-	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_1_descr">
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_bs_kill_stalker_nearby_descr">
 		<text>I have been contracted to find and eliminate a target. I should return for payment once I am done.</text>
 	</string>
-	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_1_job_descr">
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_bs_kill_stalker_nearby_job_descr">
 		<text>Our contractor has a list of outstanding bounties. We need volunteers to carry out these hits discretely, which will allow us to fulfil our obligations to our contractor. Are you interested?</text>
 	</string>
-	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_1_finish">
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_bs_kill_stalker_nearby_finish">
 		<text>It is done? Great. Here's your percentage.</text>
 	</string>
 
 
 	<!-- ASSAULT TERRITORY FOR MERCS TASK -->
-	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_2_name">
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_2_title">
 		<text>Assault territory</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_2_descr">
@@ -34,7 +34,7 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Dushman (Merc Trader) Capture Enemy Documents Dynamic Task -->
 
-	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_3_name">
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_3_title">
 		<text>Capture enemy documents</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_3_descr">
@@ -63,7 +63,7 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Hog (Merc Mechanic) Find Level 1 Toolkit Task -->
 
-	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_1_name">
+	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_1_title">
 		<text>Find %s for Hog</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_1_descr">
@@ -81,7 +81,7 @@
 
 
 
-	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_2_name">
+	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_2_title">
 		<text>Find %s for Hog</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_2_descr">
@@ -99,7 +99,7 @@
 
 
 
-	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_3_name">
+	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_3_title">
 		<text>Find %s for Hog</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_3_descr">
@@ -117,36 +117,33 @@
 	
 	
 <!-- Aslan (Barman) -->
-	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_1_name">
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_bs_kill_stalker_nearby_title">
 		<text>Eliminate the target</text>
 	</string>
-	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_1_descr">
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_bs_kill_stalker_nearby_descr">
 		<text>Aslan will pay me to eliminate a target for him.</text>
 	</string>
-	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_1_job_descr">
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_bs_kill_stalker_nearby_job_descr">
 		<text>Yes, we always have work. I'll give you the coordinates, you kill the target.</text>
 	</string>
-	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_1_finish">
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_bs_kill_stalker_nearby_finish">
 		<text>Well done, here's the cash.</text>
 	</string>
 	
-	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_2_name">
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_bs_fetch_patches_title">
 		<text>Incentivised targets</text>
 	</string>
-	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_2_descr">
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_bs_fetch_patches_descr">
 		<text>Aslan has asked me to bring %s to him for a reward.</text>
 	</string>
-	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_2_job_descr">
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_bs_fetch_patches_job_descr">
 		<text>Feel like hunting a few people? I'll tell you how many patches you have to strip, you bring them to me and get a reward.</text>
 	</string>
-	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_2_fetch_job_descr">
-		<text>Some of our competitors are getting a little uppity. They grow too bold, sticking their noses where they shouldn't. Let's give them a warning. Bring me enough %ses and you'll be handsomely rewarded.</text>
-	</string>
-	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_2_fetch_finish">
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_bs_fetch_patches_finish">
 		<text>Well done. Here's your money.</text>
 	</string>
 	
-	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_3_name">
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_3_title">
 		<text>Poacher</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_3_descr">
@@ -162,7 +159,7 @@
 		<text>Well done, here's your reward.</text>
 	</string>
 	
-	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_4_name">
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_4_title">
 		<text>The Parent of Fear</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_4_descr">
@@ -175,7 +172,7 @@
 		<text>Excellent job. You've accomplished something I'd have had to hire entire teams for. If you ever leave the Zone, stay in touch. I know a few employers who could use someone like you.</text>
 	</string>
 
-	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_5_name">
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_5_title">
 		<text>Secure the base</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_5_descr">
@@ -189,7 +186,7 @@
 	</string>
 	
 <!-- Surgeon (Mercenary Medic) -->
-	<string id="igi_task_text_cit_killers_merc_medic_stalker_task_1_name">
+	<string id="igi_task_text_cit_killers_merc_medic_stalker_task_1_title">
 		<text>Find a %s for Surgeon</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_medic_stalker_task_1_descr">

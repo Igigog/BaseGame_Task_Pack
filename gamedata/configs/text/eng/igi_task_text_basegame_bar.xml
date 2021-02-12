@@ -3,26 +3,23 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Voronin (Duty Honcho) Decimate the Enemy Task -->
 	
-	<string id="igi_task_text_bar_dolg_leader_task_1_name">
+	<string id="igi_task_text_bar_dolg_leader_task_bs_fetch_patches_title">
 		<text>Crack Down</text>
 	</string>	
-	<string id="igi_task_text_bar_dolg_leader_task_1_descr">
+	<string id="igi_task_text_bar_dolg_leader_task_bs_fetch_patches_descr">
 		<text>General Voronin is encouraging a crackdown on Duty's enemies. I can collect %s for a reward.</text>
 	</string>		
-	<string id="igi_task_text_bar_dolg_leader_task_1_job_descr">
+	<string id="igi_task_text_bar_dolg_leader_task_bs_fetch_patches_job_descr">
 		<text>Listen to me, stalker; while we strive to eradicate the Zone, we cannot ignore our duty to the innocent. On all sides, the average stalker is beset by outlaws and extremists driven by avarice and delusion! Although the monstrosities of the Zone are our true foe, we cannot sit back and do nothing while free stalkers are being harassed and misled! Thin the forces of those who would dare hurt or corrupt them. </text>
 	</string>		
-	<string id="igi_task_text_bar_dolg_leader_task_1_fetch_job_descr">
-		<text>Listen to me, stalker; while we strive to eradicate the Zone, we cannot ignore our duty to the innocent. On all sides, the average stalker is beset by outlaws and extremists driven by avarice and delusion! Although the monstrosities of the Zone are our true foe, we cannot sit back and do nothing while free stalkers are being harassed and misled! Thin the forces of those who would dare hurt or corrupt them. Bring me %ses as proof of your work, and your commitment to our cause shall be commended. </text>
-	</string>	
-	<string id="igi_task_text_bar_dolg_leader_task_1_fetch_finish">
+	<string id="igi_task_text_bar_dolg_leader_task_bs_fetch_patches_fetch_finish">
 		<text>Excellent job. Through your actions, you have helped protect the innocent from humanity's oldest nemesis; itself. </text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Voronin (Duty Honcho) Night Terror Task -->
 	
-	<string id="igi_task_text_bar_dolg_leader_task_2_name">
+	<string id="igi_task_text_bar_dolg_leader_task_2_title">
 		<text>Night Terror</text>
 	</string>
 	<string id="igi_task_text_bar_dolg_leader_task_2_descr">
@@ -44,7 +41,7 @@
 	</string>
 	
 	<!-- Voronin (Duty Honcho) From Ukraine With Love Task -->
-	<string id="igi_task_text_bar_dolg_leader_task_4_name">
+	<string id="igi_task_text_bar_dolg_leader_task_4_title">
 		<text>From Ukraine with Love</text>
 	</string>
 	<string id="igi_task_text_bar_dolg_leader_task_4_descr">
@@ -66,7 +63,7 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Petrenko (Duty Trader) Payoff Change Factions Task -->
 
-	<string id="igi_task_text_drx_sl_bar_dolg_general_petrenko_stalker_cf_task_1_name">
+	<string id="igi_task_text_drx_sl_bar_dolg_general_petrenko_stalker_cf_task_1_title">
 		<text>Joining Duty</text>
 	</string>
 	<string id="igi_task_text_drx_sl_bar_dolg_general_petrenko_stalker_cf_task_1_descr">
@@ -82,20 +79,20 @@
 
 	<!-- Petrenko (Duty Trader) Defend Rostok Task -->
 	
-	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_1_name">
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_bs_assault_stalker_online_title">
 		<text>Defend Rostok</text>
 	</string>
-	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_1_descr">
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_bs_assault_stalker_online_descr">
 		<text>Colonel Petrenko has asked me to eliminate a group of stalkers that have been posing a threat to Duty.</text>
 	</string>
-	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_1_job_descr">
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_bs_assault_stalker_online_job_descr">
 		<text>The situation is becoming unfavourable. Enemies gather all over the Zone. I'm sending my men out to a few of our adversary's rally points before our foes can properly muster an attack, can you handle this one?</text>
 	</string>
-	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_1_finish">
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_bs_assault_stalker_online_finish">
 		<text>Excellent work. Your service does you credit.</text>
 	</string>
 
-	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_2_name">
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_2_title">
 		<text>Storm the Enemy</text>
 	</string>
 	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_2_descr">
@@ -108,20 +105,20 @@
 		<text>Thank you, stalker. Duty is indebted to you.</text>
 	</string>
 
-	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_3_name">
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_bs_kill_stalker_nearby_title">
 		<text>Neutralize Target for Petrenko</text>
 	</string>
-	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_3_descr">
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_bs_kill_stalker_nearby_descr">
 		<text>Colonel Petrenko has ordered me to find and eliminate a target.</text>
 	</string>
-	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_3_job_descr">
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_bs_kill_stalker_nearby_job_descr">
 		<text>I have some subjects that need removal. The targets are usually murderers, rapists, defectors, enemy operatives or strategists. This target is currently our most urgent. Take him out, and you'll help not only Duty but all right-minded people who work in the Zone.</text>
 	</string>
-	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_3_finish">
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_bs_kill_stalker_nearby_finish">
 		<text>Great! You do us proud, and such diligence shall not go unrewarded.</text>
 	</string>
 	
-	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_4_name">
+	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_4_title">
 		<text>Knowing is Half the Battle</text>
 	</string>
 	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_4_descr">
@@ -139,7 +136,7 @@
 	
 
 	<!-- Mangun (Duty Mechanic) -->
-	<string id="igi_task_text_bar_visitors_stalker_mechanic_task_1_name">
+	<string id="igi_task_text_bar_visitors_stalker_mechanic_task_1_title">
 		<text>Find %s for Mangun</text>
 	</string>
 	<string id="igi_task_text_bar_visitors_stalker_mechanic_task_1_descr">
@@ -154,7 +151,7 @@
 	<string id="igi_task_text_bar_visitors_stalker_mechanic_task_1_fetch_finish">
 		<text>Finally! Something to do that isn't just maintenance work or drinking myself to death.</text>
 	</string>
-	<string id="igi_task_text_bar_visitors_stalker_mechanic_task_2_name">
+	<string id="igi_task_text_bar_visitors_stalker_mechanic_task_2_title">
 		<text>Find %s for Mangun</text>
 	</string>
 	<string id="igi_task_text_bar_visitors_stalker_mechanic_task_2_descr">
@@ -169,7 +166,7 @@
 	<string id="igi_task_text_bar_visitors_stalker_mechanic_task_2_fetch_finish">
 		<text>Wow, you did it! Hahaha! Am I shaking? I'm shaking!</text>
 	</string>
-	<string id="igi_task_text_bar_visitors_stalker_mechanic_task_3_name">
+	<string id="igi_task_text_bar_visitors_stalker_mechanic_task_3_title">
 		<text>Find %s for Mangun</text>
 	</string>
 	<string id="igi_task_text_bar_visitors_stalker_mechanic_task_3_descr">
@@ -187,7 +184,7 @@
 	
 	
 	<!-- Barkeep -->
-	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_1_name">
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_1_title">
 		<text>Find the %s Artefact</text>
 	</string>
 	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_1_descr">
@@ -203,7 +200,7 @@
 		<text>Well done, stalker. Here is your reward.</text>
 	</string>
 	
-	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_bs_kill_stalker_nearby_name">
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_bs_kill_stalker_nearby_title">
 		<text>Kill the Stalker</text>
 	</string>
 	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_bs_kill_stalker_nearby_descr">
@@ -216,7 +213,7 @@
 		<text>Here is your money, just don't get carried away with murdering too much.</text>
 	</string>
 	
-	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_bs_assault_monster_online_name">
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_bs_assault_monster_online_title">
 		<text>Destroy the Mutants</text>
 	</string>
 	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_bs_assault_monster_online_descr">
@@ -232,7 +229,7 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Barkeep (Loner Trader) New Tasks -->
 	
-	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_4_name">
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_4_title">
 		<text>Bring Barkeep a %s </text>
 	</string>
 	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_4_descr">
@@ -248,7 +245,7 @@
 		<text>Atta boy. Here's your payment.</text>
 	</string>
 	
-	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_5_name">
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_5_title">
 		<text>Capture Encrypted Documents</text>
 	</string>
 	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_5_descr">
@@ -262,7 +259,7 @@
 	</string>
 
 <!-- Aspirin (Duty Medic) -->
-	<string id="igi_task_text_bar_dolg_medic_task_1_name">
+	<string id="igi_task_text_bar_dolg_medic_task_1_title">
 		<text>Find %s for Aspirin</text>
 	</string>
 	<string id="igi_task_text_bar_dolg_medic_task_1_descr">
@@ -279,7 +276,7 @@
 	</string>
 	
 <!-- Snitch (100 Rads) -->
-	<string id="igi_task_text_top_10_task_name">
+	<string id="igi_task_text_top_10_task_title">
 		<text>Toppers: #$num. $name</text>
 	</string>
 	<string id="igi_task_text_top_10_task_description">

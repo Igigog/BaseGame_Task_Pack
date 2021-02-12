@@ -2,20 +2,20 @@
 <string_table>
 
 <!-- Butcher -->
-	<string id="igi_task_text_hunter_gar_trader_task_1_name">
+	<string id="igi_task_text_hunter_gar_trader_task_bs_assault_monster_online_title">
 		<text>Сезон охоты</text>
 	</string>
-	<string id="igi_task_text_hunter_gar_trader_task_1_descr">
+	<string id="igi_task_text_hunter_gar_trader_task_bs_assault_monster_online_descr">
 		<text>В последнее время на Свалке и прилегающих к ней территориях наблюдается приток большого количества мутантов. Мясник попросил зачистить свежее логово, пока мутанты не успели размножиться, а то и вовсе привлечь хищника покрупнее.</text>
 	</string>
-	<string id="igi_task_text_hunter_gar_trader_task_1_job_descr">
+	<string id="igi_task_text_hunter_gar_trader_task_bs_assault_monster_online_job_descr">
 		<text>Не помешала бы твоя помощь в зачистке местности о мутантов. Думаю, ты мог заметить, что наши радиоактивные охотничьи угодья несколько прибавили в нежеланных особях? Так вот надо бы сократить это поголовье, пока они тут плодиться не вздумали, аль и вовсе привлекли хищника повыше в пищевой цепочке. А я, помимо награды, буду ещё готов и принять трофеи, какие соберёшь. Ну что, справишься?</text>
 	</string>
-	<string id="igi_task_text_hunter_gar_trader_task_1_finish">
+	<string id="igi_task_text_hunter_gar_trader_task_bs_assault_monster_online_finish">
 		<text>Отличная работа, охотник. И экосистема теперь тоже в порядке, хе-хе. Вот твои деньги.</text>
 	</string>
 
-	<string id="igi_task_text_hunter_gar_trader_task_2_name">
+	<string id="igi_task_text_hunter_gar_trader_task_2_title">
 		<text>У всякой охоты свои заботы</text>
 	</string>
 	<string id="igi_task_text_hunter_gar_trader_task_2_descr">
@@ -33,7 +33,7 @@
 
 	
 <!-- Flea Market -->
-	<string id="igi_task_text_baraholka_trader_night_task_1_name">
+	<string id="igi_task_text_baraholka_trader_night_task_1_title">
 		<text>Поле чудес</text>
 	</string>
 	<string id="igi_task_text_baraholka_trader_night_task_1_descr">

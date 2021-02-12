@@ -2,20 +2,20 @@
 <string_table>
 
 <!-- Butcher -->
-	<string id="igi_task_text_hunter_gar_trader_task_1_name">
+	<string id="igi_task_text_hunter_gar_trader_task_bs_assault_monster_online_title">
 		<text>Cull Hunting</text>
 	</string>
-	<string id="igi_task_text_hunter_gar_trader_task_1_descr">
+	<string id="igi_task_text_hunter_gar_trader_task_bs_assault_monster_online_descr">
 		<text>Butcher tracked down a mutant lair that needs clearing. I've agreed to do the dirty work of flushing it out.</text>
 	</string>
-	<string id="igi_task_text_hunter_gar_trader_task_1_job_descr">
+	<string id="igi_task_text_hunter_gar_trader_task_bs_assault_monster_online_job_descr">
 		<text>Hmm. I've scouted out a mutant den that could do with clearing. It's starting to give local stalkers some trouble, but a well-prepared hunter shouldn't have any issue flushing it out. So, feel like some hunting today? I'll pay you for your skill, and you can sell me any meats or trophies you've collected once you get back.</text>
 	</string>
-	<string id="igi_task_text_hunter_gar_trader_task_1_finish">
+	<string id="igi_task_text_hunter_gar_trader_task_bs_assault_monster_online_finish">
 		<text>Once again the local ecosystem is in balance... hehe. Here's your reward for a job well done.</text>
 	</string>
 
-	<string id="igi_task_text_hunter_gar_trader_task_2_name">
+	<string id="igi_task_text_hunter_gar_trader_task_2_title">
 		<text>Find %s for Butcher</text>
 	</string>
 	<string id="igi_task_text_hunter_gar_trader_task_2_descr">
@@ -33,7 +33,7 @@
 
 	
 <!-- Flea Market -->
-	<string id="igi_task_text_baraholka_trader_night_task_1_name">
+	<string id="igi_task_text_baraholka_trader_night_task_1_title">
 		<text>Find the "%s" artefact</text>
 	</string>
 	<string id="igi_task_text_baraholka_trader_night_task_1_descr">

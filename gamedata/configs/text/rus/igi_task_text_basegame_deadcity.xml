@@ -14,22 +14,22 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Dushman (Merc Trader) Contract Killing Dynamic Task -->
 
-	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_1_name">
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_bs_kill_stalker_nearby_title">
 		<text>Просто бизнес</text>
 	</string>
-	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_1_descr">
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_bs_kill_stalker_nearby_descr">
 		<text>У наёмников определённо нет никаких проблем с количеством доступных контрактов, однако они испытывают ощутимые проблемы в численности бойцов.\n \nНеобходимо сохранить их престиж, поэтому Душман поручил найти и ликвидировать определённую цель. Ни вопросов, ни ответов. Такая у наёмников работа.</text>
 	</string>
-	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_1_job_descr">
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_bs_kill_stalker_nearby_job_descr">
 		<text>Наш наниматель на днях предоставил новый список заказов, и кому-то нужно всё это разгребать. Сейчас времена тяжёлые: бойцов мало, заданий много, а работу-то делать надо. Мы ведь не хотим потерять к себе доверие заказчиков, правильно?\nВ общем, твоя задача - найти и замочить одного типа, неважно кто он. Детали скину на твой КПК.</text>
 	</string>
-	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_1_finish">
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_bs_kill_stalker_nearby_finish">
 		<text>Сделано? Отлично. Вот твоя доля:</text>
 	</string>
 
 
 	<!-- ASSAULT TERRITORY FOR MERCS TASK -->
-	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_2_name">
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_2_title">
 		<text>Зачистка</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_2_descr">
@@ -45,7 +45,7 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Dushman (Merc Trader) Capture Enemy Documents Dynamic Task -->
 
-	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_3_name">
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_3_title">
 		<text>Ценная информация</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_3_descr">
@@ -62,36 +62,33 @@
 
 	
 <!-- Aslan (Barman) -->
-	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_1_name">
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_bs_kill_stalker_nearby_title">
 		<text>Ликвидация</text>
 	</string>
-	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_1_descr">
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_bs_kill_stalker_nearby_descr">
 		<text>Аслан придерживается правила «меньше знаешь - крепче спишь», а потому без лишних слов предлагает для выполнения различные контракты.\n \nНеобходимо ликвидировать очередную цель.</text>
 	</string>
-	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_1_job_descr">
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_bs_kill_stalker_nearby_job_descr">
 		<text>Да, работа у нас всегда есть. Я даю тебе данные по цели и её координаты, а ты её уничтожаешь.</text>
 	</string>
-	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_1_finish">
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_bs_kill_stalker_nearby_finish">
 		<text>Молорик, брат. Держи свои деньги.</text>
 	</string>
 	
-	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_2_name">
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_bs_fetch_patches_title">
 		<text>Трудная мишень</text>
 	</string>
-	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_2_descr">
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_bs_fetch_patches_descr">
 		<text>«%s» оценивается Асланом в неплохой гонорар, который он может выплатить, если я неплохо проявлю себя в охоте на людей и предоставлю ему доказательства своей работы.</text>
 	</string>
-	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_2_job_descr">
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_bs_fetch_patches_job_descr">
 		<text>Хочешь поохотиться на людей? Я говорю тебе, сколько надо нашивок сорвать - ты же приносишь мне их и получаешь деньги.</text>
 	</string>
-	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_2_fetch_job_descr">
-		<text>Значит, смотри, охота на людей - бизнес прибыльный, а раз прибыльный, то что? Правильно. Значит у нас дохрена и больше конкурентов, желающих свой барыш состричь с наших же заказов. Так что время от времени надо их показательно выпарывать аки сидорову козу. Ну так что, хочешь поохотиться на людей? Всё, что от тебя требуется, так это «%s». Найди, накажи, принеси. А взамен я тебе хорошо заплачу.</text>
-	</string>
-	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_2_fetch_finish">
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_bs_fetch_patches_finish">
 		<text>Молоток, братан. Держи бабосики.</text>
 	</string>
 	
-	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_3_name">
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_3_title">
 		<text>Дикая охота</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_3_descr">
@@ -107,7 +104,7 @@
 		<text>Малорик, брат. Удружил так удружил. Вот награда.</text>
 	</string>
 	
-	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_4_name">
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_4_title">
 		<text>Зверь против зверя</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_4_descr">
@@ -120,7 +117,7 @@
 		<text>Братан! Ну ты и уважил! И за наших отомстил. Вот, держи, заслужил. К слову, ты если из Зоны надумаешь свинтить, то черкни контакты, лады? Ведь такое дело и отряд с трудом осилит, а ты в одиночку... Рэмбо прям! Я вне Зоны знаю людей, которые точно заинтересуются твоими навыками.</text>
 	</string>
 
-	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_5_name">
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_5_title">
 		<text>Сафари</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_5_descr">
@@ -134,7 +131,7 @@
 	</string>
 	
 <!-- Surgeon (Mercenary Medic) -->
-	<string id="igi_task_text_cit_killers_merc_medic_stalker_task_1_name">
+	<string id="igi_task_text_cit_killers_merc_medic_stalker_task_1_title">
 		<text>Один лечит, другой - калечит</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_medic_stalker_task_1_descr">

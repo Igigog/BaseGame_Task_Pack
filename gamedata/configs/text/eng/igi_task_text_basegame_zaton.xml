@@ -3,22 +3,22 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Beard (Loner Trader) Clear Mutants from SkadovskTask -->
 
-	<string id="igi_task_text_zat_a2_stalker_barmen_task_1_name">
+	<string id="igi_task_text_zat_a2_stalker_barmen_task_bs_assault_monster_online_title">
 		<text>Clear area of mutants</text>
 	</string>
-	<string id="igi_task_text_zat_a2_stalker_barmen_task_1_descr">
+	<string id="igi_task_text_zat_a2_stalker_barmen_task_bs_assault_monster_online_descr">
 		<text>Mutants are about. Hunt them down and clear the area.</text>
 	</string>
-	<string id="igi_task_text_zat_a2_stalker_barmen_task_1_job_descr">
+	<string id="igi_task_text_zat_a2_stalker_barmen_task_bs_assault_monster_online_job_descr">
 		<text>Shh... Listen, hear that? Some mutants howling. Still gives me the chills after all this time. How about you go out there and take care of them? I'll make it worth your while.</text>
 	</string>
-	<string id="igi_task_text_zat_a2_stalker_barmen_task_1_finish">
+	<string id="igi_task_text_zat_a2_stalker_barmen_task_bs_assault_monster_online_finish">
 		<text>Haha! Well done, stalker! Have a drink on Beard!</text>
 	</string>
 
 
 	<!-- FIND ARTEFACT FOR BEARD TASK -->
-	<string id="igi_task_text_zat_a2_stalker_barmen_task_2_name">
+	<string id="igi_task_text_zat_a2_stalker_barmen_task_2_title">
 		<text>Find the "%s" Artefact for Beard</text>
 	</string>
 	<string id="igi_task_text_zat_a2_stalker_barmen_task_2_descr">
@@ -36,7 +36,7 @@
 
 
 	<!-- ASSASSINATION FOR BEARD TASK -->
-	<string id="igi_task_text_zat_a2_stalker_barmen_task_3_name">
+	<string id="igi_task_text_zat_a2_stalker_barmen_task_3_title">
 		<text>My Brother's Keeper</text>
 	</string>
 	<string id="igi_task_text_zat_a2_stalker_barmen_task_3_descr">
@@ -72,24 +72,21 @@
 		<text>Noah wants my help getting an Armsel Protecta so that he can rest easy at night.</text>
 	</string>
 	
-	<string id="igi_task_text_zat_stancia_trader_merc_task_1_name">
-		<text>Collect %s</text>
+	<string id="igi_task_text_zat_stancia_trader_merc_task_bs_fetch_patches_title">
+		<text>Collect patches</text>
 	</string>
-	<string id="igi_task_text_zat_stancia_trader_merc_task_1_descr">
-		<text>A mercenary has asked me to collect %s.</text>
+	<string id="igi_task_text_zat_stancia_trader_merc_task_bs_fetch_patches_descr">
+		<text>A mercenary has asked me to collect patches.</text>
 	</string>
-	<string id="igi_task_text_zat_stancia_trader_merc_task_1_job_descr">
+	<string id="igi_task_text_zat_stancia_trader_merc_task_bs_fetch_patches_job_descr">
 		<text>You feel like arranging a real safari? You will hunt people and bring their patches. We will be raising the standards of the faction.</text>
 	</string>
-	<string id="igi_task_text_zat_stancia_trader_merc_task_1_fetch_job_descr">
-		<text>You feel like arranging a real safari? Bring me %s and I'll pay you well. We will be raising the standards of the faction.</text>
-	</string>
-	<string id="igi_task_text_zat_stancia_trader_merc_task_1_fetch_finish">
+	<string id="igi_task_text_zat_stancia_trader_merc_task_bs_fetch_patches_finish">
 		<text>That's what I'm talking about! Here's your money.</text>
 	</string>
 
 <!-- Axel (Loner Medic) -->
-	<string id="igi_task_text_zat_b22_stalker_medic_task_1_name">
+	<string id="igi_task_text_zat_b22_stalker_medic_task_1_title">
 		<text>Find %s for Axel</text>
 	</string>
 	<string id="igi_task_text_zat_b22_stalker_medic_task_1_descr">

@@ -3,7 +3,7 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Semenov (Ecog Honcho) Research Hunt Task -->
 
-	<string id="igi_task_text_yan_ecolog_semenov_task_1_name">
+	<string id="igi_task_text_yan_ecolog_semenov_task_1_title">
 		<text>Semenov Research Hunt</text>
 	</string>
 	<string id="igi_task_text_yan_ecolog_semenov_task_1_descr">
@@ -18,7 +18,7 @@
 
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Sakharov (Ecog Trader) -->
-	<string id="igi_task_text_yan_stalker_sakharov_task_1_name">
+	<string id="igi_task_text_yan_stalker_sakharov_task_1_title">
 		<text>Procure %s for the Yantar Bunker</text>
 	</string>
 	<string id="igi_task_text_yan_stalker_sakharov_task_1_descr">
@@ -35,7 +35,7 @@
 	</string>
 	
 	<!-- Collect New Artefact Task -->
-	<string id="igi_task_text_yan_stalker_sakharov_task_2_name">
+	<string id="igi_task_text_yan_stalker_sakharov_task_2_title">
 		<text>Anomalous Research</text>
 	</string>
 	<string id="igi_task_text_yan_stalker_sakharov_task_2_descr">
@@ -52,7 +52,7 @@
 	</string>
 
 	<!-- Classified Information Task -->
-	<string id="igi_task_text_classified_information_task_name">
+	<string id="igi_task_text_classified_information_task_title">
 		<text>Classified Information</text>
 	</string>
 	<string id="igi_task_text_classified_information_task_descr">
@@ -66,14 +66,14 @@
 	</string>
 	
 	<!-- yan_stalker_sakharov -->
-	<string id="igi_task_text_yan_stalker_sakharov_psi_helmet_upgrade_name">
+	<string id="igi_task_text_yan_stalker_sakharov_psi_helmet_upgrade_title">
 		<text>Collect the Psy-Helmet</text>
 	</string>
 	<string id="igi_task_text_yan_stalker_sakharov_psi_helmet_upgrade_descr">
 		<text>Professor Sakharov has agreed to fully calibrate your psy-protection helmet. He has asked you to return to pick it up after about two days.</text>
 	</string>
 
-	<string id="igi_task_text_brain_machine_deactivate_name">
+	<string id="igi_task_text_brain_machine_deactivate_title">
 		<text>Disable the Miracle Machine</text>
 	</string>
 	<string id="igi_task_text_brain_machine_deactivate_descr">
@@ -83,7 +83,7 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Peregrine (Military Mechanic) Find Level 1 Toolkit Task -->
 
-	<string id="igi_task_text_mechanic_army_yan_mlr_task_1_name">
+	<string id="igi_task_text_mechanic_army_yan_mlr_task_1_title">
 		<text>Find %s for Peregrine</text>
 	</string>
 	<string id="igi_task_text_mechanic_army_yan_mlr_task_1_descr">
@@ -99,7 +99,7 @@
 		<text>Alright, let's take a look. Yeah, these'll do. Now maybe I can do something other than maintenance. Here's your bounty. Thanks for your help.</text>
 	</string>
 
-	<string id="igi_task_text_mechanic_army_yan_mlr_task_2_name">
+	<string id="igi_task_text_mechanic_army_yan_mlr_task_2_title">
 		<text>Find %s for Peregrine</text>
 	</string>
 	<string id="igi_task_text_mechanic_army_yan_mlr_task_2_descr">
@@ -115,7 +115,7 @@
 		<text>Great! Come back any time if you need me to take a look at your gear. I'll be able to do some half-decent modifications now, thanks to you.</text>
 	</string>
 
-	<string id="igi_task_text_mechanic_army_yan_mlr_task_3_name">
+	<string id="igi_task_text_mechanic_army_yan_mlr_task_3_title">
 		<text>Find %s for Peregrine</text>
 	</string>
 	<string id="igi_task_text_mechanic_army_yan_mlr_task_3_descr">
@@ -133,7 +133,7 @@
 	
 	
 	
- 	<string id="igi_task_text_yan_stalker_sakharov_task_4_name">
+ 	<string id="igi_task_text_yan_stalker_sakharov_task_4_title">
 		<text>Recover the Tracking Device</text>
 	</string>
 	<string id="igi_task_text_yan_stalker_sakharov_task_4_job_descr">
@@ -151,7 +151,7 @@
 	<string id="igi_task_text_recover_mutant_data_device_desc">
 		<text>A sturdy device that was planted on a mutant to monitor its movements, habits and vital signs. Shows signs of corrosion, and is covered in numerous bite and scratch marks.  </text>
 	</string>
-	<string id="igi_task_text_recover_mutant_data_device_name">
+	<string id="igi_task_text_recover_mutant_data_device_title">
 		<text>Tracking device</text>
 	</string>
 </string_table>

@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="windows-1251"?>
-
-<!--===========================================================
-<
-< TEXT  STRINGS FOR TASKS ON ESCAPE (CORDON) MAP
-<	CoC 1.4.08 - DoctorX Questlines 1.6
-<
-<	Modified by: DoctorX
-<	Last revised: October 07, 2016
-<
-<===========================================================-->
-
 <string_table>
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Sidorovich (Loner Trader) Eliminate Car Park Bandits Task -->
 
-	<string id="igi_task_text_esc_m_trader_task_1_name">
+	<string id="igi_task_text_esc_m_trader_task_1_title">
 		<text>Привет из 90-ых</text>
 	</string>
 	<string id="igi_task_text_esc_m_trader_task_1_descr">
@@ -27,23 +16,23 @@
 		<text>Хорошая работа, сталкер. Я вижу, мы сработаемся. Вот, как я и обещал.</text>
 	</string>
 
-	<string id="igi_task_text_esc_m_trader_task_2_name">
+	<string id="igi_task_text_esc_m_trader_task_bs_kill_stalker_nearby_title">
 		<text>Защита интересов</text>
 	</string>
-	<string id="igi_task_text_esc_m_trader_task_2_descr">
+	<string id="igi_task_text_esc_m_trader_task_bs_kill_stalker_nearby_descr">
 		<text>Сидорович ведёт дела со многими сталкерами и влиятельными людьми как внутри Зоны, так и вне её.\nПоэтому крайне опрометчиво пытаться навредить его бизнесу или людям, а то и вовсе переходить ему дорогу.\nТем не менее, до кого-то это не доходит ни с первого, ни со второго раза, поэтому Сидорович и попросил объяснить всё доходчиво, убрав одного сталкера.</text>
 	</string>
-	<string id="igi_task_text_esc_m_trader_task_2_job_descr">
+	<string id="igi_task_text_esc_m_trader_task_bs_kill_stalker_nearby_job_descr">
 		<text>У меня тут есть список сталкеров, с которыми надо разобраться. В него обычно попадают всякие сволочи и конченые подонки... по разным причинам. В основном за беспредел в отношении моих клиентов-туристов или курьеров. Одним словом, мусор. И Зону от этого мусора время от времени нужно очищать, понимаешь, да?\n \nНу так что, берёшься?</text>
 	</string>
-	<string id="igi_task_text_esc_m_trader_task_2_finish">
+	<string id="igi_task_text_esc_m_trader_task_bs_kill_stalker_nearby_finish">
 		<text>Отлично, ты избавился от этого ублюдка! Вот награда. И пусть знают, что дядько Сидор слово держит.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Sidorovich (Loner Trader) Decimate the Enemy Task -->
 
-	<string id="igi_task_text_esc_m_trader_task_3_name">
+	<string id="igi_task_text_esc_m_trader_task_3_title">
 		<text>Слон против Моськи</text>
 	</string>	
 	<string id="igi_task_text_esc_m_trader_task_3_descr">
@@ -62,23 +51,23 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Wolf (Loner Honcho) -->
 	
-	<string id="igi_task_text_esc_2_12_stalker_wolf_task_1_name">
+	<string id="igi_task_text_esc_2_12_stalker_wolf_task_bs_assault_monster_online_title">
 		<text>Безопасный Кордон</text>
 	</string>
-	<string id="igi_task_text_esc_2_12_stalker_wolf_task_1_descr">
+	<string id="igi_task_text_esc_2_12_stalker_wolf_task_bs_assault_monster_online_descr">
 		<text>Волк попросил уничтожить логово мутантов, чтобы обезопасить как новичков в Деревне, так и прочих сталкеров, что приходят на Кордон.</text>
 	</string>
-	<string id="igi_task_text_esc_2_12_stalker_wolf_task_1_job_descr">
+	<string id="igi_task_text_esc_2_12_stalker_wolf_task_bs_assault_monster_online_job_descr">
 		<text>Есть одно дело. Новички вряд ли его потянут, но ты, думаю, справишься.\nДело в том, что с каждым днём на Кордоне становится всё опаснее. Здесь устраивают логова всё более опасные мутанты, и нам ни в коем случае нельзя допустить их размножения! Ты должен будешь зачистить зону, которую я отметил на твоём КПК. Убивай каждую тварь, что увидишь.\n \nЕсли сделаешь - в долгу не останусь. Ну так что, согласен?</text>
 	</string>
-	<string id="igi_task_text_esc_2_12_stalker_wolf_task_1_finish">
+	<string id="igi_task_text_esc_2_12_stalker_wolf_task_bs_assault_monster_online_finish">
 		<text>Спасибо, благодаря тебе новички будут в относительной безопасности. Быть может, даже научатся чему на твоём примере. Лови за труды.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Wolf (Loner Honcho) Stalker Search and Rescue Dynamic Task -->
 
-	<string id="igi_task_text_esc_2_12_stalker_wolf_task_2_name">
+	<string id="igi_task_text_esc_2_12_stalker_wolf_task_2_title">
 		<text>Спасение рядового сталкера</text>
 	</string>
 	<string id="igi_task_text_esc_2_12_stalker_wolf_task_2_descr">
@@ -94,7 +83,7 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Wolf (Loner Honcho) Stalker Guide Dynamic Task -->
 
-	<string id="igi_task_text_esc_2_12_stalker_wolf_task_3_name">
+	<string id="igi_task_text_esc_2_12_stalker_wolf_task_3_title">
 		<text>Первая вылазка</text>
 	</string>
 	<string id="igi_task_text_esc_2_12_stalker_wolf_task_3_descr">
@@ -110,7 +99,7 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Nimble (Loner Trader) Find Weapon Task -->
 
-	<string id="igi_task_text_esc_2_12_stalker_nimble_task_1_name">
+	<string id="igi_task_text_esc_2_12_stalker_nimble_task_1_title">
 		<text>Поставщик оружия</text>
 	</string>
 	<string id="igi_task_text_esc_2_12_stalker_nimble_task_1_descr">
@@ -129,7 +118,7 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Nimble (Loner Trader) Retrieve PDA Dynamic Task -->
 
-	<string id="igi_task_text_esc_2_12_stalker_nimble_task_2_name">
+	<string id="igi_task_text_esc_2_12_stalker_nimble_task_2_title">
 		<text>Доставить КПК по-шустрому</text>
 	</string>
 	<string id="igi_task_text_esc_2_12_stalker_nimble_task_2_descr">
@@ -144,25 +133,22 @@
 
 	
 <!-- (Military Trader - Southern Outpost) -->
-	<string id="igi_task_text_esc_3_16_military_trader_task_1_name">
+	<string id="igi_task_text_esc_3_16_military_trader_task_bs_fetch_patches_title">
 		<text>Особо опасен и особо мёртв</text>
 	</string>
-	<string id="igi_task_text_esc_3_16_military_trader_task_1_descr">
+	<string id="igi_task_text_esc_3_16_military_trader_task_bs_fetch_patches_descr">
 		<text>Среди высших военных чинов стала популярной какая-то программа, одним из требований которой являются, судя по всему, нашивки.\n \nМайор Журов попросил достать ему нашивки и даже уточнил, какие именно ему нужны: «%s».</text>
 	</string>
-	<string id="igi_task_text_esc_3_16_military_trader_task_1_job_descr">
+	<string id="igi_task_text_esc_3_16_military_trader_task_bs_fetch_patches_job_descr">
 		<text>«Сверху» запустили неофициальную программу. Хочешь в ней поучаствовать и доказать всем, что ты хороший солдат?</text>
 	</string>
-	<string id="igi_task_text_esc_3_16_military_trader_task_1_fetch_job_descr">
-		<text>Хлопцы на внешнем КПП запустили тут особую программу, связанную с нашивками сталкеров. И хотя у нас негласное соглашение с деревенькой, что на северо-востоке, нам всё же надо продемонстрировать, что с армией надо считаться и уважать. Всё, что от тебя требуется, так это избавить окрестности от нелегалов да сообразить мне их нашивки. К слову, будут ещё и неплохим доказательством твоей работы. В общем, как только будет у меня «%s», так и получишь сразу же свою премию. Ну как, не надорвёшься, хех?</text>
-	</string>
-	<string id="igi_task_text_esc_3_16_military_trader_task_1_fetch_finish">
+	<string id="igi_task_text_esc_3_16_military_trader_task_bs_fetch_patches_finish">
 		<text>Ха, а ты не промах! Спасибо за помощь. Держи свои премиальные.</text>
 	</string>
 
 	
 <!-- (Military Mechanic - Southern Outpost) -->
-	<string id="igi_task_text_army_south_mechan_mlr_task_1_name">
+	<string id="igi_task_text_army_south_mechan_mlr_task_1_title">
 		<text>Самоделкин, ч.1</text>
 	</string>
 	<string id="igi_task_text_army_south_mechan_mlr_task_1_descr">
@@ -178,7 +164,7 @@
 		<text>Спасибо тебе большое, братишка.</text>
 	</string>
 
-	<string id="igi_task_text_army_south_mechan_mlr_task_2_name">
+	<string id="igi_task_text_army_south_mechan_mlr_task_2_title">
 		<text>Самоделкин, ч.2</text>
 	</string>
 	<string id="igi_task_text_army_south_mechan_mlr_task_2_descr">
@@ -194,7 +180,7 @@
 		<text>Красава. Огромное тебе человеческое спасибо от всех наших ребят.</text>
 	</string>
 
-	<string id="igi_task_text_army_south_mechan_mlr_task_3_name">
+	<string id="igi_task_text_army_south_mechan_mlr_task_3_title">
 		<text>Самоделкин, ч.3</text>
 	</string>
 	<string id="igi_task_text_army_south_mechan_mlr_task_3_descr">
@@ -210,7 +196,7 @@
 		<text>Ну охренеть, неужели достал?! Не думал, что их снова здесь увижу. Всё, брат, теперь-то я ребят порадую апгрейдами да какими!</text>
 	</string>
 
-	<string id="igi_task_text_army_south_mechan_mlr_task_4_name">
+	<string id="igi_task_text_army_south_mechan_mlr_task_4_title">
 		<text>Страшный дух праздника</text>
 	</string>
 	<string id="igi_task_text_army_south_mechan_mlr_task_4_job_descr">
@@ -219,20 +205,20 @@
 	
 <!-- Fanatic -->
 
-	<string id="igi_task_text_esc_2_12_stalker_fanat_task_1_name">
+	<string id="igi_task_text_esc_2_12_stalker_fanat_task_bs_assault_monster_online_title">
 		<text>Уничтожить логово мутантов</text>
 	</string>
-	<string id="igi_task_text_esc_2_12_stalker_fanat_task_1_descr">
+	<string id="igi_task_text_esc_2_12_stalker_fanat_task_bs_assault_monster_online_descr">
 		<text>Фанат попросил уничтожить логово обосновавшихся неподалёку мутантов, чтобы обезопасить новичков в Деревне и прочих сталкеров, что ходят через Кордон.</text>
 	</string>
-	<string id="igi_task_text_esc_2_12_stalker_fanat_task_1_job_descr">
+	<string id="igi_task_text_esc_2_12_stalker_fanat_task_bs_assault_monster_online_job_descr">
 		<text>Есть одно дело, в общем.\nС каждым днём на Кордоне становится всё опаснее. Начинают гнездиться всё куда более опасные мутанты и нам ни в коем случае нельзя допустить, чтобы они тут ещё и потомство своё выводили.\n \nТы должен будешь зачистить зону, которую я отмечу на твоём КПК. Убивай каждую тварь, что увидишь. Если сделаешь - в долгу не останусь. Ну, как, согласен?</text>
 	</string>
-	<string id="igi_task_text_esc_2_12_stalker_fanat_task_1_finish">
+	<string id="igi_task_text_esc_2_12_stalker_fanat_task_bs_assault_monster_online_finish">
 		<text>Спасибо, сталкер, благодаря тебе новички будут в относительной безопасности. Вот твоя награда.</text>
 	</string>
 
-	<string id="igi_task_text_esc_2_12_stalker_fanat_task_2_name">
+	<string id="igi_task_text_esc_2_12_stalker_fanat_task_2_title">
 		<text>Фанат и его команда</text>
 	</string>
 	<string id="igi_task_text_esc_2_12_stalker_fanat_task_2_descr">

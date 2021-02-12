@@ -1,36 +1,25 @@
 <?xml version="1.0" encoding="windows-1251"?>
-
-<!--===========================================================
-<
-< TEXT  STRINGS FOR TASKS ON DARK VALLEY MAP
-<	CoC 1.4.08 - DoctorX Questlines 1.6
-<
-<	Modified by: DoctorX
-<	Last revised: October 07, 2016
-<
-<===========================================================-->
-
 <string_table>
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Sultan (Bandit Honcho) Mob Hit Task -->
 
-	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_1_name">
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_bs_kill_stalker_nearby_title">
 		<text>Разборки</text>
 	</string>
-	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_1_descr">
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_bs_kill_stalker_nearby_descr">
 		<text>У Султана с беспредельщиками разговор короткий - это маслина в жбан или, как говорится, перо под рёбра.\n \nНадо найти и убить одного из таких бесстрашных, а потом вернуться к Султану за деньгами.</text>
 	</string>
-	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_1_job_descr">
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_bs_kill_stalker_nearby_job_descr">
 		<text>Есть тема для реальных пацанов, что не зассут руки замарать, на.\nВ Зоне полно как мутного сталкерья, быков и крыс, которые лезут в общак, так и шестёрок, что за спиной братву опускают.\nНекоторые из этих петушар регулярно становятся бесстрашными и начинают проявлять ко мне своё полное, мля, неуважение. Одним словом, суки.\n \nЯ тебе дам по ним полный расклад, так что сможешь отслеживать их через КПК. Сделай так, чтобы и сигнал этот вёл прямо к жмурам, ты понял?</text>
 	</string>
-	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_1_finish">
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_bs_kill_stalker_nearby_finish">
 		<text>Реально за братву впрягся, отвечаю. Вот подгон для тебя.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Sultan (Bandit Honcho) Eliminate Military Presence Dynamic Task -->
 
-	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_2_name">
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_2_title">
 		<text>Тяжело в учении - легко в очаге поражения</text>
 	</string>
 	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_2_descr">
@@ -46,7 +35,7 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Sultan (Bandit Honcho) Stalker Elimination Dynamic Task -->
 
-	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_3_name">
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_3_title">
 		<text>Замочить беспредельщика</text>
 	</string>
 	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_3_descr">
@@ -60,26 +49,23 @@
 	</string>
 	
 	
-	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_4_name">
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_bs_fetch_patches_title">
 		<text>Воля пахана</text>
 	</string>
-	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_4_descr">
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_bs_fetch_patches_descr">
 		<text>В Зоне набралось слишком много мутных и беспредельщиков, не уважающих Султана и братву под его началом. Он решил, что им пора бы научиться манерам и жизни по пацанским понятиям.\n \nЕму требуется «%s» в указанном количестве.</text>
 	</string>
-	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_4_job_descr">
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_bs_fetch_patches_job_descr">
 		<text>Пора напомнить даунам, что из себя представляет братва. Сорви мне их нашивки, а я тебе за это даже бабосов накину.</text>
 	</string>
-	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_4_fetch_job_descr">
-		<text>Что-то петухи совсем обурели в последнее время. Пора напомнить этим даунам, что из себя представляет братва под моим началом.\n \nНадо, чтобы ты по-бырому организовал мне одно дело - «%s». Именно от стольких чушкарей надо освободить пацанскую Зону нашу. Заодно определим кого к Аслану за подгоном царским.\n \nВкурил, да? Я те за это даже шекелей отсыплю. Маза конкретная.</text>
-	</string>
-	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_4_fetch_finish">
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_bs_fetch_patches_finish">
 		<text>Давай сваливай сюда это всё. А сам держи свою доляну.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Sultan (Bandit Honcho) Unwelcome in the Hood Task -->
 	
-	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_5_name">
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_5_title">
 		<text>Вечер в хату</text>
 	</string>
 	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_5_descr">
@@ -95,7 +81,7 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Sultan (Bandit Honcho) Night Terror Task -->
 	
-	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_6_name">
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_6_title">
 		<text>Чики-брики, чик-чирик</text>
 	</string>
 	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_6_descr">
@@ -111,37 +97,37 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Olivius (Bandit Trader) Eliminate Mutants Task- -->
 
-	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_1_name">
+	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_bs_assault_monster_online_title">
 		<text>Шухер в Долине</text>
 	</string>
-	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_1_descr">
+	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_bs_assault_monster_online_descr">
 		<text>Недавно на братву, что держала одну из точек в Долине, напала стая мутантов, которая перебила и поела их всех.\nКроме того, стая теперь обустроила там себе логово.\n \nМаслине такой расклад никуда не годится, так как подобное логово мутантов отпугивает сталкеров и представляет опасность для самих пацанов, не готовых встрять там, где они ещё вчера ходили без проблем.\n \nНеобходимо уничтожить мутантов.</text>
 	</string>
-	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_1_job_descr">
+	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_bs_assault_monster_online_job_descr">
 		<text>Короче, ля, дело такое: к нам тут на днях со Свалки зверьё местное закатилось. Пацанов захавали, шо проход держали, а сами логово захерачили у дороги, суки. Ну и сталкерня туда теперь не суётся - боятся, петушары.\n \nТакими темпами сюда ваще никто лезть не будет, и с кого нам тогда бабло трясти? Не с мутантов же, мля.\n \nТочку я тебе в КПК нарисовал. Пошмаляешь мутантов - получишь награду.</text>
 	</string>
-	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_1_finish">
+	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_bs_assault_monster_online_finish">
 		<text>Малаца, ёпт! Держи бабки. Слухай, я смотрю ты реальный пацан, так шо я пахану за тебя слово в натуре замолвлю.</text>
 	</string>
 
 
 
-	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_2_name">
+	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_bs_assault_stalker_online_title">
 		<text>Бардак и беспредел</text>
 	</string>
-	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_2_descr">
+	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_bs_assault_stalker_online_descr">
 		<text>Обитатели Зоны по-прежнему не хотят мириться с положением дел и ролью бандитов в них. Из-за их действий в Зоне царят настоящий бардак и беспредел.\n \nНеобходимо показать, кто здесь главный. Уничтожение беспредельщиков и взятие под контроль братвы их точек послужит хорошим уроком и напоминанием.</text>
 	</string>
-	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_2_job_descr">
+	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_bs_assault_stalker_online_job_descr">
 		<text>Развешивай уши давай короче.\nНа нас тут сучьё опять залупаться начало - прут шо дурные, еле маслинами откармливаем.\nДык вот пахан и сказал найти пару нормальных пацанов, чтоб приструнить этих пидрил да заодно пару точек подмять, под крышу взять. Вот я о те сразу и вспомнил, ты ж их всех своим шпалером шедеврально на раз-два завалишь, ёпт.\nНу чё скажешь? Подписывать тя, э?</text>
 	</string>
-	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_2_finish">
+	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_bs_assault_stalker_online_finish">
 		<text>Мля-а, да ты реально крутой! Снаряга понадобится - заваливай, херню не втюхаю, мля буду.</text>
 	</string>
 
 
 
-	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_3_name">
+	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_3_title">
 		<text>Чики-брики - и в дамки!</text>
 	</string>
 	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_3_descr">
@@ -156,22 +142,22 @@
 
 
 	<!-- ASSASSINATION FOR OLIVIUS TASK -->
-	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_4_name">
+	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_bs_kill_stalker_nearby_title">
 		<text>Мокруха</text>
 	</string>
-	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_4_descr">
+	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_bs_kill_stalker_nearby_descr">
 		<text>Один из бесстрашных сталкеров мало того, что косит братву, так ещё и насолил конкретно Маслине, решив подняться в своём окружении за счёт братков. Маслине такой расклад явно не по нраву, поэтому он попросил найти этого героя и «разъяснить по понятиям за базар».</text>
 	</string>
-	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_4_job_descr">
+	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_bs_kill_stalker_nearby_job_descr">
 		<text>Тема тут одна подвернулась, как раз для решалы вродь тя. Есть один шнырь, шо суетится больно сильно: пацанов валит да братву среди своих опустить пытается базаром гнилым за глаза, а такое западло у нас, мля, не по понятиям.\n \nСкопытишь чушкаря этого - с пустыми руками не уйдёшь. Чёб там кто не болтал, а Маслина за базар отвечает!\nПолучишь за работу очень неплохой навар... Только скопытить его надо по-тихому, без кипиша.</text>
 	</string>
-	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_4_finish">
+	<string id="igi_task_text_val_smart_terrain_7_4_bandit_trader_stalker_task_bs_kill_stalker_nearby_finish">
 		<text>Ай малаца, зажмурил этого чушкаря! Без базара. Держи бабки.</text>
 	</string>
 
 	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
 	<!-- (Bandit Medic) -->
-	<string id="igi_task_text_bandit_main_base_medic_mlr_task_1_name">
+	<string id="igi_task_text_bandit_main_base_medic_mlr_task_1_title">
 		<text>Во все тяжкие</text>
 	</string>
 	<string id="igi_task_text_bandit_main_base_medic_mlr_task_1_descr">

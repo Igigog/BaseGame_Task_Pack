@@ -7,9 +7,8 @@
 	{
 	"entity_type":"item",
 	"target":"fetch",
-	"item_type":"patch",
-	"has_in_name":"*worst_enemy*",
-	"amount":[5,10],
+	"section":"itm_drugkit",
+	"amount": 1,
 	"where":"anywhere",
 	},
 

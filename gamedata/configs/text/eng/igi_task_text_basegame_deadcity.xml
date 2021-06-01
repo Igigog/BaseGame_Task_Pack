@@ -64,16 +64,16 @@
 	<!-- Hog (Merc Mechanic) Find Level 1 Toolkit Task -->
 
 	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_1_title">
-		<text>Find %s for Hog</text>
+		<text>Find Basic tools for Hog</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_1_descr">
-		<text>%s are required by Hog to install basic equipment upgrades. I should bring them back to him if I find any.</text>
+		<text>Basic tools are required by Hog to install basic equipment upgrades. I should bring them back to him if I find any.</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_1_job_descr">
 		<text>I have a proposition for you. If you can bring me some new tools, you will receive payment. Are you up for it?</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_1_fetch_job_descr">
-		<text>I've been looking all over for a set of %s. It should contain some oil and tools I need to do work on firearms. I'll pay you for one of those toolkits if you can bring a full set back to me.</text>
+		<text>I've been looking all over for a set of Basic tools. It should contain some oil and tools I need to do work on firearms. I'll pay you for one of those toolkits if you can bring a full set back to me.</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_1_fetch_finish">
 		<text>Brilliant! This is what I've been looking for. Thanks!</text>
@@ -82,16 +82,16 @@
 
 
 	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_2_title">
-		<text>Find %s for Hog</text>
+		<text>Find Advanced tools for Hog</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_2_descr">
-		<text>%s are required by Hog to install advanced equipment upgrades, I should bring them back to him if I find any.</text>
+		<text>Advanced tools are required by Hog to install advanced equipment upgrades, I should bring them back to him if I find any.</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_2_job_descr">
 		<text>I have another proposition. The toolkit you brought me is working out good, but it doesn't have everything I need. Do you think you can find me a better set?</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_2_fetch_job_descr">
-		<text>I need an %s. I'm not sure where you can get one of those, but if you can find one, I need it.</text>
+		<text>I need an Advanced tools. I'm not sure where you can get one of those, but if you can find one, I need it.</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_2_fetch_finish">
 		<text>It's got everything I need. Thank you.</text>
@@ -100,16 +100,16 @@
 
 
 	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_3_title">
-		<text>Find %s for Hog</text>
+		<text>Find Expert tools for Hog</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_3_descr">
-		<text>%s are required by Hog to install expert equipment upgrades. I should bring them back to him if I find any.</text>
+		<text>Expert tools are required by Hog to install expert equipment upgrades. I should bring them back to him if I find any.</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_3_job_descr">
 		<text>I have another proposition. The toolkit you brought me is working out good, but it doesn't have everything I need. Do you think you can find me a better set?</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_3_fetch_job_descr">
-		<text>I need an %s. I'm not sure where you can get one of those, but if you can find one, I need it.</text>
+		<text>I need an Expert tools. I'm not sure where you can get one of those, but if you can find one, I need it.</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_mechanic_stalker_task_3_fetch_finish">
 		<text>It's got everything I need. Thank you.</text>
@@ -134,7 +134,7 @@
 		<text>Incentivised targets</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_bs_fetch_patches_descr">
-		<text>Aslan has asked me to bring %s to him for a reward.</text>
+		<text>Aslan has asked me to bring patches to him for a reward.</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_bs_fetch_patches_job_descr">
 		<text>Feel like hunting a few people? I'll tell you how many patches you have to strip, you bring them to me and get a reward.</text>
@@ -147,13 +147,13 @@
 		<text>Poacher</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_3_descr">
-		<text>There is demand for a %s.</text>
+		<text>There is demand for a mutant part.</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_3_job_descr">
 		<text>Yes, I've always got some work for you. A wealthy client's interested in a rare mutant part. Bring it to me and I'll make it worth your effort.</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_3_fetch_job_descr">
-		<text>Yes, I've always got some work for you. A wealthy client's interested in a rare mutant part. Bring a %s to me and I'll make it worth your effort.</text>
+		<text>Yes, I've always got some work for you. A wealthy client's interested in a rare mutant part. Bring this part to me and I'll make it worth your effort.</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_3_fetch_finish">
 		<text>Well done, here's your reward.</text>
@@ -187,16 +187,16 @@
 	
 <!-- Surgeon (Mercenary Medic) -->
 	<string id="igi_task_text_cit_killers_merc_medic_stalker_task_1_title">
-		<text>Find a %s for Surgeon</text>
+		<text>Find a Drug-making kit for Surgeon</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_medic_stalker_task_1_descr">
-		<text>A %s is required by Surgeon to work on medical supplies. If I find one, he's sure to pay well for it.</text>
+		<text>A Drug-making kit is required by Surgeon to work on medical supplies. If I find one, he's sure to pay well for it.</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_medic_stalker_task_1_job_descr">
 		<text>Maintaining what's left from medical supplies storage with this number of injuries I have to treat on daily basis is worrying. I'm gonna run out of bandages and medkits soon or later. I need you to find me one of those old drug-making kits. They will come in handy for sure.</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_medic_stalker_task_1_fetch_job_descr">
-		<text>Yeah, there's something I need doing. While the Yantar mobile lab isn't too far away, I don't want our outfit here to grow too reliant on their medical supplies. Bring me a %s, and I can start producing sufficient medicine for all the boys here. Don't worry, I've set aside some roubles for this already, so I can pay you appropriately once you return with the goods.</text>
+		<text>Yeah, there's something I need doing. While the Yantar mobile lab isn't too far away, I don't want our outfit here to grow too reliant on their medical supplies. Bring me a Drug-making kit, and I can start producing sufficient medicine for all the boys here. Don't worry, I've set aside some roubles for this already, so I can pay you appropriately once you return with the goods.</text>
 	</string>
 	<string id="igi_task_text_cit_killers_merc_medic_stalker_task_1_fetch_finish">
 		<text>Let me see... okay, this should do. Thank you very much for your services. Here's your compensation.</text>

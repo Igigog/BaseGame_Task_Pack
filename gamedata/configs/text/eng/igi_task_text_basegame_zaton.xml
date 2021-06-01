@@ -19,16 +19,16 @@
 
 	<!-- FIND ARTEFACT FOR BEARD TASK -->
 	<string id="igi_task_text_zat_a2_stalker_barmen_task_2_title">
-		<text>Find the "%s" Artefact for Beard</text>
+		<text>Find the Artefact for Beard</text>
 	</string>
 	<string id="igi_task_text_zat_a2_stalker_barmen_task_2_descr">
-		<text>Beard wants you to find the "%s" artefact for him.</text>
+		<text>Beard wants you to find the artefact for him.</text>
 	</string>
 	<string id="igi_task_text_zat_a2_stalker_barmen_task_2_job_descr">
 		<text>I deal in artefacts. I usually don't buy them from stalkers, but there is one in particular I would like to get my hands on. Do you want to try to get it for me?</text>
 	</string>
 	<string id="igi_task_text_zat_a2_stalker_barmen_task_2_fetch_job_descr">
-		<text>I'm looking for the "%s" artefact. You ever seen one? If you can find it, I'll make sure you're well paid.</text>
+		<text>I'm looking for the artefact. You ever seen one? If you can find it, I'll make sure you're well paid.</text>
 	</string>
 	<string id="igi_task_text_zat_a2_stalker_barmen_task_2_fetch_finish">
 		<text>Good hunting, stalker! Have a drink on the house!</text>
@@ -87,16 +87,16 @@
 
 <!-- Axel (Loner Medic) -->
 	<string id="igi_task_text_zat_b22_stalker_medic_task_1_title">
-		<text>Find %s for Axel</text>
+		<text>Find drug-making kit for Axel</text>
 	</string>
 	<string id="igi_task_text_zat_b22_stalker_medic_task_1_descr">
-		<text>%s is required by Axel to work on medical supplies. You should bring them back to him if you find any.</text>
+		<text>drug-making kit is required by Axel to work on medical supplies. You should bring them back to him if you find any.</text>
 	</string>
 	<string id="igi_task_text_zat_b22_stalker_medic_task_1_job_descr">
 		<text>Maintaining what's left from medical supplies storage with this number of injuries I have to treat on daily basis is worrying. I'm gonna run out of bandages and medkits soon or later. I need you to find me one of those old drug-making kits. They will come in handy for sure.</text>
 	</string>
 	<string id="igi_task_text_zat_b22_stalker_medic_task_1_fetch_job_descr">
-		<text>There is. I've been looking all over for a %s. It should contain some tablets and ampoules I need to do work on medical supplies. I'll pay you for one of these kits if you can bring a full set back to me.</text>
+		<text>There is. I've been looking all over for a drug-making kit. It should contain some tablets and ampoules I need to do work on medical supplies. I'll pay you for one of these kits if you can bring a full set back to me.</text>
 	</string>
 	<string id="igi_task_text_zat_b22_stalker_medic_task_1_fetch_finish">
 		<text>Great job! I own you big time.</text>

@@ -7,7 +7,7 @@
 		<text>Crack Down</text>
 	</string>	
 	<string id="igi_task_text_bar_dolg_leader_task_bs_fetch_patches_descr">
-		<text>General Voronin is encouraging a crackdown on Duty's enemies. I can collect %s for a reward.</text>
+		<text>General Voronin is encouraging a crackdown on Duty's enemies. I can collect patches for a reward.</text>
 	</string>		
 	<string id="igi_task_text_bar_dolg_leader_task_bs_fetch_patches_job_descr">
 		<text>Listen to me, stalker; while we strive to eradicate the Zone, we cannot ignore our duty to the innocent. On all sides, the average stalker is beset by outlaws and extremists driven by avarice and delusion! Although the monstrosities of the Zone are our true foe, we cannot sit back and do nothing while free stalkers are being harassed and misled! Thin the forces of those who would dare hurt or corrupt them. </text>
@@ -122,13 +122,13 @@
 		<text>Knowing is Half the Battle</text>
 	</string>
 	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_4_descr">
-		<text>Colonel Petrenko wants me to find a %s for Duty to study.</text>
+		<text>Colonel Petrenko wants me to find a mutant part for Duty to study.</text>
 	</string>
 	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_4_job_descr">
 		<text>The general wants Duty's grunts to get more educated on the horrors they're expected to kill. For that, we'll need some fresh samples to analyze. Are you interested in helping us get some?</text>
 	</string>
 	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_4_fetch_job_descr">
-		<text>The general wants Duty's grunts to get more educated on the horrors they're expected to kill. For that, we'll need some fresh samples to analyze. Bring back a %s, and you'll be well rewarded.</text>
+		<text>The general wants Duty's grunts to get more educated on the horrors they're expected to kill. For that, we'll need some fresh samples to analyze. Bring back a mutant part, and you'll be well rewarded.</text>
 	</string>
 	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_task_4_fetch_finish">
 		<text>You have earned our gratitude, soldier. Here is your commission.</text>
@@ -137,10 +137,10 @@
 
 	<!-- Mangun (Duty Mechanic) -->
 	<string id="igi_task_text_bar_visitors_stalker_mechanic_task_1_title">
-		<text>Find %s for Mangun</text>
+		<text>Find Basic tools for Mangun</text>
 	</string>
 	<string id="igi_task_text_bar_visitors_stalker_mechanic_task_1_descr">
-		<text>%s are required by Mangun to install basic equipment upgrades, I should bring them back to him if I find any.</text>
+		<text>Basic tools are required by Mangun to install basic equipment upgrades, I should bring them back to him if I find any.</text>
 	</string>
 	<string id="igi_task_text_bar_visitors_stalker_mechanic_task_1_job_descr">
 		<text>Yes. We have Freedom to the north, bandits to the south-east, and mercs to the west. That's a lot of enemies, and I need to make sure Duty gets the edge they need in terms of equipment. I could do with some new tools - even basic ones would make a difference at this point. If you bring some, I could show you what this whole upgrading business is all about. You'll get a good return on your investment, don't worry.</text>
@@ -152,10 +152,10 @@
 		<text>Finally! Something to do that isn't just maintenance work or drinking myself to death.</text>
 	</string>
 	<string id="igi_task_text_bar_visitors_stalker_mechanic_task_2_title">
-		<text>Find %s for Mangun</text>
+		<text>Find an Advanced tools for Mangun</text>
 	</string>
 	<string id="igi_task_text_bar_visitors_stalker_mechanic_task_2_descr">
-		<text>%s are required by Mangun to install advanced equipment upgrades, I should bring them back to him if I find any.</text>
+		<text>Advanced tools are required by Mangun to install advanced equipment upgrades, I should bring them back to him if I find any.</text>
 	</string>
 	<string id="igi_task_text_bar_visitors_stalker_mechanic_task_2_job_descr">
 		<text>I'm starting to get a little ambitious after what you brought me last time. Those tools you brought before will last me ages, what I'm on the lookout for at the moment is something more advanced. So, how about it?</text>
@@ -167,10 +167,10 @@
 		<text>Wow, you did it! Hahaha! Am I shaking? I'm shaking!</text>
 	</string>
 	<string id="igi_task_text_bar_visitors_stalker_mechanic_task_3_title">
-		<text>Find %s for Mangun</text>
+		<text>Find Expert tools for Mangun</text>
 	</string>
 	<string id="igi_task_text_bar_visitors_stalker_mechanic_task_3_descr">
-		<text>%s are required by Mangun to install expert equipment upgrades, I should bring them back to him if I find any.</text>
+		<text>Expert tools are required by Mangun to install expert equipment upgrades, I should bring them back to him if I find any.</text>
 	</string>
 	<string id="igi_task_text_bar_visitors_stalker_mechanic_task_3_job_descr">
 		<text>I can't believe what you've done for me, stalker! Even some of the neutrals around here are coming to me for upgrades now! But I know, in my heart, I'm not doing as well as I could. If only I had some better tools... Listen, stalker. Bring me some expert-level tools, and I'll be in your debt. I could make your shooter into a masterpiece! I can't upgrade your stuff for free, of course, but I'll think of some way I can return the favour.</text>
@@ -185,16 +185,16 @@
 	
 	<!-- Barkeep -->
 	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_1_title">
-		<text>Find the %s Artefact</text>
+		<text>Find the Artefact</text>
 	</string>
 	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_1_descr">
-		<text>I've agreed to find Barkeep a %s for his artefact smuggling business.</text>
+		<text>I've agreed to find to Barkeep an Artifact for his smuggling business.</text>
 	</string>
 	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_1_job_descr">
 		<text>I'm interested in artefacts. I'll give you the coordinates to a certain artefact, you bring it to me. Of course, you'll also get a reward. Sound good?</text>
 	</string>
 	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_1_fetch_job_descr">
-		<text>I need an artefact for some outside clients. Don't worry, they tend to be respectable types: pastors, doctors, scientists from the outside, those sort of people. Anyways, they're looking for an artefact called %s.  Are you in? </text>
+		<text>I need an artefact for some outside clients. Don't worry, they tend to be respectable types: pastors, doctors, scientists from the outside, those sort of people. Anyways, they're looking for an artefact. Are you in? </text>
 	</string>
 	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_1_fetch_finish">
 		<text>Well done, stalker. Here is your reward.</text>
@@ -230,16 +230,16 @@
 	<!-- Barkeep (Loner Trader) New Tasks -->
 	
 	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_4_title">
-		<text>Bring Barkeep a %s </text>
+		<text>Bring Barkeep an Artefact </text>
 	</string>
 	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_4_descr">
-		<text>Barkeep says he will pay well if I can bring him a %s.</text>
+		<text>Barkeep says he will pay well if I can bring him an Artefact.</text>
 	</string>
 	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_4_job_descr">
 		<text>One of my clients wants a trophy from a specific mutant. Are you interested?</text>
 	</string>
 	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_4_fetch_job_descr">
-		<text>Did you know the Zone is home to some really exceptional tanners and jewellers? Doesn't matter what mutant part you give them - skulls, claws, tusks, pelts, even kidney stones, they'll make something good out of it. So, if you're interested in helping these guys out, bring me a %s, and there'll be cash in your pocket.</text>
+		<text>Did you know the Zone is home to some really exceptional tanners and jewellers? Doesn't matter what mutant part you give them - skulls, claws, tusks, pelts, even kidney stones, they'll make something good out of it. So, if you're interested in helping these guys out, bring me a mutant part, and there'll be cash in your pocket.</text>
 	</string>
 	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_4_fetch_finish">
 		<text>Atta boy. Here's your payment.</text>
@@ -260,16 +260,16 @@
 
 <!-- Aspirin (Duty Medic) -->
 	<string id="igi_task_text_bar_dolg_medic_task_1_title">
-		<text>Find %s for Aspirin</text>
+		<text>Find Drug-making kit for Aspirin</text>
 	</string>
 	<string id="igi_task_text_bar_dolg_medic_task_1_descr">
-		<text>%s is required by Aspirin to work on medical supplies. I should bring them back to him if I find any.</text>
+		<text>Drug-making kit is required by Aspirin to work on medical supplies. I should bring them back to him if I find any.</text>
 	</string>
 	<string id="igi_task_text_bar_dolg_medic_task_1_job_descr">
 		<text>Maintaining what's left from medical supplies storage with this number of injuries I have to treat on daily basis is worrying. I'm gonna run out of bandages and medkits soon or later. I need you to find me one of those old drug-making kits. They will come in handy for sure.</text>
 	</string>
 	<string id="igi_task_text_bar_dolg_medic_task_1_fetch_job_descr">
-		<text>Yes, there is. Duty's ideals compel it to provide Rostok with affordable medical care. Given the state the Zone's in, believe me when I say every little bit is needed. So, if you find a %s, bring it to me. Not only will you be compensated for it, but I'll be able to expand the range of meds I can synthesize efficiently, which will benefit everyone.</text>
+		<text>Yes, there is. Duty's ideals compel it to provide Rostok with affordable medical care. Given the state the Zone's in, believe me when I say every little bit is needed. So, if you find a Drug-making kit, bring it to me. Not only will you be compensated for it, but I'll be able to expand the range of meds I can synthesize efficiently, which will benefit everyone.</text>
 	</string>
 	<string id="igi_task_text_bar_dolg_medic_task_1_fetch_finish">
 		<text>Heh, about time! Rostok's going to thank you for this, mark my words.</text>

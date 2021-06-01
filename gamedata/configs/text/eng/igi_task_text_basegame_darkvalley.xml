@@ -50,10 +50,10 @@
 	
 	
 	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_bs_fetch_patches_title">
-		<text>Collect %s</text>
+		<text>Collect patches</text>
 	</string>
 	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_bs_fetch_patches_descr">
-		<text>Sultan asked me to collect %s</text>
+		<text>Sultan asked me to collect patches</text>
 	</string>
 	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_bs_fetch_patches_job_descr">
 		<text>It's time to remind those retards who the bandits really are. I've got a good mind as to how we'll do this; just tear off their patches and bring them to me, and I'll handle the rest.</text>
@@ -158,16 +158,16 @@
 	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
 	<!-- (Bandit Medic) -->
 	<string id="igi_task_text_bandit_main_base_medic_mlr_task_1_title">
-		<text>Find %s for the Bandit medic in Dark Valley</text>
+		<text>Find Drug-making kit for the Bandit medic in Dark Valley</text>
 	</string>
 	<string id="igi_task_text_bandit_main_base_medic_mlr_task_1_descr">
-		<text>%s is required by the bandits medic to work on medical supplies. I should bring them back to him if I find any.</text>
+		<text>Drug-making kit is required by the bandits medic to work on medical supplies. I should bring them back to him if I find any.</text>
 	</string>
 	<string id="igi_task_text_bandit_main_base_medic_mlr_task_1_job_descr">
 		<text>Maintaining what's left from medical supplies storage with this number of injuries I have to treat on daily basis is worrying. I'm gonna run out of bandages and medkits soon or later. I need you to find me one of those old drug-making kits. They will come in handy for sure.</text>
 	</string>
 	<string id="igi_task_text_bandit_main_base_medic_mlr_task_1_fetch_job_descr">
-		<text>There is. I've been looking all over for a %s. It should contain some tablets and ampoules I need to do work on medical supplies. I'll pay you for one of these kits if you can bring a full set back to me.</text>
+		<text>There is. I've been looking all over for a Drug-making kit. It should contain some tablets and ampoules I need to do work on medical supplies. I'll pay you for one of these kits if you can bring a full set back to me.</text>
 	</string>
 	<string id="igi_task_text_bandit_main_base_medic_mlr_task_1_fetch_finish">
 		<text>Great job! I owe you big time.</text>

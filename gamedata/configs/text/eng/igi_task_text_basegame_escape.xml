@@ -36,13 +36,13 @@
 		<text>Mobbing the Mob</text>
 	</string>	
 	<string id="igi_task_text_esc_m_trader_task_3_descr">
-		<text>Sidorovich wants to send the bandit leaders a message. I've agreed to help him out by collecting %s.</text>
+		<text>Sidorovich wants to send the bandit leaders a message. I've agreed to help him out by collecting patches.</text>
 	</string>		
 	<string id="igi_task_text_esc_m_trader_task_3_job_descr">
 		<text>Listen, stalker. This is supposed to be a safe place for rookies to get to know the Zone. What they do get to know are the business ends of some bandit guns instead. The thugs disrupt our routes and steal our loot. Go teach them a lesson, will ya?</text>
 	</string>		
 	<string id="igi_task_text_esc_m_trader_task_3_fetch_job_descr">
-		<text>Recently, some dandy bandit lord, up in Dark Valley, has decided to make another move on my business.  He calls himself something stupid, like Sultana. What's next? Riesling? Muscadine?\n \nSo, let's send the bloated grape a message. Remind him who the real boss is. I know his men are skulking about - they usually make their way down to the Cordon through Darkscape or Meadow to harass the rookies and disrupt my routes. I'd like you to do me a favour and off a few of them. Then, bring me their %ses, and I'll sort out the rest. </text>
+		<text>Recently, some dandy bandit lord, up in Dark Valley, has decided to make another move on my business.  He calls himself something stupid, like Sultana. What's next? Riesling? Muscadine?\n \nSo, let's send the bloated grape a message. Remind him who the real boss is. I know his men are skulking about - they usually make their way down to the Cordon through Darkscape or Meadow to harass the rookies and disrupt my routes. I'd like you to do me a favour and off a few of them. Then, bring me their patches, and I'll sort out the rest. </text>
 	</string>		
 	<string id="igi_task_text_esc_m_trader_task_3_fetch_finish">
 		<text>Finally, you're back. You've got the badges? All right, here is your reward. I'll handle the rest.</text>
@@ -100,7 +100,7 @@
 	<!-- Nimble (Loner Trader) Find Weapon Task -->
 
 	<string id="igi_task_text_esc_2_12_stalker_nimble_task_1_title">
-		<text>Find %s</text>
+		<text>Find the gun</text>
 	</string>
 	<string id="igi_task_text_esc_2_12_stalker_nimble_task_1_descr">
 		<text>Nimble has asked you to find a specific firearm. It needs to be in mint condition. Return to him when you find what he is looking for.</text>
@@ -109,7 +109,7 @@
 		<text>I have a client looking for a specific firearm and I need someone to help me find it. If you are interested I will give you more details. What do you say?</text>
 	</string>
 	<string id="igi_task_text_esc_2_12_stalker_nimble_task_1_fetch_job_descr">
-		<text>%s... That is what I need, but it must be in mint condition. The client is paying top dollar, and he doesn't want a rusty piece of shit that will jam up in a life or death situation. I'll give you most of the profit since you are doing all the work. Come back when you find it, man.</text>
+		<text>I need to find specific firearm, but it must be in mint condition. The client is paying top dollar, and he doesn't want a rusty piece of shit that will jam up in a life or death situation. I'll give you most of the profit since you are doing all the work. Come back when you find it, man.</text>
 	</string>
 	<string id="igi_task_text_esc_2_12_stalker_nimble_task_1_fetch_finish">
 		<text>This is a fine weapon. I think my client will be pleased when I deliver this to him. Here is what I owe you.</text>
@@ -138,7 +138,7 @@
 		<text>Cordon Crackdown</text>
 	</string>
 	<string id="igi_task_text_esc_3_16_military_trader_task_bs_fetch_patches_descr">
-		<text>The checkpoint commander, Major Zhurov, has asked me to bring %s. It should help remind stalkers who's in charge.</text>
+		<text>The checkpoint commander, Major Zhurov, has asked me to bring patches. It should help remind stalkers who's in charge.</text>
 	</string>
 	<string id="igi_task_text_esc_3_16_military_trader_task_bs_fetch_patches_job_descr">
 		<text>The top brass has launched an unofficial program, you wanna take part? As proof, I require patches from criminals in the Zone.</text>

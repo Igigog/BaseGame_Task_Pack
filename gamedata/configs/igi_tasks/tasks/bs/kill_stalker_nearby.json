@@ -9,6 +9,7 @@
 		"where":"nearby",
 		"target":"kill",
 		"amount":1,
-		},
-	],
+		"to_create": false
+		}
+	]
 }

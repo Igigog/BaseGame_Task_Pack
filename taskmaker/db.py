@@ -1,5 +1,5 @@
 AUTHOR = "Igigog"
-PREFIX = "gt"
+PREFIX = "bs"
 USE_TASK_TO_NPCS = True
 
 fs = frozenset

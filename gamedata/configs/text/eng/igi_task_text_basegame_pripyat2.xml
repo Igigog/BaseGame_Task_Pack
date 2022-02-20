@@ -66,16 +66,16 @@
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Eidolon (Elite Monolith Soldier) Keeper of Secrets Task -->
-	<string id="igi_task_text_monolith_eidolon_task_4_title">
+	<string id="igi_task_text_monolith_eidolon_task_bs_return_document_from_stash_title">
 		<text>Keeper of Secrets</text>
 	</string>
-	<string id="igi_task_text_monolith_eidolon_task_4_descr">
+	<string id="igi_task_text_monolith_eidolon_task_bs_return_document_from_stash_descr">
 		<text>Recover documents which contain secrets of the Zone and bring them back to Eidolon.</text>
 	</string>
-	<string id="igi_task_text_monolith_eidolon_task_4_job_descr">
+	<string id="igi_task_text_monolith_eidolon_task_bs_return_document_from_stash_job_descr">
 		<text>There exist, documents. Which speak of the wonders of the Zone. In detail. Secret knowledge. Infidels must not know. Recover the documents. Bring them to me, and I shall reward you.</text>
 	</string>
-	<string id="igi_task_text_monolith_eidolon_task_4_finish">
+	<string id="igi_task_text_monolith_eidolon_task_bs_return_document_from_stash_finish">
 		<text>The Zone is safe. Owing to you.</text>
 	</string>
 

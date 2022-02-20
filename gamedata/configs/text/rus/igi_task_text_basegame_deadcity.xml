@@ -45,16 +45,16 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Dushman (Merc Trader) Capture Enemy Documents Dynamic Task -->
 
-	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_3_title">
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_bs_return_document_from_stash_title">
 		<text>Ценная информация</text>
 	</string>
-	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_3_descr">
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_bs_return_document_from_stash_descr">
 		<text>В зависимости от цены, наёмники готовы заняться практически всем: как от поиска артефактов и устранения неугодных, так и до ведения опосредованных войн и захвата различных документов.\nНедавно Душману был передан контракт на нахождение и захват документов, представляющих большой интерес для определённых людей.\nНеобходимо сделать всё в лучшем виде.</text>
 	</string>
-	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_3_job_descr">
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_bs_return_document_from_stash_job_descr">
 		<text>Заказчик сообразил нам контракт на захват документов, что его интересуют. Документы надо захватить у противника, иначе бы он к нам и не обращался. Двигай за документами и тащи их сюда. Бабками не обижу. Это всё, что нужно знать.</text>
 	</string>
-	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_3_finish">
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_bs_return_document_from_stash_finish">
 		<text>Вот порадовал. Знал, что на тебя можно положиться. Лови причитающееся.</text>
 	</string>
 

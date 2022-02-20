@@ -52,16 +52,16 @@
 	</string>
 
 	<!-- Classified Information Task -->
-	<string id="igi_task_text_classified_information_task_title">
+	<string id="igi_task_text_yan_stalker_sakharov_task_bs_return_document_from_stash_title">
 		<text>Потерянное знание</text>
 	</string>
-	<string id="igi_task_text_classified_information_task_descr">
+	<string id="igi_task_text_yan_stalker_sakharov_task_bs_return_document_from_stash_descr">
 		<text>Совсем недавно в распоряжение учёных попала информация, проанализировав которую, те пришли к выводу, что где-то в Зоне сохранились документы, способные пролить свет на Зону и связанные с ней явления.\n \nК сожалению, ввиду того, что учёным не удалось по всем инструкциям укомплектовать полную группу для нахождения документов, те попросили меня помочь с их проблемой.\n \nНеобходимо достать документы, содержащие секретную информацию, и передать в руки учёным.</text>
 	</string>
-	<string id="igi_task_text_classified_information_task_job_descr">
+	<string id="igi_task_text_yan_stalker_sakharov_task_bs_return_document_from_stash_job_descr">
 		<text>Да, Вы знаете... Недавно нам предоставили некоторую информацию, после анализа которой нам стало известно о существовании важных документов, что содержат крайне засекреченную информацию о Зоне. Они могут помочь нам достичь высоких результатов в ряде наших исследований!\n \nНо, увы, в данный момент большая часть полевых сотрудников занята своими исследованиями, и мы не можем выделить полную группу для поисков документов.\nА тут Вы - просто, не побоюсь этого слова, чудо какое-то!\n \nПрошу Вас, не могли бы Вы нам помочь? </text>
 	</string>
-	<string id="igi_task_text_classified_information_task_finish">
+	<string id="igi_task_text_yan_stalker_sakharov_task_bs_return_document_from_stash_finish">
 		<text>Благодарю Вас. С Вашей помощью мы приблизились на ещё один шаг к пониманию Зоны. И хочется верить, что дальнейшая работа пройдёт без эксцессов.</text>
 	</string>
 	

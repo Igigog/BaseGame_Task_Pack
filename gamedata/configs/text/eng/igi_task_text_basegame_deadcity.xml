@@ -34,16 +34,16 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Dushman (Merc Trader) Capture Enemy Documents Dynamic Task -->
 
-	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_3_title">
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_bs_return_document_from_stash_title">
 		<text>Capture enemy documents</text>
 	</string>
-	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_3_descr">
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_bs_return_document_from_stash_descr">
 		<text>Capture the enemy documents and return them to Dushman.</text>
 	</string>
-	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_3_job_descr">
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_bs_return_document_from_stash_job_descr">
 		<text>Our employer has notified us of a document he needs us to capture from the enemy. Bring it here and I will deliver your payment.</text>
 	</string>
-	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_3_finish">
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_bs_return_document_from_stash_finish">
 		<text>Good job.</text>
 	</string>
 

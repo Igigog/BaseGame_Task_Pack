@@ -118,16 +118,16 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Nimble (Loner Trader) Retrieve PDA Dynamic Task -->
 
-	<string id="igi_task_text_esc_2_12_stalker_nimble_task_2_title">
+	<string id="igi_task_text_esc_2_12_stalker_nimble_task_bs_return_pda_from_stash_title">
 		<text>Retrieve PDA for Nimble</text>
 	</string>
-	<string id="igi_task_text_esc_2_12_stalker_nimble_task_2_descr">
+	<string id="igi_task_text_esc_2_12_stalker_nimble_task_bs_return_pda_from_stash_descr">
 		<text>Nimble has a PDA he needs retrieved.</text>
 	</string>
-	<string id="igi_task_text_esc_2_12_stalker_nimble_task_2_job_descr">
+	<string id="igi_task_text_esc_2_12_stalker_nimble_task_bs_return_pda_from_stash_job_descr">
 		<text>I need you to pick up a PDA for me. It's hidden in a spot a little while away from here.</text>
 	</string>
-	<string id="igi_task_text_esc_2_12_stalker_nimble_task_2_finish">
+	<string id="igi_task_text_esc_2_12_stalker_nimble_task_bs_return_pda_from_stash_finish">
 		<text>Thank you stalker!</text>
 	</string>
 

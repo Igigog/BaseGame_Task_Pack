@@ -74,18 +74,18 @@
 		<text>Молодец, боец. Я доволен твоей работой. А вот тебе и гостинцы.</text>
 	</string>
 	
-	<string id="igi_task_text_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_5_title">
+	<string id="igi_task_text_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_bs_return_document_from_stash_title">
 		<text>Под грифом «секретно»</text>
 	</string>
-	<string id="igi_task_text_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_5_descr">
+	<string id="igi_task_text_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_bs_return_document_from_stash_descr">
 		<text>Полковник рвёт и мечет... Часовые проспали, как какие-то ушлые сталкеры выкрали довольно деликатные документы. Никогда такого не было, и вот опять...\n \nНеобходимо найти и вернуть украденные документы как можно скорее - Кузнецов ждёт, а ждать он не любит. </text>
 	</string>
-	<string id="igi_task_text_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_5_job_descr">
+	<string id="igi_task_text_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_bs_return_document_from_stash_job_descr">
 		<text>Послушай, боец, у нас полный аврал. 
 		
 		Наш контакт на Кордоне передал нам интересную информацию касательно местонахождения не менее интересных документов. Документы были эвакуированы и доставлены на один из блокпостов. И всё было бы ничего, если бы не чёртова безалаберность личного состава! Видишь ли, какое-то сталкерьё свистнуло с блокпоста те самые документы, пока часовые в глаза долбились. Благо маячок ещё фурычит, так что документы нужно вернуть не-ме-дле-нно. Ты понял?\nА если увидишь ещё и этих евнухов клептоманских, то даю добро пустить их в расход. Не хотят жить по-хорошему - будем делать всё по-плохому.</text>
 	</string>
-	<string id="igi_task_text_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_5_finish">
+	<string id="igi_task_text_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_bs_return_document_from_stash_finish">
 		<text>Выражаю благодарность за службу, солдат. Ты отлично справился с заданием! А часового, что провтыкал противника, будет целая неделя увеселительных приключений в нарядах.</text>
 	</string>
 

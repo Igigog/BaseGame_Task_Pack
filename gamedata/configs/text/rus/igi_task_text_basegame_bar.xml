@@ -190,16 +190,16 @@
 		<text>Молодец! Вот и твоё честно заработанное.</text>
 	</string>
 	
-	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_5_title">
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_bs_return_document_from_stash_title">
 		<text>Расхититель тайников</text>
 	</string>
-	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_5_descr">
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_bs_return_document_from_stash_descr">
 		<text>Было ваше - станет наше. Бармен попросил выкрасть важные документы и доставить их к нему.\nКоординаты их местонахождения он скинул мне на КПК.</text>
 	</string>
-	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_5_job_descr">
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_bs_return_document_from_stash_job_descr">
 		<text>Мне тут шепнули о схроне с крайне интересными документами. Я понятия не имею, кто его владелец и где он сейчас может быть, но я без промедления вознагражу того, кто смог бы устроить дело так, чтобы эти самые документы чудесным образом появились на этой барной стойке. Смекаешь? Я скину тебе на КПК последние известные координаты тайника. Сомневаюсь, что это ловушка, потому что меня подставлять - это тебе не Сидоровичу на Кордоне сделки срывать.</text>
 	</string>
-	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_5_finish">
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_bs_return_document_from_stash_finish">
 		<text>Вот это порадовал. Отличная работа, сталкер.</text>
 	</string>
 

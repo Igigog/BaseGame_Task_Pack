@@ -164,18 +164,18 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Skinflint (Freedom Mechanic) Deliver Equipment Dynamic Task -->
 
-	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_2_title">
+	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_bs_return_box_from_stash_title">
 		<text>Совершенно легальная работа</text>
 	</string>
-	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_2_descr">
+	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_bs_return_box_from_stash_descr">
 		<text>Скряга, похоже, занимается контрабандой, раз попросил забрать и доставить ему кое-какую посылку.\n
 		\nВпрочем, подобные намерения могут быть понятны, когда на тебя со всех сторон давят группировки, желающие откусить твою филейную часть.</text>
 	</string>
-	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_2_job_descr">
+	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_bs_return_box_from_stash_job_descr">
 		<text>Есть лёгкое задание для тех, кто любит минимум вопросов и максимум денег. Нужно забрать и доставить мне одну посылку. Вот и вся вводная.\n
 		\nДеньгами не обижу. Возьмёшься?</text>
 	</string>
-	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_2_finish">
+	<string id="igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_bs_return_box_from_stash_finish">
 		<text>Спасибо, сталкер! Приятно с тобой работать.</text>
 	</string>
 

@@ -245,16 +245,16 @@
 		<text>Atta boy. Here's your payment.</text>
 	</string>
 	
-	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_5_title">
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_bs_return_document_from_stash_title">
 		<text>Capture Encrypted Documents</text>
 	</string>
-	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_5_descr">
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_bs_return_document_from_stash_descr">
 		<text>Barkeep will pay me to ensure some coded papers end up safely in his hands.</text>
 	</string>
-	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_5_job_descr">
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_bs_return_document_from_stash_job_descr">
 		<text>So, recently, a stalker slipped some stash info that apparently leads to some rather interesting documents. I will give you the coordinates and, in exchange for delivering the papers, you'll be well paid. Anything else you find in there is for you to keep.</text>
 	</string>
-	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_5_finish">
+	<string id="igi_task_text_bar_visitors_barman_stalker_trader_task_bs_return_document_from_stash_finish">
 		<text>Great job, stalker.</text>
 	</string>
 

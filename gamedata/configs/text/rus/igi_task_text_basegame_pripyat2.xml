@@ -69,17 +69,17 @@
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Eidolon (Elite Monolith Soldier) Keeper of Secrets Task -->
-	<string id="igi_task_text_monolith_eidolon_task_4_title">
+	<string id="igi_task_text_monolith_eidolon_task_bs_return_document_from_stash_title">
 		<text>Хранитель секретов</text>
 	</string>
-	<string id="igi_task_text_monolith_eidolon_task_4_descr">
+	<string id="igi_task_text_monolith_eidolon_task_bs_return_document_from_stash_descr">
 		<text>Найти рукописи надлежит, тайные знания о Зоне содержащие, что попасть не должны в руки неверных.\nВернуть их хранителю Фантому предстоит.</text>
 	</string>
-	<string id="igi_task_text_monolith_eidolon_task_4_job_descr">
+	<string id="igi_task_text_monolith_eidolon_task_bs_return_document_from_stash_job_descr">
 		<text>Рукописи, что есть.\nЧто молвят о чудесах Зоны.\nВ подробностях тайное знание.\nЧто неверные не должны знать.\n
 		\nВерни рукописи. Принеси их мне, и я тебя вознагражу.</text>
 	</string>
-	<string id="igi_task_text_monolith_eidolon_task_4_finish">
+	<string id="igi_task_text_monolith_eidolon_task_bs_return_document_from_stash_finish">
 		<text>Благодаря тебе.\nЗнания, что Зона таит.\nНе раскрыть неверным их более.\nБрат мой, службу ты верную несёшь.</text>
 	</string>
 

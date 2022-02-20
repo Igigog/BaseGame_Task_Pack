@@ -118,16 +118,16 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Nimble (Loner Trader) Retrieve PDA Dynamic Task -->
 
-	<string id="igi_task_text_esc_2_12_stalker_nimble_task_2_title">
+	<string id="igi_task_text_esc_2_12_stalker_nimble_task_bs_return_pda_from_stash_title">
 		<text>Доставить КПК по-шустрому</text>
 	</string>
-	<string id="igi_task_text_esc_2_12_stalker_nimble_task_2_descr">
+	<string id="igi_task_text_esc_2_12_stalker_nimble_task_bs_return_pda_from_stash_descr">
 		<text>Шустрый попросил найти и принести ему КПК, который лежит в одном из схронов. Больше никакой информации он не предоставил.</text>
 	</string>
-	<string id="igi_task_text_esc_2_12_stalker_nimble_task_2_job_descr">
+	<string id="igi_task_text_esc_2_12_stalker_nimble_task_bs_return_pda_from_stash_job_descr">
 		<text>Мне нужно, чтобы ты нашёл один КПК для меня. Он скрыт в надёжном месте. Никаких других подробностей знать не надо, просто найти и принести.\n \nНу что, можно на тебя положиться, сталкер?</text>
 	</string>
-	<string id="igi_task_text_esc_2_12_stalker_nimble_task_2_finish">
+	<string id="igi_task_text_esc_2_12_stalker_nimble_task_bs_return_pda_from_stash_finish">
 		<text>Спасибо, сталкер!</text>
 	</string>
 

@@ -52,16 +52,16 @@
 	</string>
 
 	<!-- Classified Information Task -->
-	<string id="igi_task_text_classified_information_task_title">
+	<string id="igi_task_text_yan_stalker_sakharov_task_bs_return_document_from_stash_title">
 		<text>Classified Information</text>
 	</string>
-	<string id="igi_task_text_classified_information_task_descr">
+	<string id="igi_task_text_yan_stalker_sakharov_task_bs_return_document_from_stash_descr">
 		<text>The professor has asked me to obtain some sensitive research documents for him.</text>
 	</string>
-	<string id="igi_task_text_classified_information_task_job_descr">
+	<string id="igi_task_text_yan_stalker_sakharov_task_bs_return_document_from_stash_job_descr">
 		<text>Unknown brigands have accosted one of our research teams. Fortunately, part of the expedition came back alive and well. Unfortunately, they had to leave somewhat sensitive research behind during their escape.\n \nFor the sake of scientific progress, as well as the future wellbeing of my colleagues, I do not wish this data to remain lost - or worse, find their way into the hands of whatever mysterious group attacked my researchers. Please, go to the cache at these coordinates: if you hurry, the documents I wish to recover should still be there.  For your discretion, as well as the delivery of these documents to my office here, I offer a reasonable payment. As a further token of my gratitude, you may also help yourself to whatever supplies my team may have left behind in that cache. </text>
 	</string>
-	<string id="igi_task_text_classified_information_task_finish">
+	<string id="igi_task_text_yan_stalker_sakharov_task_bs_return_document_from_stash_finish">
 		<text>Thank you, dear stalker. Or should I say colleague? Research can now continue smoothly - hopefully without any additional hiccups coming around the corner. </text>
 	</string>
 	

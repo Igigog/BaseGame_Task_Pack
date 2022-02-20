@@ -223,6 +223,9 @@ icons = {
     "bs_kill_stalker_nearby": "ui_inGame2_Odin_vistrel",
     "bs_fetch_patches": "ui_icons_kill_stalker6",
     "bs_fetch_drugkit": "ui_inGame2_D_Sisshik",
+    "bs_return_document_from_stash": "ui_inGame2_Poslednie_razrabotki",
+    "bs_return_box_from_stash": "ui_inGame2_Osobiy_zakaz",
+    "bs_return_pda_from_stash": "ui_inGame2_PD_Torgovets_informatsiey",
 }
 
 quests = {
@@ -262,5 +265,21 @@ quests = {
     ],
     "bs_fetch_drugkit": [
         {"Medic"},
-    ]
+    ],
+    "bs_return_document_from_stash": [
+        {"Kuznetsov"},
+        {"Barkeep"},
+        {"Dushman"},
+        {"Hermann"},
+        {"Medic", "ClearSky", "Marsh"},
+        {"Eidolon"},
+        {"Sakharov"},
+    ],
+    "bs_return_box_from_stash": [
+        {"Sultan"},
+        {"Skinflint"},
+    ],
+    "bs_return_pda_from_stash": [
+        {"Nimble"},
+    ],
 }

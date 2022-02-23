@@ -206,19 +206,16 @@
 	</string>
 		
 	<!-- Solid (Freedom Medic) -->
-	<string id="igi_task_text_mil_freedom_medic_task_1_title">
+	<string id="igi_task_text_mil_freedom_medic_task_bs_fetch_drugkit_title">
 		<text>Find drug-makin kit for Solid</text>
 	</string>
-	<string id="igi_task_text_mil_freedom_medic_task_1_descr">
+	<string id="igi_task_text_mil_freedom_medic_task_bs_fetch_drugkit_descr">
 		<text>A drug-making kit is required by Solid for his work on medical supplies. I should bring it back to him if I find one.</text>
 	</string>
-	<string id="igi_task_text_mil_freedom_medic_task_1_job_descr">
+	<string id="igi_task_text_mil_freedom_medic_task_bs_fetch_drugkit_job_descr">
 		<text>Maintaining what's left from medical supplies storage with this number of injuries I have to treat on daily basis is worrying. I'm gonna run out of bandages and medkits soon or later. I need you to find me one of those old drug-making kits. They will come in handy for sure.</text>
 	</string>
-	<string id="igi_task_text_mil_freedom_medic_task_1_fetch_job_descr">
-		<text>You bet your sweet ass there is. I've been looking all over for a drug-making kit. It should contain just the right cocktail of ingredients I need to make all sorts of drugs. For medicinal use, of course. I know the things some of the lads around here say about me. Don't listen to that bullshit. All I need is some decent kit, and I'll be able to get my little clinic into decent shape again.</text>
-	</string>
-	<string id="igi_task_text_mil_freedom_medic_task_1_fetch_finish">
+	<string id="igi_task_text_mil_freedom_medic_task_bs_fetch_drugkit_finish">
 		<text>Great job! I owe you big time.</text>
 	</string>
 

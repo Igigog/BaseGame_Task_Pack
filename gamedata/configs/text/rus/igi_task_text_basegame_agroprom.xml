@@ -90,19 +90,16 @@
 	</string>
 
 <!-- (Military Medic) -->
-	<string id="igi_task_text_agr_1_6_medic_army_mlr_task_1_title">
+	<string id="igi_task_text_agr_1_6_medic_army_mlr_task_bs_fetch_drugkit_title">
 		<text>Боль врача ищет</text>
 	</string>
-	<string id="igi_task_text_agr_1_6_medic_army_mlr_task_1_descr">
+	<string id="igi_task_text_agr_1_6_medic_army_mlr_task_bs_fetch_drugkit_descr">
 		<text>У Роговца появились проблемы в виде нехватки необходимых ему лекарств и медикаментов, а ждать следующей доставки припасом с Большой земли попросту нет времени и возможностей.\nС его слов, в Зоне нашли своё применение специальные медицинские наборы, так что необходимо найти один такой кейс для создания медикаментов и доставить медику как можно скорее.</text>
 	</string>
-	<string id="igi_task_text_agr_1_6_medic_army_mlr_task_1_job_descr">
+	<string id="igi_task_text_agr_1_6_medic_army_mlr_task_bs_fetch_drugkit_job_descr">
 		<text>Медицинские запасы подходят к концу, а следующая птичка с припасами ещё ой как нескоро. Но слышал я, что сталкеры и торговцы начали наборы полевые, и не только, таскать в Зону. Мне бы такой пригодился. Сообразишь?</text>
 	</string>
-	<string id="igi_task_text_agr_1_6_medic_army_mlr_task_1_fetch_job_descr">
-		<text>Медицинские запасы подходят к концу, а следующая птичка ещё ой как нескоро. Но слышал я, что сталкеры и торговцы начали полевые наборы, и не только, таскать в Зону. Мне бы такой пригодился. Ну так вот, у меня ж тут из своего «зашить-полечить» практически ничего не осталось. Не спиртом да аскорбинкой же мне ребят лечить, верно? Пригодился бы «Набор для создания медикаментов». Там достаточно того, что мне нужно будет сварганить до следующего сброса припасов. Если притаранишь мне такой наборчик, то я уж тебя отблагодарю, брат, не сомневайся. Сообразишь? </text>
-	</string>
-	<string id="igi_task_text_agr_1_6_medic_army_mlr_task_1_fetch_finish">
+	<string id="igi_task_text_agr_1_6_medic_army_mlr_task_bs_fetch_drugkit_finish">
 		<text>Отлично! Благодарю тебя. Это не решит всех моих проблем, но однозначно поможет парням.</text>
 	</string>
 </string_table>

@@ -117,33 +117,30 @@
 		<text>Братан! Ну ты и уважил! И за наших отомстил. Вот, держи, заслужил. К слову, ты если из Зоны надумаешь свинтить, то черкни контакты, лады? Ведь такое дело и отряд с трудом осилит, а ты в одиночку... Рэмбо прям! Я вне Зоны знаю людей, которые точно заинтересуются твоими навыками.</text>
 	</string>
 
-	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_5_title">
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_bs_kill_all_mutants_on_map_title">
 		<text>Сафари</text>
 	</string>
-	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_5_descr">
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_bs_kill_all_mutants_on_map_descr">
 		<text>Похоже, мутантам слишком приглянулся Мёртвый город с прилегающими к нему территориями.\nОни не только мешают наёмникам спать по ночам, но и привлекают нежелательное внимание сталкеров-охотников.\n \nАслан попросил найти и уничтожить этих мутантов, обезопасив тем самым базу операций наёмников.</text>
 	</string>
-	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_5_job_descr">
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_bs_kill_all_mutants_on_map_job_descr">
 		<text>Есть у меня к тебе дело. Даже не контракт, а скорее личная просьба. Денежная, разумеется.\n \nЧто-то завелось у нас тут чересчур много зверья... по ночам твари эти спать не дают, а днём - сталкеров-охотников приводят. Задолбало это.\nСгоняешь проутюжить то место?</text>
 	</string>
-	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_5_finish">
+	<string id="igi_task_text_cit_killers_merc_barman_mlr_task_bs_kill_all_mutants_on_map_finish">
 		<text>Дело сделано, а вот и награда. Молодцом, братишка. Теперь хоть вздремнуть можно будет по-человечески.</text>
 	</string>
 	
 <!-- Surgeon (Mercenary Medic) -->
-	<string id="igi_task_text_cit_killers_merc_medic_stalker_task_1_title">
+	<string id="igi_task_text_cit_killers_merc_medic_stalker_task_bs_fetch_drugkit_title">
 		<text>Один лечит, другой - калечит</text>
 	</string>
-	<string id="igi_task_text_cit_killers_merc_medic_stalker_task_1_descr">
+	<string id="igi_task_text_cit_killers_merc_medic_stalker_task_bs_fetch_drugkit_descr">
 		<text>У наёмников постоянно кто-то крадёт различные припасы, но вычислить вора пока не удалось. Вместо этого Хирург попросил найти «Набор для создания медикаментов», которые ему позарез нужны для синтеза медикаментов для наёмников.</text>
 	</string>
-	<string id="igi_task_text_cit_killers_merc_medic_stalker_task_1_job_descr">
-		<text>Есть работёнка непыльная по части сбора припасов. Интересно?</text>
-	</string>
-	<string id="igi_task_text_cit_killers_merc_medic_stalker_task_1_fetch_job_descr">
+	<string id="igi_task_text_cit_killers_merc_medic_stalker_task_bs_fetch_drugkit_job_descr">
 		<text>Среди нас завелась какая-то сука, которая тащит всё, что плохо лежит: будь это жратва, патроны или даже наборы для синтеза медикаментов. Вот последнее у меня и умыкнула эта крыса. Не знаю, может реально клептоман какой среди бойцов завёлся, либо гнида эта по дозе морфия соскучилась. Как бы там ни было, от тебя мне сейчас надо, чтобы ты нашёл и притаранил мне новый «Набор для создания медикаментов». Ну что, согласен?</text>
 	</string>
-	<string id="igi_task_text_cit_killers_merc_medic_stalker_task_1_fetch_finish">
+	<string id="igi_task_text_cit_killers_merc_medic_stalker_task_bs_fetch_drugkit_finish">
 		<text>Отлично, благодарочку лови. А эту суку крысиную мы ещё найдём.</text>
 	</string>
 

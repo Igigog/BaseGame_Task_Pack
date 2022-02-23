@@ -92,19 +92,16 @@
 		<text>Ѕольшое спасибо. ћы перед вами в неоплачиваемом долгу.</text>
 	</string>
 	
-	<string id="igi_task_text_mar_smart_terrain_base_doctor_task_5_title">
+	<string id="igi_task_text_mar_smart_terrain_base_doctor_task_bs_fetch_drugkit_title">
 		<text>Ќародно-научна€ медицина</text>
 	</string>
-	<string id="igi_task_text_mar_smart_terrain_base_doctor_task_5_descr">
+	<string id="igi_task_text_mar_smart_terrain_base_doctor_task_bs_fetch_drugkit_descr">
 		<text>ѕрактически каждый в «оне может найти себе необычное увлечение: кто-то занимаетс€ изготовлением чучел из мутантов, кто-то содержит арены, кто-то собирает нашивки аки почтовые марки, ну, а кто-то - пытаетс€ использовать возможности «оны во благо.\nѕрофессор  аланча, например, проводит кучу экспериментов и исследований, но при этом умудр€етс€ заниматьс€ ещЄ и врачеванием, в котором ему удалось приложить и научный подход - синтезировать новые виды лекарств и медикаментов. Ќо дл€ этой цели ему необходимо найти Ќабор дл€ создани€ медикаментов, за который он обещал неплохо заплатить.</text>
 	</string>
-	<string id="igi_task_text_mar_smart_terrain_base_doctor_task_5_job_descr">
-		<text>Ќаучной медицине пригодилась бы необычна€ помощь добровольца, не хотите помочь?</text>
-	</string>
-	<string id="igi_task_text_mar_smart_terrain_base_doctor_task_5_fetch_job_descr">
+	<string id="igi_task_text_mar_smart_terrain_base_doctor_task_bs_fetch_drugkit_job_descr">
 		<text>я провожу р€д экспериментов, св€занных с фармацевтикой и проверкой различных гипотез и рецептов сталкеров, призванных предоставить альтернативные способы медпомощи и залечивани€ ран. ќднако € полностью лишилс€ необходимого дл€ этого оборудовани€...\nЌе могли бы вы найти дл€ мен€ Ќабор дл€ создани€ медикаментов? я заказал у —поры уже подобные комплекты, однако поставок придЄтс€ ждать некоторое врем€, а дл€ науки - это порой непозволительна€ роскошь. Ќабора мне будет достаточно.   тому же € готов достойно оплатить труды за нахождение и доставку.</text>
 	</string>
-	<string id="igi_task_text_mar_smart_terrain_base_doctor_task_5_fetch_finish">
+	<string id="igi_task_text_mar_smart_terrain_base_doctor_task_bs_fetch_drugkit_finish">
 		<text>ѕрекрасно! Ётого мне определЄнно хватит на некоторое врем€. Ѕлагодарю вас за помощь науке и медицине.</text>
 	</string>
 

@@ -226,6 +226,7 @@ icons = {
     "bs_return_document_from_stash": "ui_inGame2_Poslednie_razrabotki",
     "bs_return_box_from_stash": "ui_inGame2_Osobiy_zakaz",
     "bs_return_pda_from_stash": "ui_inGame2_PD_Torgovets_informatsiey",
+    "bs_kill_all_mutants_on_map": "ui_icons_black_chimera17",
 }
 
 quests = {
@@ -281,5 +282,8 @@ quests = {
     ],
     "bs_return_pda_from_stash": [
         {"Nimble"},
+    ],
+    "bs_kill_all_mutants_on_map": [
+        {"Aslan"},
     ],
 }

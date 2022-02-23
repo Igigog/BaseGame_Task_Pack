@@ -92,19 +92,16 @@
 		<text>We are all deeply indebted for your help.</text>
 	</string>
 	
-	<string id="igi_task_text_mar_smart_terrain_base_doctor_task_5_title">
+	<string id="igi_task_text_mar_smart_terrain_base_doctor_task_bs_fetch_drugkit_title">
 		<text>Find medical supplies for Professor Kalancha</text>
 	</string>
-	<string id="igi_task_text_mar_smart_terrain_base_doctor_task_5_descr">
+	<string id="igi_task_text_mar_smart_terrain_base_doctor_task_bs_fetch_drugkit_descr">
 		<text>%s is required by Professor Kalancha to work on medical supplies. You should bring them back to him if you find any.</text>
 	</string>
-	<string id="igi_task_text_mar_smart_terrain_base_doctor_task_5_job_descr">
+	<string id="igi_task_text_mar_smart_terrain_base_doctor_task_bs_fetch_drugkit_job_descr">
 		<text>Maintaining what's left from medical supplies storage with this number of injuries I have to treat on daily basis is worrying. I'm gonna run out of bandages and medkits soon or later. I need you to find me one of those old drug-making kits. They will come in handy for sure.</text>
 	</string>
-	<string id="igi_task_text_mar_smart_terrain_base_doctor_task_5_fetch_job_descr">
-		<text>There is. I've been looking all over for a drug-making kit. It should contain some tablets and ampoules I need to do work on medical supplies. I'll pay you for one of these kits if you can bring a full set back to me.</text>
-	</string>
-	<string id="igi_task_text_mar_smart_terrain_base_doctor_task_5_fetch_finish">
+	<string id="igi_task_text_mar_smart_terrain_base_doctor_task_bs_fetch_drugkit_finish">
 		<text>Great job! I own you big time.</text>
 	</string>
 

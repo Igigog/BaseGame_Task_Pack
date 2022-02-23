@@ -1,0 +1,57 @@
+TARGET_NAME = "dominate"
+PATTERN = "basic"
+
+local TASK_STATUSES = igi_subtask.TASK_STATUSES
+local WorldState = igi_world_state.WorldState
+
+function setup_level(entity)
+    entity.level_name = igi_helper.get_object_level(WorldState.objects[0])
+    if not xr_conditions.mutants_in_map_ge(nil, nil, {entity.level_name, 3}) then
+        return
+    end
+    return entity
+end
+
+function create_level(group_data)
+	local entries = {}
+	igi_target.add_custom_entry(entries, "level", group_data.group_id, 1, group_data, group_data)
+	return entries
+end
+
+function quest_target(entity)
+    return entity.current_target
+end
+
+local function is_monster(se_obj)
+    return is_squad_monster[se_obj.player_id]
+        and (not string.find(se_obj:section_name(),"tushkano"))
+        and (not string.find(se_obj:section_name(),"rat"))
+end
+
+local function get_level_name(se_obj)
+    local sim = WorldState.sim
+    local gg = WorldState.gg
+    return sim:level_name(gg:vertex(se_obj.m_game_vertex_id):level_id())
+end
+
+local function get_mutant_in_map(map_name)
+    for id in pairs(SIMBOARD.squads) do
+        local se_obj = WorldState.objects[id]
+        if se_obj and is_monster(se_obj) then
+            local lname = get_level_name(se_obj)
+            if lname == map_name then
+                se_obj.force_online = true
+                return id
+            end
+        end
+    end
+end
+
+function get_status(entity)
+    local enemy = get_mutant_in_map(entity.level_name)
+    if enemy then
+        entity.current_target = enemy
+        return TASK_STATUSES.RUNNING
+    end
+    return TASK_STATUSES.COMPLETED
+end

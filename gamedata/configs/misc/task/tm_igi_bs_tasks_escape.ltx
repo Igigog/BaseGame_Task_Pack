@@ -2,37 +2,11 @@
 ; 
 ;    Anomaly 1.5.1 
 ;    Igigog 
-;    Last change: 02/20/2022, 12:18:40 UTC 
+;    Last change: 02/20/2022, 14:19:25 UTC 
 ;
 ;============================================================
 ;============================================================
-;               {'Trader', 'Army', 'Escape'} 
-;                 esc_3_16_military_trader
-;============================================================
-
-[esc_3_16_military_trader_task_bs_fetch_patches]
-icon                  = ui_icons_kill_stalker6
-storyline             = false
-prior                 = 2000
-repeat_timeout        = 16200
-precondition          = {=validate_generic_task(esc_3_16_military_trader_task_bs_fetch_patches)} true, false
-
-title_functor         = igi_task_generic_text
-descr_functor         = igi_task_generic_text
-job_descr             = igi_task_text_esc_3_16_military_trader_task_bs_fetch_patches_job_descr
-task_complete_descr   = igi_task_text_esc_3_16_military_trader_task_bs_fetch_patches_finish
-
-stage_complete        = 1
-status_functor        = igi_task_generic_status
-target_functor        = igi_task_generic_target
-on_job_descr          = %=igi_task_generic_setup(esc_3_16_military_trader_task_bs_fetch_patches)%
-
-on_complete           = %=igi_task_generic_finish(esc_3_16_military_trader_task_bs_fetch_patches:true)%
-on_fail               = %=igi_task_generic_finish(esc_3_16_military_trader_task_bs_fetch_patches:false)%
-condlist_0            = {!task_giver_alive(esc_3_16_military_trader_task_bs_fetch_patches)} fail
-
-;============================================================
-;          {'Trader', 'Loner', 'Nimble', 'Escape'} 
+;          {'Nimble', 'Trader', 'Escape', 'Loner'} 
 ;                  esc_2_12_stalker_nimble
 ;============================================================
 
@@ -56,4 +30,30 @@ on_job_descr          = %=igi_task_generic_setup(esc_2_12_stalker_nimble_task_bs
 on_complete           = %=igi_task_generic_finish(esc_2_12_stalker_nimble_task_bs_return_pda_from_stash:true)%
 on_fail               = %=igi_task_generic_finish(esc_2_12_stalker_nimble_task_bs_return_pda_from_stash:false)%
 condlist_0            = {!task_giver_alive(esc_2_12_stalker_nimble_task_bs_return_pda_from_stash)} fail
+
+;============================================================
+;               {'Trader', 'Escape', 'Army'} 
+;                 esc_3_16_military_trader
+;============================================================
+
+[esc_3_16_military_trader_task_bs_fetch_patches]
+icon                  = ui_icons_kill_stalker6
+storyline             = false
+prior                 = 2000
+repeat_timeout        = 16200
+precondition          = {=validate_generic_task(esc_3_16_military_trader_task_bs_fetch_patches)} true, false
+
+title_functor         = igi_task_generic_text
+descr_functor         = igi_task_generic_text
+job_descr             = igi_task_text_esc_3_16_military_trader_task_bs_fetch_patches_job_descr
+task_complete_descr   = igi_task_text_esc_3_16_military_trader_task_bs_fetch_patches_finish
+
+stage_complete        = 1
+status_functor        = igi_task_generic_status
+target_functor        = igi_task_generic_target
+on_job_descr          = %=igi_task_generic_setup(esc_3_16_military_trader_task_bs_fetch_patches)%
+
+on_complete           = %=igi_task_generic_finish(esc_3_16_military_trader_task_bs_fetch_patches:true)%
+on_fail               = %=igi_task_generic_finish(esc_3_16_military_trader_task_bs_fetch_patches:false)%
+condlist_0            = {!task_giver_alive(esc_3_16_military_trader_task_bs_fetch_patches)} fail
 

@@ -1,0 +1,16 @@
+{
+	"preconditions": {
+	},
+	"disabled":false,
+	"setup": [
+		{
+		"entity_type":"location",
+		"where":"nearby"
+		},
+
+		{
+		"entity_type":"level",
+		"target":"clear_mutants"
+		}
+	]
+}

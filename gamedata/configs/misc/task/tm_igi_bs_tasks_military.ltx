@@ -2,11 +2,37 @@
 ; 
 ;    Anomaly 1.5.1 
 ;    Igigog 
-;    Last change: 02/20/2022, 12:18:40 UTC 
+;    Last change: 02/20/2022, 14:19:25 UTC 
 ;
 ;============================================================
 ;============================================================
-;                {'Medic', 'Freedom', 'AW'} 
+;         {'Freedom', 'Trader', 'AW', 'Skinflint'} 
+;       mil_smart_terrain_7_10_freedom_trader_stalker
+;============================================================
+
+[mil_smart_terrain_7_10_freedom_trader_stalker_task_bs_return_box_from_stash]
+icon                  = ui_inGame2_Osobiy_zakaz
+storyline             = false
+prior                 = 2000
+repeat_timeout        = 16200
+precondition          = {=validate_generic_task(mil_smart_terrain_7_10_freedom_trader_stalker_task_bs_return_box_from_stash)} true, false
+
+title_functor         = igi_task_generic_text
+descr_functor         = igi_task_generic_text
+job_descr             = igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_bs_return_box_from_stash_job_descr
+task_complete_descr   = igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_bs_return_box_from_stash_finish
+
+stage_complete        = 1
+status_functor        = igi_task_generic_status
+target_functor        = igi_task_generic_target
+on_job_descr          = %=igi_task_generic_setup(mil_smart_terrain_7_10_freedom_trader_stalker_task_bs_return_box_from_stash)%
+
+on_complete           = %=igi_task_generic_finish(mil_smart_terrain_7_10_freedom_trader_stalker_task_bs_return_box_from_stash:true)%
+on_fail               = %=igi_task_generic_finish(mil_smart_terrain_7_10_freedom_trader_stalker_task_bs_return_box_from_stash:false)%
+condlist_0            = {!task_giver_alive(mil_smart_terrain_7_10_freedom_trader_stalker_task_bs_return_box_from_stash)} fail
+
+;============================================================
+;                {'Freedom', 'Medic', 'AW'} 
 ;                     mil_freedom_medic
 ;============================================================
 
@@ -32,7 +58,7 @@ on_fail               = %=igi_task_generic_finish(mil_freedom_medic_task_bs_fetc
 condlist_0            = {!task_giver_alive(mil_freedom_medic_task_bs_fetch_drugkit)} fail
 
 ;============================================================
-;           {'Freedom', 'AW', 'Leader', 'Lukash'} 
+;           {'Freedom', 'Leader', 'Lukash', 'AW'} 
 ;       mil_smart_terrain_7_7_freedom_leader_stalker
 ;============================================================
 
@@ -56,30 +82,4 @@ on_job_descr          = %=igi_task_generic_setup(mil_smart_terrain_7_7_freedom_l
 on_complete           = %=igi_task_generic_finish(mil_smart_terrain_7_7_freedom_leader_stalker_task_bs_fetch_patches:true)%
 on_fail               = %=igi_task_generic_finish(mil_smart_terrain_7_7_freedom_leader_stalker_task_bs_fetch_patches:false)%
 condlist_0            = {!task_giver_alive(mil_smart_terrain_7_7_freedom_leader_stalker_task_bs_fetch_patches)} fail
-
-;============================================================
-;         {'Trader', 'Freedom', 'AW', 'Skinflint'} 
-;       mil_smart_terrain_7_10_freedom_trader_stalker
-;============================================================
-
-[mil_smart_terrain_7_10_freedom_trader_stalker_task_bs_return_box_from_stash]
-icon                  = ui_inGame2_Osobiy_zakaz
-storyline             = false
-prior                 = 2000
-repeat_timeout        = 16200
-precondition          = {=validate_generic_task(mil_smart_terrain_7_10_freedom_trader_stalker_task_bs_return_box_from_stash)} true, false
-
-title_functor         = igi_task_generic_text
-descr_functor         = igi_task_generic_text
-job_descr             = igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_bs_return_box_from_stash_job_descr
-task_complete_descr   = igi_task_text_mil_smart_terrain_7_10_freedom_trader_stalker_task_bs_return_box_from_stash_finish
-
-stage_complete        = 1
-status_functor        = igi_task_generic_status
-target_functor        = igi_task_generic_target
-on_job_descr          = %=igi_task_generic_setup(mil_smart_terrain_7_10_freedom_trader_stalker_task_bs_return_box_from_stash)%
-
-on_complete           = %=igi_task_generic_finish(mil_smart_terrain_7_10_freedom_trader_stalker_task_bs_return_box_from_stash:true)%
-on_fail               = %=igi_task_generic_finish(mil_smart_terrain_7_10_freedom_trader_stalker_task_bs_return_box_from_stash:false)%
-condlist_0            = {!task_giver_alive(mil_smart_terrain_7_10_freedom_trader_stalker_task_bs_return_box_from_stash)} fail
 

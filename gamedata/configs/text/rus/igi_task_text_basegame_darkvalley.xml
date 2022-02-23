@@ -157,19 +157,16 @@
 
 	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
 	<!-- (Bandit Medic) -->
-	<string id="igi_task_text_bandit_main_base_medic_mlr_task_1_title">
+	<string id="igi_task_text_bandit_main_base_medic_mlr_task_bs_fetch_drugkit_title">
 		<text>Во все тяжкие</text>
 	</string>
-	<string id="igi_task_text_bandit_main_base_medic_mlr_task_1_descr">
+	<string id="igi_task_text_bandit_main_base_medic_mlr_task_bs_fetch_drugkit_descr">
 		<text>Медику бандитов удалось разжиться рецептами ряда наркотиков, которые можно изготовить в полевых условиях. Однако для этого необходим «Набор для создания медикаментов», которого у братков нет. Необходимо найти набор и доставить его местному Айболиту.</text>
 	</string>
-	<string id="igi_task_text_bandit_main_base_medic_mlr_task_1_job_descr">
+	<string id="igi_task_text_bandit_main_base_medic_mlr_task_bs_fetch_drugkit_job_descr">
 		<text>Я тута типа врачевальник местный. Могу пришить чё, а могу и отшить, если ты по этой части. А могу магарыч подкинуть за халтуру, если в теме.</text>
 	</string>
-	<string id="igi_task_text_bandit_main_base_medic_mlr_task_1_fetch_job_descr">
-		<text>Зацени, тема такая короче: надо притаранить для братвы «Набор для создания медикаментов», мне кореш со Складов притаранил очередную маляву с ништяками - типа я смогу шмаль да колёса кашкарные забаццать. Сам, мля, ты прикинь! Тока хер там плавал... Без такой бандурины ничё не выйдет, а попробовать, сука, ой как хочется!</text>
-	</string>
-	<string id="igi_task_text_bandit_main_base_medic_mlr_task_1_fetch_finish">
+	<string id="igi_task_text_bandit_main_base_medic_mlr_task_bs_fetch_drugkit_finish">
 		<text>Ля, ну просто благодать терь будет, отвечаю. Лови благодарочку.\nНу чё, ща мы тут заварганим пунш да чё покруче, тока разобраться надо, чё там понаписано, мля...</text>
 	</string>
 

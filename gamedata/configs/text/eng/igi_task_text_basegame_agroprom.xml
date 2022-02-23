@@ -77,19 +77,16 @@
 	</string>
 
 <!-- (Military Medic) -->
-	<string id="igi_task_text_agr_1_6_medic_army_mlr_task_1_title">
+	<string id="igi_task_text_agr_1_6_medic_army_mlr_task_bs_fetch_drugkit_title">
 		<text>Find Drug-making kit for Lt. Rogovets</text>
 	</string>
-	<string id="igi_task_text_agr_1_6_medic_army_mlr_task_1_descr">
+	<string id="igi_task_text_agr_1_6_medic_army_mlr_task_bs_fetch_drugkit_descr">
 		<text>Drug-making kit is required by Lt. Rogovets to work expand his selection of medical supplies. I should bring them back to him if I find any.</text>
 	</string>
-	<string id="igi_task_text_agr_1_6_medic_army_mlr_task_1_job_descr">
+	<string id="igi_task_text_agr_1_6_medic_army_mlr_task_bs_fetch_drugkit_job_descr">
 		<text>We're short on medical supplies and our next bird will not be dropping by any time soon. However, I heard that some stalkers and traders started smuggling those drug-making kits in the Zone. They will come in handy for sure. Will you help me out?</text>
 	</string>
-	<string id="igi_task_text_agr_1_6_medic_army_mlr_task_1_fetch_job_descr">
-		<text>There is.  While I can treat the men at base just fine, my ability to keep them supplied while they're out in the field is limited. So, I've been trying to requisition a Drug-making kit. It'll let me prepare medicine for almost any potential threat or injury a soldier could encounter while out on patrol.\n \nOr at least, it would, but my request keeps getting postponed. Every second could save a life, so my proposition is this: if you find a decent kit, I'll pay you out of my own wallet for it, no fuss. Just bring one to me as soon as you can. </text>
-	</string>
-	<string id="igi_task_text_agr_1_6_medic_army_mlr_task_1_fetch_finish">
+	<string id="igi_task_text_agr_1_6_medic_army_mlr_task_bs_fetch_drugkit_finish">
 		<text>You managed to find a decent kit? Let me see. Oh, wow. This'll be good. I expect the survival rate of our patrols to increase dramatically from today. </text>
 	</string>
 </string_table>

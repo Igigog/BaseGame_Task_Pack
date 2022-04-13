@@ -1,0 +1,28 @@
+{
+	"preconditions": {
+	},
+	"disabled":false,
+	"entities": [
+		{
+		"entity_type":"squad",
+		"type":"mutant",
+		"where":"online",
+		"target":"assault",
+		"amount":1,
+		"to_create": false
+		},
+
+        {
+        "entity_type":"squad",
+        "factions":{
+            "bandit": true
+        },
+        "ignore_target_smart": true,
+        "ignore_stay_action": true,
+        "where":"0,0",
+        "target":"escort",
+        "amount":1,
+        "to_create": false
+        }
+	]
+}

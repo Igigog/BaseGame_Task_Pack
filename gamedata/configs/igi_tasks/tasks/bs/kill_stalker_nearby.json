@@ -2,11 +2,11 @@
 	"preconditions": {
 	},
 	"disabled":false,
-	"setup": [
+	"entities": [
 		{
 		"entity_type":"squad",
 		"type":"enemy",
-		"where":"nearby",
+		"where":"1,1",
 		"target":"kill",
 		"amount":1,
 		"to_create": false

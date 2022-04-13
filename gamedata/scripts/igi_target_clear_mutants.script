@@ -1,4 +1,4 @@
-TARGET_NAME = "dominate"
+TARGET_NAME = "clear_mutants"
 PATTERN = "basic"
 
 local TASK_STATUSES = igi_subtask.TASK_STATUSES
@@ -9,13 +9,10 @@ function setup_level(entity)
     if not xr_conditions.mutants_in_map_ge(nil, nil, {entity.level_name, 3}) then
         return
     end
-    return entity
+    return {}
 end
 
-function create_level(group_data)
-	local entries = {}
-	igi_target.add_custom_entry(entries, "level", group_data.group_id, 1, group_data, group_data)
-	return entries
+function create_level(entity)
 end
 
 function quest_target(entity)
@@ -49,9 +46,7 @@ end
 
 function get_status(entity)
     local enemy = get_mutant_in_map(entity.level_name)
-    if enemy then
-        entity.current_target = enemy
-        return TASK_STATUSES.RUNNING
-    end
-    return TASK_STATUSES.COMPLETED
+    if not enemy then return TASK_STATUSES.COMPLETED end
+    entity.current_target = enemy
+    return TASK_STATUSES.RUNNING
 end

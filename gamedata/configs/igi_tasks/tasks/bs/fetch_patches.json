@@ -2,13 +2,13 @@
 	"preconditions": {
 	},
 	"disabled":false,
-	"setup": [
+	"entities": [
 
 	{
 	"entity_type":"item",
 	"target":"fetch",
 	"faction": "&Faction(taskgiver)&",
-	"section":"&TableValueByKey(bs_patch_enemy, $this.faction$)&_patch",
+	"section_name":"&TableValueByKey(bs_patch_enemy, $this.faction$)&_patch",
 	"amount": "&Random(5,10)&",
 	"where":"anywhere"
 	}

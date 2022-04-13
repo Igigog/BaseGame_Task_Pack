@@ -2,12 +2,12 @@
 	"preconditions": {
 	},
 	"disabled":false,
-	"setup": [
+	"entities": [
 
 	{
 	"entity_type":"item",
 	"target":"fetch",
-	"section":"itm_drugkit",
+	"section_name":"itm_drugkit",
 	"amount": 1,
 	"where":"anywhere"
 	}

@@ -2,15 +2,11 @@
 	"preconditions": {
 	},
 	"disabled":false,
-	"setup": [
-		{
-		"entity_type":"location",
-		"where":"nearby"
-		},
-
+	"entities": [
 		{
 		"entity_type":"level",
-		"target":"clear_mutants"
+		"target":"clear_mutants",
+		"no_description": true
 		}
 	]
 }

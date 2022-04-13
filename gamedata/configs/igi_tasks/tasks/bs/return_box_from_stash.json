@@ -2,19 +2,19 @@
 	"preconditions": {
 	},
 	"disabled":false,
-	"setup": [
+	"entities": [
 		{
 		"entity_type":"item",
 		"where":"$location_1_1.id$",
 		"target":"return",
 		"amount":1,
-		"section": "drx_sl_quest_item_2",
+		"section_name": "drx_sl_quest_item_2",
 		"to_create": true
 		},
 
 		{
 		"entity_type":"location",
-		"location_type": "stash",
+		"search_for": "stash",
 		"search_distance":"1,2",
 		"amount":1,
 		"to_create": false

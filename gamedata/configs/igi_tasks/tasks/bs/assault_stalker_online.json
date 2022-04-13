@@ -2,11 +2,11 @@
 	"preconditions": {
 	},
 	"disabled":false,
-	"setup": [
+	"entities": [
 		{
 		"entity_type":"squad",
 		"type":"enemy",
-		"where":"online",
+		"where":"0,0",
 		"target":"assault",
 		"amount":1,
 		"to_create": false

@@ -11,5 +11,11 @@
 		"amount":1,
 		"to_create": false
 		}
-	]
+	],
+	"quest_givers": [
+		{"Olivius": true},
+        {"Kuznetsov": true},
+        {"Petrenko": true}
+	],
+	"icon": "ui_inGame2_PD_Lider"
 }

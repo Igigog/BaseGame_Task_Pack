@@ -11,5 +11,10 @@
 		"amount":1,
 		"to_create": false
 		}
-	]
+	],
+	"quest_givers": [
+		{"Barman": true},
+        {"Hunter": true}
+	],
+	"icon": "ui_iconsTotal_mutant"
 }

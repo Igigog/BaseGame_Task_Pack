@@ -8,5 +8,9 @@
 		"target":"clear_mutants",
 		"no_description": true
 		}
-	]
+	],
+	"quest_givers": [
+		{"Aslan": true}
+	],
+	"icon": "ui_icons_black_chimera17"
 }

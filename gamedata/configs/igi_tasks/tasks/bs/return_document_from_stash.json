@@ -19,5 +19,15 @@
 		"amount":1,
 		"to_create": false
 		}
-	]
+	],
+	"quest_givers": [
+		{"Kuznetsov": true},
+        {"Barkeep": true},
+        {"Dushman": true},
+        {"Hermann": true},
+        {"Medic": true, "ClearSky": true, "Marsh": true},
+        {"Eidolon": true},
+        {"Sakharov": true}
+	],
+	"icon": "ui_inGame2_Poslednie_razrabotki"
 }

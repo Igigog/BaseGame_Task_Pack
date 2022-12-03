@@ -19,5 +19,10 @@
 		"amount":1,
 		"to_create": false
 		}
-	]
+	],
+	"quest_givers": [
+		{"Sultan": true},
+        {"Skinflint": true}
+	],
+	"icon": "ui_inGame2_Osobiy_zakaz"
 }

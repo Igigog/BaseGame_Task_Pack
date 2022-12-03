@@ -11,5 +11,18 @@
 		"amount":1,
 		"to_create": false
 		}
-	]
+	],
+	"quest_givers": [
+		{"Barkeep": true},
+        {"Olivius": true},
+        {"Trapper": true},
+        {"Kuznetsov": true},
+        {"Petrenko": true},
+        {"Sultan": true},
+        {"Dushman": true},
+        {"Aslan": true},
+        {"Sidorovich": true},
+        {"Rabbit": true}
+	],
+	"icon": "ui_inGame2_Odin_vistrel"
 }

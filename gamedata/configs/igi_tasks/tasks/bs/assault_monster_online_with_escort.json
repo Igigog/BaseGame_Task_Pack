@@ -24,5 +24,7 @@
         "amount":1,
         "to_create": false
         }
-	]
+	],
+	"quest_givers": [],
+	"icon": ""
 }

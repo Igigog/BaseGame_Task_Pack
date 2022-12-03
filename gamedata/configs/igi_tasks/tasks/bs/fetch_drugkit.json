@@ -12,5 +12,9 @@
 	"where":"anywhere"
 	}
 
-	]
+	],
+	"quest_givers": [
+		{"Medic": true}
+	],
+	"icon": "ui_inGame2_D_Sisshik"
 }

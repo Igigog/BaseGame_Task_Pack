@@ -19,5 +19,9 @@
 		"amount":1,
 		"to_create": false
 		}
-	]
+	],
+	"quest_givers": [
+		{"Nimble": true}
+	],
+	"icon": "ui_inGame2_PD_Torgovets_informatsiey"
 }

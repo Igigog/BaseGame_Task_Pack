@@ -5,7 +5,7 @@
 	"entities": [
 		{
 		"entity_type":"item",
-		"where":"$location_1_1.id$",
+		"where":"[location_1_1.id]",
 		"target":"return",
 		"amount":1,
 		"section_name": "drx_sl_quest_item_1",

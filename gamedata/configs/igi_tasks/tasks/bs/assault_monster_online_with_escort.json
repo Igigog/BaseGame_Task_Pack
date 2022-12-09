@@ -6,7 +6,7 @@
 		{
 		"entity_type":"squad",
 		"type":"mutant",
-		"where":"online",
+		"where":"0,0",
 		"target":"assault",
 		"amount":1,
 		"to_create": false

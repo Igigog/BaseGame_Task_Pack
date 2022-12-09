@@ -50,3 +50,8 @@ function get_status(entity)
     entity.current_target = enemy
     return TASK_STATUSES.RUNNING
 end
+
+function test(entity)
+    entity.status = "COMPLETED"
+    return true
+end

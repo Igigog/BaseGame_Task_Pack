@@ -8,6 +8,10 @@
         <text>Assault</text>
     </string>
     
+    <string id="igi_task_text_bs_kill_stalker_nearby_title">
+        <text>Kill Stalker</text>
+    </string>
+    
     <string id="igi_task_text_bs_fetch_drugkit_title">
         <text>Fetch drugkit</text>
     </string>
@@ -16,7 +20,19 @@
         <text>Fetch patches</text>
     </string>
     
-    <string id="igi_task_text_bs_kill_stalker_nearby_title">
-        <text>Kill Stalker</text>
+    <string id="igi_task_text_bs_return_box_from_stash_title">
+        <text>Return Box</text>
+    </string>
+
+    <string id="igi_task_text_bs_return_document_from_stash_title">
+        <text>Return Documents</text>
+    </string>
+
+    <string id="igi_task_text_bs_return_pda_from_stash_title">
+        <text>Return PDA</text>
+    </string>
+
+    <string id="igi_task_text_bs_kill_all_mutants_on_map_title">
+        <text>Kill all Mutants</text>
     </string>
 </string_table>

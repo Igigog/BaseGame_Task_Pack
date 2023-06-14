@@ -5,7 +5,7 @@
 	"entities": [
 		{
 		"entity_type":"item",
-		"where":"[location_1_1.id]",
+		"where":"[stash.id]",
 		"target":"return",
 		"amount":1,
 		"section_name": "drx_sl_quest_item_1",
@@ -17,7 +17,8 @@
 		"search_for": "stash",
 		"search_distance":"1,2",
 		"amount":1,
-		"to_create": false
+		"to_create": false,
+		"link_id": "stash"
 		}
 	],
 	"quest_givers": [

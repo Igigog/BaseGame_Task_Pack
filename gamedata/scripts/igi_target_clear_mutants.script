@@ -1,18 +1,21 @@
 TARGET_NAME = "clear_mutants"
 PATTERN = "basic"
+FUNCTORS = {
+	setup = {script_name()..".setup"},
+	create = {},
+	status = {script_name()..".status"},
+	cleanup = {},
+}
 
 local TASK_STATUSES = igi_subtask.TASK_STATUSES
 local WorldState = igi_world_state.WorldState
 
-function setup_level(entity)
+function setup(entity)
     entity.level_name = igi_helper.get_object_level(WorldState.objects[0])
     if not xr_conditions.mutants_in_map_ge(nil, nil, {entity.level_name, 3}) then
         return
     end
     return {}
-end
-
-function create_level(entity)
 end
 
 function quest_target(entity)
@@ -44,7 +47,7 @@ local function get_mutant_in_map(map_name)
     end
 end
 
-function get_status(entity)
+function status(entity)
     local enemy = get_mutant_in_map(entity.level_name)
     if not enemy then return TASK_STATUSES.COMPLETED end
     entity.current_target = enemy

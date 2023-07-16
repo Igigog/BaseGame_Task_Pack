@@ -7,9 +7,15 @@
 		"entity_type":"squad",
 		"type":"enemy",
 		"where":"0,0",
-		"target":"assault",
 		"amount":1,
-		"to_create": false
+		"to_create": false,
+		"link_id": "squad"
+		},
+
+		{
+			"entity_type": "location",
+			"id": "[squad:current_target_id]",
+			"target": "assault"
 		}
 	],
 	"quest_givers": [

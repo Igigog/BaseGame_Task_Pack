@@ -6,7 +6,7 @@
 		{
 		"entity_type":"squad",
 		"type":"mutant",
-		"where":"0,0",
+		"search_distance":"0,0",
 		"amount":1,
 		"to_create": false,
 		"link_id": "squad"

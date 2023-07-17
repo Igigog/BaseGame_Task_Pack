@@ -6,7 +6,7 @@
 		{
 		"entity_type":"squad",
 		"type":"enemy",
-		"where":"1,1",
+		"search_distance":"1,1",
 		"target":"kill",
 		"amount":1,
 		"to_create": false

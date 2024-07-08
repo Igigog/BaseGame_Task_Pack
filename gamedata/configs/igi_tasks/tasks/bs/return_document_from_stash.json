@@ -18,6 +18,7 @@
 		"link_id": "stash"
 		}
 	],
+	"rewarder": "igi_rewards.STATIC_REWARDER(3000, 20)",
 	"quest_givers": [
 		{"Kuznetsov": true},
         {"Barkeep": true},

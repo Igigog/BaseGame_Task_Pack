@@ -18,6 +18,9 @@
 		"link_id": "stash"
 		}
 	],
+	"on_first_run": [
+		"treasure_manager.set_random_stash(nil, nil, nil, [stash.id])"
+	],
 	"quest_givers": [
 		{"Sultan": true},
         {"Skinflint": true}

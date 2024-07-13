@@ -19,6 +19,9 @@
 		}
 	],
 	"rewarder": "igi_rewards.STATIC_REWARDER(3000, 20)",
+	"on_first_run": [
+		"treasure_manager.set_random_stash(nil, nil, nil, [stash.id])"
+	],
 	"quest_givers": [
 		{"Kuznetsov": true},
         {"Barkeep": true},

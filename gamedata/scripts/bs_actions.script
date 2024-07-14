@@ -1,0 +1,6 @@
+function give_drugkit_info(tg_id)
+    igi_helper.trace_assert(type(tg_id) == "number", "tg_id is not number")
+    local se_npc = igi_world_state.WorldState.objects[tg_id]
+    igi_helper.trace_assert(se_npc ~= nil, "Task giver is nil")
+    give_info(se_npc:section_name() .. "_drugkit_done")
+end

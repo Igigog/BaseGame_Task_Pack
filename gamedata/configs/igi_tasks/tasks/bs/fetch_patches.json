@@ -6,7 +6,7 @@
 	"target":"fetch",
 	"faction": "&igi_macros.Faction('taskgiver')&",
 	"section_name":"&igi_macros.TableValueByKey('bs_patch_enemy', '[this.faction]')&_patch",
-	"amount": "&igi_macros.Random(5,10)&",
+	"amount": "&igi_random.rand(5,10)&",
 	"where":"anywhere"
 	}
 

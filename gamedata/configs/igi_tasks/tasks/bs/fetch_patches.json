@@ -4,7 +4,7 @@
 	{
 	"entity_type":"item",
 	"target":"fetch",
-	"faction": "&igi_macros.Faction('taskgiver')&",
+	"faction": "&igi_macros.Faction([CACHE.task_giver_id], 'taskgiver')&",
 	"section_name":"&igi_macros.TableValueByKey('bs_patch_enemy', '[this.faction]')&_patch",
 	"amount": "&igi_random.rand(5,10)&",
 	"where":"anywhere"

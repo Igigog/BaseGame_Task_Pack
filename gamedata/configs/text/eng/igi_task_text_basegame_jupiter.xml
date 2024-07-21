@@ -117,50 +117,41 @@
 	<!--- Call of Chernobyl -->
 
 
-	<string id="igi_task_text_jup_b217_stalker_tech_1_title">
+	<string id="igi_task_text_jup_b217_stalker_tech_fetch_itm_basickit_title">
 		<text>Find Basic tool</text>
 	</string>
-	<string id="igi_task_text_jup_b217_stalker_tech_1_descr">
+	<string id="igi_task_text_jup_b217_stalker_tech_fetch_itm_basickit_descr">
 		<text>Basic tools are required by Nitro to install basic equipment upgrades, you should bring them back to him if you find any.</text>
 	</string>
-	<string id="igi_task_text_jup_b217_stalker_tech_1_job_descr">
+	<string id="igi_task_text_jup_b217_stalker_tech_fetch_itm_basickit_job_descr">
 		<text>I need new tools, stalker, something that is hard to come by in the Zone. If you are interested in helping me out, I will tell you what I need.</text>
 	</string>
-	<string id="igi_task_text_jup_b217_stalker_tech_1_fetch_job_descr">
-		<text>I need a set of basic tools. It should contain what I need. If you can bring some back for me, I will be grateful; I will even offer you a discount from here on out.</text>
-	</string>
-	<string id="igi_task_text_jup_b217_stalker_tech_1_fetch_finish">
+	<string id="igi_task_text_jup_b217_stalker_tech_fetch_itm_basickit_finish">
 		<text>Perfect! This is just what I need, stalker. If you need any of your equipment fine-tuned, I can now do it properly.</text>
 	</string>
 
-	<string id="igi_task_text_jup_b217_stalker_tech_2_title">
+	<string id="igi_task_text_jup_b217_stalker_tech_fetch_itm_advancedkit_title">
 		<text>Find Advanced tools</text>
 	</string>
-	<string id="igi_task_text_jup_b217_stalker_tech_2_descr">
+	<string id="igi_task_text_jup_b217_stalker_tech_fetch_itm_advancedkit_descr">
 		<text>Advanced tools are required by Nitro to install advanced equipment upgrades, you should bring them back to him if you find any.</text>
 	</string>
-	<string id="igi_task_text_jup_b217_stalker_tech_2_job_descr">
+	<string id="igi_task_text_jup_b217_stalker_tech_fetch_itm_advancedkit_job_descr">
 		<text>The toolkit you brought me is great, but it doesn't have everything I need. Do you think you can find me a better set?</text>
 	</string>
-	<string id="igi_task_text_jup_b217_stalker_tech_2_fetch_job_descr">
-		<text>I need an Expert tools. I'm not sure where you can get one of these, but if you can find one, I need it.</text>
-	</string>
-	<string id="igi_task_text_jup_b217_stalker_tech_2_fetch_finish">
+	<string id="igi_task_text_jup_b217_stalker_tech_fetch_itm_advancedkit_finish">
 		<text>Whoa! You found a nice set of tools for me. Here, I promised you some money in return.</text>
 	</string>
-	<string id="igi_task_text_jup_b217_stalker_tech_3_title">
+	<string id="igi_task_text_jup_b217_stalker_tech_fetch_itm_expertkit_title">
 		<text>Find Expert tools</text>
 	</string>
-	<string id="igi_task_text_jup_b217_stalker_tech_3_descr">
+	<string id="igi_task_text_jup_b217_stalker_tech_fetch_itm_expertkit_descr">
 		<text>Expert tools are required by Nitro to install expert equipment upgrades, you should bring them back to him if you find any.</text>
 	</string>
-	<string id="igi_task_text_jup_b217_stalker_tech_3_job_descr">
+	<string id="igi_task_text_jup_b217_stalker_tech_fetch_itm_expertkit_job_descr">
 		<text>The toolkit you brought me is great, but it doesn't have everything I need. Do you think you can find me a better set?</text>
 	</string>
-	<string id="igi_task_text_jup_b217_stalker_tech_3_fetch_job_descr">
-		<text>I need an Expert tools. I'm not sure where you can get one of these, but if you can find one, I need it.</text>
-	</string>
-	<string id="igi_task_text_jup_b217_stalker_tech_3_fetch_finish">
+	<string id="igi_task_text_jup_b217_stalker_tech_fetch_itm_expertkit_finish">
 		<text>Whoa! You found a nice set of tools for me. Here, I promised you some money in return.</text>
 	</string>
 
@@ -185,7 +176,7 @@
 		<text>I'm here to deliver a message.</text>
 	</string>
 
-	
+
 <!-- (Ecologists) -->
 	<string id="igi_task_text_jup_b6_scientist_nuclear_physicist_1_title">
 		<text>Scanning Field</text>
@@ -211,7 +202,7 @@
 	<string id="igi_task_text_jup_b6_scientist_nuclear_physicist_1_finish">
 		<text>I can see that the scanner is working as intended. Thank you stalker, I am very grateful.</text>
 	</string>
-	
+
 	<!-- Bonesetter (Loner Medic) -->
 	<string id="igi_task_text_jup_a6_stalker_medik_bs_fetch_drugkit_title">
 		<text>Find Drug-making kit</text>

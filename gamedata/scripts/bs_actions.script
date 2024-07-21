@@ -4,3 +4,36 @@ function give_drugkit_info(tg_id)
     igi_helper.trace_assert(se_npc ~= nil, "Task giver is nil")
     give_info(se_npc:section_name() .. "_drugkit_done")
 end
+
+function next_toolkit(tg_id)
+    igi_helper.trace_assert(type(tg_id) == "number", "tg_id is not number")
+    local section = igi_world_state.WorldState.objects[tg_id]:section_name()
+    if not has_alife_info(section .. "_upgrade_tier_1") then
+        return "itm_basickit"
+    elseif not has_alife_info(section .. "_upgrade_tier_2") then
+        return "itm_advancedkit"
+    elseif not has_alife_info(section .. "_upgrade_tier_3") then
+        return "itm_expertkit"
+    end
+    return nil
+end
+
+function tg_name(tg_id)
+    igi_helper.trace_assert(type(tg_id) == "number", "tg_id is not number")
+    return igi_world_state.WorldState.objects[tg_id]:section_name()
+end
+
+function give_toolkit_info(tg_id, toolkit_section)
+    igi_helper.trace_assert(type(tg_id) == "number", "tg_id is not number")
+    igi_helper.trace_assert(type(toolkit_section) == "string", "toolkit_section is not string")
+    local section = igi_world_state.WorldState.objects[tg_id]:section_name()
+    if toolkit_section == "itm_basickit" then
+        give_info(section .. "_upgrade_tier_1")
+    elseif toolkit_section == "itm_advancedkit" then
+        give_info(section .. "_upgrade_tier_2")
+    elseif toolkit_section == "itm_expertkit" then
+        give_info(section .. "_upgrade_tier_3")
+    else
+        igi_helper.trace_error("Unknown toolkit! Can't upgrade mechanic. Section: " .. toolkit_section)
+    end
+end

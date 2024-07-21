@@ -25,22 +25,22 @@
 	<string id="igi_task_text_monolith_eidolon_bs_fetch_patches_finish">
 		<text>Such devotion. To our glorious cause. Devotion shall be rewarded.</text>
 	</string>
-	
+
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Eidolon (Elite Monolith Soldier) Hunt the Mutants Task -->
-	
+
 	<string id="igi_task_text_monolith_eidolon_2_title">
 		<text>The Greatest Warrior</text>
-	</string>	
+	</string>
 	<string id="igi_task_text_monolith_eidolon_2_descr">
 		<text>Collect trophies for Eidolon.</text>
-	</string>		
+	</string>
 	<string id="igi_task_text_monolith_eidolon_2_job_descr">
 		<text>Dangerous. Lethal beasts. A gift of the Zone, for us to behold. For us to take. Guardians, providers, as well as a milestone. A way to test our strength. Resolve, and combat prowess. Go, brother. Hunt a mighty hunter, man versus beast.</text>
-	</string>		
+	</string>
 	<string id="igi_task_text_monolith_eidolon_2_fetch_job_descr">
 		<text>Dangerous. Lethal beasts. A gift of the Zone, for us to behold. For us to take. Guardians, providers, as well as a milestone. A way to test our strength. Resolve, and combat prowess. Go, brother. Hunt a mighty hunter, man versus beast. Collect trophies to prove your worth.</text>
-	</string>	
+	</string>
 	<string id="igi_task_text_monolith_eidolon_2_fetch_finish">
 		<text>Magnificent trophy. The Monolith is proud. So am I. A reward, for you.</text>
 	</string>
@@ -63,7 +63,7 @@
 	<string id="igi_task_text_monolith_eidolon_3_fetch_finish">
 		<text>Excellent. Marvellous. A sight to behold. You have got my gratitude, loyal brother.</text>
 	</string>
-	
+
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Eidolon (Elite Monolith Soldier) Keeper of Secrets Task -->
 	<string id="igi_task_text_monolith_eidolon_bs_return_document_from_stash_title">
@@ -181,7 +181,7 @@
 	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_6_fetch_finish">
 		<text>You serve the Monolith well. Join us tonight in the ceremonial offering. There will be chanting.</text>
 	</string>
-	
+
 	<string id="igi_task_text_lider_monolith_haron_1_title">
 		<text>Destroy the enemy</text>
 	</string>
@@ -207,7 +207,7 @@
 	<string id="igi_task_text_lider_monolith_haron_bs_fetch_patches_finish">
 		<text>Outstanding, brother. This is for you, from the Monolith.</text>
 	</string>
-	
+
 <!-- Griffith -->
 	<string id="igi_task_text_merc_pri_grifon_mlr_1_title">
 		<text>Collect patches</text>
@@ -224,7 +224,7 @@
 	<string id="igi_task_text_merc_pri_grifon_mlr_1_fetch_finish">
 		<text>Thanks, stalker. Here's the dough I promised you.</text>
 	</string>
-	
+
 	<string id="igi_task_text_merc_pri_grifon_mlr_2_title">
 		<text>Find a Soul artefact</text>
 	</string>
@@ -250,38 +250,32 @@
 	<string id="igi_task_text_merc_pri_grifon_mlr_3_finish">
 		<text>Thank you, great work. Here's some money for your trouble.</text>
 	</string>
-	
-	
+
+
 <!-- (Mercenary Mechanic) -->
-	<string id="igi_task_text_merc_pri_a18_mech_mlr_1_title">
+	<string id="igi_task_text_merc_pri_a18_mech_mlr_fetch_itm_basickit_title">
 		<text>Find Basic tools for the Mercenary mechanic in Outskirts</text>
 	</string>
-	<string id="igi_task_text_merc_pri_a18_mech_mlr_1_descr">
+	<string id="igi_task_text_merc_pri_a18_mech_mlr_fetch_itm_basickit_descr">
 		<text>A mercenary technician in the Outskirts has asked me to find Basic tools.</text>
 	</string>
-	<string id="igi_task_text_merc_pri_a18_mech_mlr_1_job_descr">
+	<string id="igi_task_text_merc_pri_a18_mech_mlr_fetch_itm_basickit_job_descr">
 		<text>We've been sitting on our asses here in Pripyat for such a long time... Surely, you've heard our story from Griffin. I've searched high and low for tools, but I've only managed to find low tier ones that aren't suitable for extensive maintenance and customization. This is outrageous. I'm a technician, and I need proper tools to work optimally. Can you help me out?</text>
 	</string>
-	<string id="igi_task_text_merc_pri_a18_mech_mlr_1_fetch_job_descr">
-		<text>We've been sitting on our asses here in Pripyat for such a long time... Surely, you've heard our story from Griffin. I've searched high and low for tools, but I've only managed to find low tier ones that aren't suitable for extensive maintenance and customization. This is outrageous. I'm a technician, and I need proper tools to work optimally. Can you help me out?</text>
-	</string>
-	<string id="igi_task_text_merc_pri_a18_mech_mlr_1_fetch_finish">
+	<string id="igi_task_text_merc_pri_a18_mech_mlr_fetch_itm_basickit_finish">
 		<text>Thank you - won't be as stressful for the guys here anymore. I'll give you a discount.</text>
 	</string>
 
-	<string id="igi_task_text_merc_pri_a18_mech_mlr_2_title">
+	<string id="igi_task_text_merc_pri_a18_mech_mlr_fetch_itm_advancedkit_title">
 		<text>Find Advanced tools for the Mercenary mechanic in Outskirts</text>
 	</string>
-	<string id="igi_task_text_merc_pri_a18_mech_mlr_2_descr">
+	<string id="igi_task_text_merc_pri_a18_mech_mlr_fetch_itm_advancedkit_descr">
 		<text>A mercenary technician in the Outskirts has asked me to find Advanced tools.</text>
 	</string>
-	<string id="igi_task_text_merc_pri_a18_mech_mlr_2_job_descr">
+	<string id="igi_task_text_merc_pri_a18_mech_mlr_fetch_itm_advancedkit_job_descr">
 		<text>Well, we've sorted out a few issues, but there's still a lot left to do. Need better tools for even more upgrades. Mind helping out again?</text>
 	</string>
-	<string id="igi_task_text_merc_pri_a18_mech_mlr_2_fetch_job_descr">
-		<text>Well, we've sorted out a few issues, but there's still a lot left to do. Need better tools for even more upgrades. Mind helping out again?</text>
-	</string>
-	<string id="igi_task_text_merc_pri_a18_mech_mlr_2_fetch_finish">
+	<string id="igi_task_text_merc_pri_a18_mech_mlr_fetch_itm_advancedkit_finish">
 		<text>Well done. Now I have a full set, and you can have all the discounts you're entitled to.</text>
 	</string>
 </string_table>

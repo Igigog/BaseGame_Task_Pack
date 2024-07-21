@@ -2,23 +2,23 @@
 <string_table>
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Voronin (Duty Honcho) Decimate the Enemy Task -->
-	
+
 	<string id="igi_task_text_bar_dolg_leader_bs_fetch_patches_title">
 		<text>Crack Down</text>
-	</string>	
+	</string>
 	<string id="igi_task_text_bar_dolg_leader_bs_fetch_patches_descr">
 		<text>General Voronin is encouraging a crackdown on Duty's enemies. I can collect patches for a reward.</text>
-	</string>		
+	</string>
 	<string id="igi_task_text_bar_dolg_leader_bs_fetch_patches_job_descr">
 		<text>Listen to me, stalker; while we strive to eradicate the Zone, we cannot ignore our duty to the innocent. On all sides, the average stalker is beset by outlaws and extremists driven by avarice and delusion! Although the monstrosities of the Zone are our true foe, we cannot sit back and do nothing while free stalkers are being harassed and misled! Thin the forces of those who would dare hurt or corrupt them. </text>
-	</string>		
+	</string>
 	<string id="igi_task_text_bar_dolg_leader_bs_fetch_patches_fetch_finish">
 		<text>Excellent job. Through your actions, you have helped protect the innocent from humanity's oldest nemesis; itself. </text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Voronin (Duty Honcho) Night Terror Task -->
-	
+
 	<string id="igi_task_text_bar_dolg_leader_2_title">
 		<text>Night Terror</text>
 	</string>
@@ -31,7 +31,7 @@
 	<string id="igi_task_text_bar_dolg_leader_2_finish">
 		<text>Another step toward fulfilling our goal. Allow me to repay our new debt to you.</text>
 	</string>
-	
+
 	<!-- Voronin (Duty Honcho) Mortal Sin Unquenchable Flame Task -->
 	<string id="igi_task_text_bar_dolg_leader_3_job_descr">
 		<text>Even though we have already struck the decisive blow against Sin, its devotees refuse to surrender. Trusted informants have determined that survivors of the faction are busy gathering in Zaton's abandoned substation workshops as we speak. We cannot let them regroup. It is time to finish them off once and for all.</text>
@@ -39,7 +39,7 @@
 	<string id="igi_task_text_bar_dolg_leader_3_finish">
 		<text>Excellent work! We could not afford to get dragged into yet another long-term conflict. </text>
 	</string>
-	
+
 	<!-- Voronin (Duty Honcho) From Ukraine With Love Task -->
 	<string id="igi_task_text_bar_dolg_leader_4_title">
 		<text>From Ukraine with Love</text>
@@ -59,7 +59,7 @@
 	<string id="igi_task_text_bar_dolg_leader_4_msg_leave">
 		<text>Thanks for escorting me back safely. I'll put in a commendation to the General for you when I make my report.</text>
 	</string>
-	
+
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Petrenko (Duty Trader) Payoff Change Factions Task -->
 
@@ -78,7 +78,7 @@
 
 
 	<!-- Petrenko (Duty Trader) Defend Rostok Task -->
-	
+
 	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_bs_assault_stalker_online_title">
 		<text>Defend Rostok</text>
 	</string>
@@ -117,7 +117,7 @@
 	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_bs_kill_stalker_nearby_finish">
 		<text>Great! You do us proud, and such diligence shall not go unrewarded.</text>
 	</string>
-	
+
 	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_4_title">
 		<text>Knowing is Half the Battle</text>
 	</string>
@@ -133,56 +133,47 @@
 	<string id="igi_task_text_bar_dolg_general_petrenko_stalker_4_fetch_finish">
 		<text>You have earned our gratitude, soldier. Here is your commission.</text>
 	</string>
-	
+
 
 	<!-- Mangun (Duty Mechanic) -->
-	<string id="igi_task_text_bar_visitors_stalker_mechanic_1_title">
+	<string id="igi_task_text_bar_visitors_stalker_mechanic_fetch_itm_basickit_title">
 		<text>Find Basic tools for Mangun</text>
 	</string>
-	<string id="igi_task_text_bar_visitors_stalker_mechanic_1_descr">
+	<string id="igi_task_text_bar_visitors_stalker_mechanic_fetch_itm_basickit_descr">
 		<text>Basic tools are required by Mangun to install basic equipment upgrades, I should bring them back to him if I find any.</text>
 	</string>
-	<string id="igi_task_text_bar_visitors_stalker_mechanic_1_job_descr">
+	<string id="igi_task_text_bar_visitors_stalker_mechanic_fetch_itm_basickit_job_descr">
 		<text>Yes. We have Freedom to the north, bandits to the south-east, and mercs to the west. That's a lot of enemies, and I need to make sure Duty gets the edge they need in terms of equipment. I could do with some new tools - even basic ones would make a difference at this point. If you bring some, I could show you what this whole upgrading business is all about. You'll get a good return on your investment, don't worry.</text>
 	</string>
-	<string id="igi_task_text_bar_visitors_stalker_mechanic_1_fetch_job_descr">
-		<text>You will? I mean, of course you will! Hurry back now, Duty needs this!</text>
-	</string>
-	<string id="igi_task_text_bar_visitors_stalker_mechanic_1_fetch_finish">
+	<string id="igi_task_text_bar_visitors_stalker_mechanic_fetch_itm_basickit_finish">
 		<text>Finally! Something to do that isn't just maintenance work or drinking myself to death.</text>
 	</string>
-	<string id="igi_task_text_bar_visitors_stalker_mechanic_2_title">
+	<string id="igi_task_text_bar_visitors_stalker_mechanic_fetch_itm_advancedkit_title">
 		<text>Find an Advanced tools for Mangun</text>
 	</string>
-	<string id="igi_task_text_bar_visitors_stalker_mechanic_2_descr">
+	<string id="igi_task_text_bar_visitors_stalker_mechanic_fetch_itm_advancedkit_descr">
 		<text>Advanced tools are required by Mangun to install advanced equipment upgrades, I should bring them back to him if I find any.</text>
 	</string>
-	<string id="igi_task_text_bar_visitors_stalker_mechanic_2_job_descr">
+	<string id="igi_task_text_bar_visitors_stalker_mechanic_fetch_itm_advancedkit_job_descr">
 		<text>I'm starting to get a little ambitious after what you brought me last time. Those tools you brought before will last me ages, what I'm on the lookout for at the moment is something more advanced. So, how about it?</text>
 	</string>
-	<string id="igi_task_text_bar_visitors_stalker_mechanic_2_fetch_job_descr">
-		<text>Ah, you will? Brilliant! I can almost feel the cold, hard metal in my hands already.</text>
-	</string>
-	<string id="igi_task_text_bar_visitors_stalker_mechanic_2_fetch_finish">
+	<string id="igi_task_text_bar_visitors_stalker_mechanic_fetch_itm_advancedkit_finish">
 		<text>Wow, you did it! Hahaha! Am I shaking? I'm shaking!</text>
 	</string>
-	<string id="igi_task_text_bar_visitors_stalker_mechanic_3_title">
+	<string id="igi_task_text_bar_visitors_stalker_mechanic_fetch_itm_expertkit_title">
 		<text>Find Expert tools for Mangun</text>
 	</string>
-	<string id="igi_task_text_bar_visitors_stalker_mechanic_3_descr">
+	<string id="igi_task_text_bar_visitors_stalker_mechanic_fetch_itm_expertkit_descr">
 		<text>Expert tools are required by Mangun to install expert equipment upgrades, I should bring them back to him if I find any.</text>
 	</string>
-	<string id="igi_task_text_bar_visitors_stalker_mechanic_3_job_descr">
+	<string id="igi_task_text_bar_visitors_stalker_mechanic_fetch_itm_expertkit_job_descr">
 		<text>I can't believe what you've done for me, stalker! Even some of the neutrals around here are coming to me for upgrades now! But I know, in my heart, I'm not doing as well as I could. If only I had some better tools... Listen, stalker. Bring me some expert-level tools, and I'll be in your debt. I could make your shooter into a masterpiece! I can't upgrade your stuff for free, of course, but I'll think of some way I can return the favour.</text>
 	</string>
-	<string id="igi_task_text_bar_visitors_stalker_mechanic_3_fetch_job_descr">
-		<text>Thanks, stalker. I'll be sure to let the General know about this if you succeed.</text>
-	</string>
-	<string id="igi_task_text_bar_visitors_stalker_mechanic_3_fetch_finish">
+	<string id="igi_task_text_bar_visitors_stalker_mechanic_fetch_itm_expertkit_finish">
 		<text>A Dutyer's word is their bond. Are you a learned mechanic? If not, maybe I can show you a trick or two for maintaining your gear out in the field.</text>
 	</string>
-	
-	
+
+
 	<!-- Barkeep -->
 	<string id="igi_task_text_bar_visitors_barman_stalker_trader_1_title">
 		<text>Find the Artefact</text>
@@ -199,7 +190,7 @@
 	<string id="igi_task_text_bar_visitors_barman_stalker_trader_1_fetch_finish">
 		<text>Well done, stalker. Here is your reward.</text>
 	</string>
-	
+
 	<string id="igi_task_text_bar_visitors_barman_stalker_trader_bs_kill_stalker_nearby_title">
 		<text>Kill the Stalker</text>
 	</string>
@@ -212,7 +203,7 @@
 	<string id="igi_task_text_bar_visitors_barman_stalker_trader_bs_kill_stalker_nearby_finish">
 		<text>Here is your money, just don't get carried away with murdering too much.</text>
 	</string>
-	
+
 	<string id="igi_task_text_bar_visitors_barman_stalker_trader_bs_assault_monster_online_title">
 		<text>Destroy the Mutants</text>
 	</string>
@@ -225,10 +216,10 @@
 	<string id="igi_task_text_bar_visitors_barman_stalker_trader_bs_assault_monster_online_finish">
 		<text>Sweet vengeance. Good work, here's the money.</text>
 	</string>
-	
+
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Barkeep (Loner Trader) New Tasks -->
-	
+
 	<string id="igi_task_text_bar_visitors_barman_stalker_trader_4_title">
 		<text>Bring Barkeep an Artefact </text>
 	</string>
@@ -244,7 +235,7 @@
 	<string id="igi_task_text_bar_visitors_barman_stalker_trader_4_fetch_finish">
 		<text>Atta boy. Here's your payment.</text>
 	</string>
-	
+
 	<string id="igi_task_text_bar_visitors_barman_stalker_trader_bs_return_document_from_stash_title">
 		<text>Capture Encrypted Documents</text>
 	</string>
@@ -271,7 +262,7 @@
 	<string id="igi_task_text_bar_dolg_medic_bs_fetch_drugkit_finish">
 		<text>Heh, about time! Rostok's going to thank you for this, mark my words.</text>
 	</string>
-	
+
 <!-- Snitch (100 Rads) -->
 	<string id="igi_task_text_top_10_title">
 		<text>Toppers: #$num. $name</text>

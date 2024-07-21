@@ -1,0 +1,24 @@
+{
+	"preconditions": [
+		"bs_actions.next_toolkit([CACHE.task_giver_id])"
+	],
+	"entities": [
+	{
+	"entity_type":"item",
+	"target":"fetch",
+	"section_name":"&bs_actions.next_toolkit([CACHE.task_giver_id])&",
+	"amount": 1,
+	"where":"anywhere",
+	"link_id": "toolkit"
+	}
+	],
+	"on_complete": [
+		"bs_actions.give_toolkit_info([CACHE.task_giver_id], '[toolkit.section_name]')"
+	],
+	"quest_givers": [
+		{"Mechanic": true}
+	],
+	"description_key": "fetch_[toolkit.section_name]",
+	"icon": "ui_inGame2_Instrumenti",
+	"repeat_timeout": 0
+}

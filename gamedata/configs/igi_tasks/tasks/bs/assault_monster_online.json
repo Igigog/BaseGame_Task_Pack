@@ -11,7 +11,7 @@
 
 		{
 			"entity_type": "location",
-			"id": "[squad:current_target_id]",
+			"id": "&alife():object([squad.id]).current_target_id&",
 			"target": "assault"
 		}
 	],
